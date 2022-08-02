@@ -1,17 +1,15 @@
 ---
-title: My Very Good Games
+title: My Outer Sphere
 type: docs
 ---
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext drafts into a website.
+# An Outer Sphere of Thoughts
 
-You can install this website as an app, it's a fully functional PWA!
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+I'm Nico, a writer of mostly Tabletop RPG things. I've made several things, for examples two epistolary games games which you may find in anthologies [here](https://far-horizons-co-op.itch.io/sgd8) and [here](https://far-horizons-co-op.itch.io/anthology-2-1).
 
-1. [Picaroons as a multi-page project](/games/picaroons)
-2. [Picaroons as a single-page project](/games/picaroons-sp)
+Although my tastes changed some time after that and now I mostly write things ***for*** games than things that want to be ***games***.
 
-You can also checkout the blog via the menu or [this link](/posts).
+You can find one of them in the Violence Collection at the Spearwitch store [here](https://spearwitch.com/products/violence-collection).
 
-While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
+I'll be posting even more things in my [blog](/posts) entries!
