@@ -5,6 +5,7 @@ type: docs
 
 # An Outer Sphere of Thoughts
 
+---
 
 I'm Nico, a writer of mostly Tabletop RPG things. I've made several things, for examples two epistolary games games which you may find in anthologies [here](https://far-horizons-co-op.itch.io/sgd8) and [here](https://far-horizons-co-op.itch.io/anthology-2-1).
 
