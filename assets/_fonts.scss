@@ -1,0 +1,17 @@
+// Import Fonts
+@import url("https://gitlab.com/velvetyne/Avara/-/raw/master/fonts/Avara-Bold.otf");
+@import url("https://github.com/antonmoglia/Paysage-formerly-garcia-/raw/master/fonts/GARCIA-Regular.otf");
+// Set Titles to Merriweather and Body to Spectral
+
+body {
+  font-family: "Garcia", sans-serif;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Avara", serif;
+  }
+}
