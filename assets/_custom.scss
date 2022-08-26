@@ -269,7 +269,7 @@ aside nav ul li:hover {
 }
 aside nav ul a {
   display: block;
-  color: var(--brown);
+  color: white;
 }
 aside nav ul a:hover {
   opacity: 1;
@@ -430,7 +430,7 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
 }
 .book-toc nav > ul > li:first-child {
   margin-top: 0;
-  background-color: #907F9F;
+  // background-color: #907F9F;
 }
 .book-footer {
   padding-top: 1rem;
