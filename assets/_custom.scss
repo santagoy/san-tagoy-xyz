@@ -263,13 +263,17 @@ aside nav ul li {
   padding: 10px 15px;
   border-radius: 10px;
 }
+aside nav ul li:hover {
+  opacity: 1;
+  background-color: var(--purple);
+}
 aside nav ul a {
   display: block;
-  color: #fffbff;
-  padding-left: 15px;
+  color: var(--brown);
 }
 aside nav ul a:hover {
-  filter: saturate(1);
+  opacity: 1;
+  font-weight: bold;
 }
 aside nav ul ul {
   padding-inline-start: 1rem;
@@ -320,7 +324,7 @@ ul.pagination .page-item a {
   word-wrap: break-word;
 }
 .book-menu a.active {
-  color: var(--color-link);
+  color: var(--darkpurple);
 }
 .book-menu input.toggle + label + ul {
   display: none;
@@ -341,7 +345,8 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
   content: '▾';
 }
 .book-section-flat {
-  margin: 2rem 0;
+  margin: 1rem 0;
+  color: white;
 }
 .book-section-flat > a,
 .book-section-flat > span,
@@ -425,6 +430,7 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
 }
 .book-toc nav > ul > li:first-child {
   margin-top: 0;
+  background-color: #907F9F;
 }
 .book-footer {
   padding-top: 1rem;
@@ -755,6 +761,7 @@ body h6 {
 }
 .markdown .book-tabs input[type='radio']:checked + label {
   border-bottom: 1px solid var(--color-link);
+  background-color: var(--purple);
 }
 .markdown .book-tabs input[type='radio']:checked + label + .book-tabs-content {
   display: block;
@@ -763,6 +770,7 @@ body h6 {
   outline-style: auto;
   outline-color: currentColor;
   outline-color: -webkit-focus-ring-color;
+  background-color: var(--darkpurple);
 }
 .markdown .book-columns {
   margin-left: -1rem;
