@@ -1,3 +1,28 @@
+@font-face {
+  font-family: 'Avara';
+  src: url('/static/fonts/Avara-Bold.woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Paysage';
+  src: url('/static/fonts/Paysage-Regular.woff');
+  font-weight: normal;
+}
+
+body {
+  font-family: 'Paysage';
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Avara';
+  }
+}
+
 :root {
   --purple:#8D5A97;
   --lightpurple: #907F9F;
