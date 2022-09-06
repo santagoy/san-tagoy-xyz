@@ -158,8 +158,11 @@ template {
 [hidden] {
   display: none;
 }
-.flex {
+.flex,.flex-row {
   display: flex;
+}
+.flex-row {
+  flex-direction: row;
 }
 .flex-auto {
   flex: auto;
@@ -272,7 +275,6 @@ aside nav ul a {
 }
 aside nav ul a:hover {
   opacity: 1;
-  // background-color: #907F9F;
 }
 aside nav ul ul {
   padding-inline-start: 1rem;
