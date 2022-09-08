@@ -246,6 +246,8 @@ body {
   min-width: 20rem;
   color: var(--body-font-color);
   background: var(--body-background);
+  background-image: url("/static/White\ Noise\ Corner.png");
+  background-origin: border-box;
   letter-spacing: 0.33px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
