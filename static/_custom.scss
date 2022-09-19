@@ -158,8 +158,11 @@ template {
 [hidden] {
   display: none;
 }
-.flex {
+.flex,.flex-row {
   display: flex;
+}
+.flex-row {
+  flex-direction: row;
 }
 .flex-auto {
   flex: auto;
@@ -185,6 +188,10 @@ template {
 .align-center {
   align-items: center;
 }
+.icons {
+
+}
+
 .mx-auto {
   margin: 0 auto;
 }
@@ -220,7 +227,7 @@ html {
 body {
   min-width: 20rem;
   color: var(--body-font-color);
-  background: var(--body-background);
+  background-image: url(/static/White\ Noise\ Corner.png);
   letter-spacing: 0.33px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
@@ -272,7 +279,6 @@ aside nav ul a {
 }
 aside nav ul a:hover {
   opacity: 1;
-  // background-color: #907F9F;
 }
 aside nav ul ul {
   padding-inline-start: 1rem;

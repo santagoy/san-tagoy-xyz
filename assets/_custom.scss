@@ -1,3 +1,28 @@
+@font-face {
+  font-family: "Avara";
+  src: url("/fonts/Avara-Bold.woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Paysage";
+  src: url("/fonts/Paysage-Regular.woff");
+  font-weight: normal;
+}
+
+body {
+  font-family: "Paysage";
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Avara";
+  }
+}
+
 :root {
   --purple:#8D5A97;
   --lightpurple: #907F9F;
@@ -221,6 +246,8 @@ body {
   min-width: 20rem;
   color: var(--body-font-color);
   background: var(--body-background);
+  background-image: url("/static/White\ Noise\ Corner.png");
+  background-origin: border-box;
   letter-spacing: 0.33px;
   font-weight: 400;
   text-rendering: optimizeLegibility;

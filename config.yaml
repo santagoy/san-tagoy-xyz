@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 # Update to your own settings for URL/title
-baseURL: https://platen-template.netlify.app/
-title: Platen Example
+baseURL: https://san-tagoy.xyz/
+title: san tagoy
 # Google Analytics: uncomment and replace with your own code if you want to use this
 # googleAnalytics: G-123ABC456D
 
@@ -28,7 +28,7 @@ markup:
         block: true
   tableOfContents:
     startLevel: 1
-    endLevel: 4
+    endLevel: 5
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -39,6 +39,8 @@ languages:
     languageName: English
     contentDir: content
     weight: 1
+
+
 
 menu:
   # before: []
@@ -52,7 +54,7 @@ params:
 
   # Use this for the social media preview functionality
   # images:
-  #   - /images/site-feature-image.png
+  #   - /icons/instagram-icon.svg
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
@@ -63,11 +65,11 @@ params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC: true
+  BookToC: false
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
-  # BookLogo: /logo.png
+  BookLogo: /icons/site-logo.png
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
@@ -122,4 +124,4 @@ params:
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  BookTranslatedOnly: false
+  BookTranslatedOnly: true
