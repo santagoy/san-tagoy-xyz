@@ -46,7 +46,7 @@ html {
 }
 body {
   margin: 0;
-
+  padding-top: 50px;
 }
 main {
   display: block;
@@ -350,6 +350,7 @@ ul.pagination .page-item a {
   position: fixed;
   top: 0;
   bottom: 0;
+  margin-top: 50px;
   overflow-x: hidden;
   overflow-y: auto;
 }
