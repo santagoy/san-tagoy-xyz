@@ -56,6 +56,10 @@ main {
   // background-origin: border-box;
   // background-size: 200px 200px;
 }
+div.book-menu-content nav > ul:not([class^="book"]) {
+  // margin-bottom: 1em;
+  margin-top: 2.5em;
+}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -361,7 +365,7 @@ ul.pagination .page-item a {
   word-wrap: break-word;
 }
 .book-menu a.active {
-  color: var(--darkpurple);
+  color: white;
 }
 .book-menu input.toggle + label + ul {
   display: none;
