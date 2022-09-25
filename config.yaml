@@ -42,12 +42,12 @@ languages:
 
 
 
-menu:
-  # before: []
-  after:
-    - name: "Theme Docs/Demo"
-      url: "https://hugo-book-demo.netlify.app/"
-      weight: 10
+# menu:
+#   # before: []
+#   after:
+#     - name: "Theme Docs/Demo"
+#       url: "https://hugo-book-demo.netlify.app/"
+#       weight: 10
 
 params:
   description: My site description.
