@@ -860,3 +860,15 @@ body {
       padding-top: 5rem;
   }
 }
+.book-toc-content {
+  margin-top: 50px;
+  }
+  
+  .book-toc, .book-section-flat, #TableOfContents ul li {
+    font-weight: bold;
+    background-color: transparent;
+  }
+  
+  .book-toc, .book-section-flat, #TableOfContents ul li a {
+    color: var(--darkpurple);
+  }
