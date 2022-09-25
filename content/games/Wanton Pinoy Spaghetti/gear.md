@@ -3,6 +3,7 @@ title: Gear
 date: 2022-09-25
 summary: A non-comprehensive list of gear
 bookCollapseSection: false
+weight: 20
 ---
 
 ## Blades

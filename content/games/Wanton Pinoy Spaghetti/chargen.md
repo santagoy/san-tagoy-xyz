@@ -3,6 +3,7 @@ title: Making a Character
 date: 2022-09-25
 summary: Character Creation
 bookCollapseSection: false
+weight: 10
 ---
 
 Think of a character concept. Who are they in this time in history? A foreigner? A local? Regardless, they (and now by extension you) are in consistent company with a group of companions.
