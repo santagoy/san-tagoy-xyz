@@ -31,7 +31,7 @@ body {
   --color-link: #9F1900;
   --color-visited-link: #9F1900;
   --body-background: #907F9F;
-  --bg-image: url("/bg-texture.png");
+  --bg-image: url("/images/bg-texture.png");
   --body-font-color: #33261D;
   --icon-filter: brightness(0) invert(1);
   --hint-color-info: #6bf;
@@ -42,19 +42,24 @@ body {
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-
 }
-body {
-  margin: 0;
 
+
+.book-brand > a > img {
+  height: auto;
+  width: 200px;
 }
+
 main {
   display: block;
-  background: var(--bg-image) no-repeat;
-  background-position: top right;
-  background-color: var(--body-background);
-  background-origin: border-box;
-  background-size: 200px 200px;
+  background-color: transparent;
+
+  // background-color: transparent;
+
+}
+div.book-menu-content nav > ul:not([class^="book"]) {
+  // margin-bottom: 1em;
+  margin-top: 2.5em;
 }
 h1 {
   font-size: 2em;
@@ -292,16 +297,16 @@ aside nav ul {
   list-style: none;
 }
 aside nav ul li {
-  margin: 1em 0;
+  margin: 0.2em 0;
   position: relative;
-  background-color: var(--darkpurple);
-  color: #fffbff;
+  background-color: var(--darkpurple); //sidebar tab bg
+  color: #fffbff; //sidebar tab textcolor
   padding: 10px 15px;
   border-radius: 10px;
 }
 aside nav ul li:hover {
   opacity: 1;
-  background-color: var(--purple);
+  background-color: var(--darkpurple); //sidebar tab bg on hover
 }
 aside nav ul a {
   display: block;
@@ -350,6 +355,7 @@ ul.pagination .page-item a {
   position: fixed;
   top: 0;
   bottom: 0;
+  margin-top: 50px;
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -360,7 +366,7 @@ ul.pagination .page-item a {
   word-wrap: break-word;
 }
 .book-menu a.active {
-  color: var(--darkpurple);
+  color: white;
 }
 .book-menu input.toggle + label + ul {
   display: none;
@@ -381,13 +387,14 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
   content: '▾';
 }
 .book-section-flat {
-  margin: 1rem 0;
+  margin: 0 0;
   color: white;
 }
 .book-section-flat > a,
 .book-section-flat > span,
 .book-section-flat > label {
   font-weight: bolder;
+
 }
 .book-section-flat > ul {
   padding-inline-start: 0;
@@ -395,14 +402,14 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
 .book-page {
   min-width: 20rem;
   flex-grow: 1;
-  padding: 1rem;
+  padding: 0rem;
 }
 .book-post {
   margin-bottom: 3rem;
 }
 .book-header {
   display: none;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 .book-header label {
   line-height: 0;
@@ -841,4 +848,15 @@ body h6 {
 .markdown .book-hint.danger {
   border-color: #f66;
   background-color: rgba(255, 102, 102, 0.1);
+}
+
+body {
+  background-image: var(--bg-image);
+  background-attachment: fixed;
+  background-position: top right;
+  background-size: 25%;
+  background-repeat: no-repeat;
+  @media(min-width: 897px) {
+      padding-top: 5rem;
+  }
 }
