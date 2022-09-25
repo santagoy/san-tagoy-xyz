@@ -1,6 +1,7 @@
 ---
 title: My Outer Sphere
 type: docs
+bookToc: false
 ---
 
 # An Outer Sphere of Thoughts
