@@ -31,7 +31,7 @@ body {
   --color-link: #9F1900;
   --color-visited-link: #9F1900;
   --body-background: #907F9F;
-  --bg-image: url("/bg-texture.png");
+  --bg-image: url("/images/bg-texture.png");
   --body-font-color: #33261D;
   --icon-filter: brightness(0) invert(1);
   --hint-color-info: #6bf;
@@ -42,12 +42,8 @@ body {
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
+}
 
-}
-body {
-  margin: 0;
-  padding-top: 50px;
-}
 
 .book-brand > a > img {
   height: auto;
@@ -56,11 +52,10 @@ body {
 
 main {
   display: block;
-  // background: var(--bg-image) no-repeat;
-  // background-position: top right;
-  // background-color: var(--body-background);
-  // background-origin: border-box;
-  // background-size: 200px 200px;
+  background-color: transparent;
+
+  // background-color: transparent;
+
 }
 div.book-menu-content nav > ul:not([class^="book"]) {
   // margin-bottom: 1em;
@@ -853,4 +848,15 @@ body h6 {
 .markdown .book-hint.danger {
   border-color: #f66;
   background-color: rgba(255, 102, 102, 0.1);
+}
+
+body {
+  background-image: var(--bg-image);
+  background-attachment: fixed;
+  background-position: top right;
+  background-size: 25%;
+  background-repeat: no-repeat;
+  @media(min-width: 897px) {
+      padding-top: 5rem;
+  }
 }
