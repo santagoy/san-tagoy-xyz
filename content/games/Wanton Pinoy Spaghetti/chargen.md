@@ -57,7 +57,7 @@ All players start with the following:
 - a Hunting Knife **or** _Balisong_
 - 3 days worth of rations
 - Water Canteen
-- 30 Pesos to buy miscellaneous [items](/gear.md) or to keep
+- 30 Pesos to buy miscellaneous [items](/gear.md) or to keep
 - The clothes on your back
 
 ## Luck
