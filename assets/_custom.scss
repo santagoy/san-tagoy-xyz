@@ -48,6 +48,12 @@ body {
   margin: 0;
   padding-top: 50px;
 }
+
+.book-brand > a > img {
+  height: auto;
+  width: 200px;
+}
+
 main {
   display: block;
   // background: var(--bg-image) no-repeat;
@@ -296,16 +302,16 @@ aside nav ul {
   list-style: none;
 }
 aside nav ul li {
-  margin: 1em 0;
+  margin: 0.2em 0;
   position: relative;
-  background-color: var(--darkpurple);
-  color: #fffbff;
+  background-color: var(--darkpurple); //sidebar tab bg
+  color: #fffbff; //sidebar tab textcolor
   padding: 10px 15px;
   border-radius: 10px;
 }
 aside nav ul li:hover {
   opacity: 1;
-  background-color: var(--purple);
+  background-color: var(--darkpurple); //sidebar tab bg on hover
 }
 aside nav ul a {
   display: block;
@@ -386,13 +392,14 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
   content: '▾';
 }
 .book-section-flat {
-  margin: 1rem 0;
+  margin: 0 0;
   color: white;
 }
 .book-section-flat > a,
 .book-section-flat > span,
 .book-section-flat > label {
   font-weight: bolder;
+
 }
 .book-section-flat > ul {
   padding-inline-start: 0;
@@ -400,14 +407,14 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
 .book-page {
   min-width: 20rem;
   flex-grow: 1;
-  padding: 1rem;
+  padding: 0rem;
 }
 .book-post {
   margin-bottom: 3rem;
 }
 .book-header {
   display: none;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 .book-header label {
   line-height: 0;
