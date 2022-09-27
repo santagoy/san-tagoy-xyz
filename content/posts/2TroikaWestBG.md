@@ -10,16 +10,16 @@ menu:
 title: 1d2 Heretical Troika Backgrounds
 ---
 
-Troika backgrounds with a blasphemous flair in an acid west kind of place. This is not the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and, of course, the people granted absolute power by that system.
+Troika backgrounds with a blasphemous flair in an acid west kind of place. This isn't the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and the people granted absolute power by that system.
 
 I'll release more things like this in the future.
 
 # Character Creation
 
 1. Choose a Background from the five below! You are with everything they already have and even may have.
-2. Roll 1d4+3 to determine Skill.
-3. Roll 2d6+12 to determine Stamina.
-4. Roll 1d6+6 to determine Luck.
+2. Roll 1d4+3 for Skill.
+3. Roll 2d6+12 for Stamina.
+4. Roll 1d6+6 for Luck.
 5. Record Baseline Possessions that every new character starts with: *d66 silver, a big iron on your hip, 24 revolver bullets, a knife, flint & steel, a rucksack, 10 days worth of rations.*
 
 # The Backgrounds
@@ -61,7 +61,7 @@ Advanced Skills & Spells:
 1 Sickle Fighting
 
 Special:
-In exchange for eternal servitude post-vengeance, you have a pact with a powerful, unfathomable entity. The corruption has warped your body: your blood is now Faithsbane and will poison any believer or clergyman from *that* Church. Additionally, there is a 2-in-6 chance you begin with 1 random mutation:
+In exchange for eternal servitude post-vengeance, you have a pact with a powerful, unfathomable entity. The corruption has warped your body: your blood is now Faithsbane and poisons any believer or clergyman from *that* Church. Additionally, there is a 2-in-6 chance you begin with 1 random mutation:
 
 | 1d6 | Mutation                                                      |
 |:---:| ------------------------------------------------------------- |
