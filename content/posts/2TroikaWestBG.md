@@ -1,6 +1,6 @@
 ---
 author: Nico Santagoy
-date: 2022-09-28
+date: 2022-09-27
 linktitle: 1d2 Heretical Troika Backgrounds
 menu:
   main:
@@ -8,9 +8,7 @@ menu:
 # next: /posts/shortcodes
 # prev: /posts/post-name
 title: 1d2 Heretical Troika Backgrounds
-weight: 10
 ---
-
 
 Troika backgrounds with a blasphemous flair in an acid west kind of place. This is not the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and, of course, the people granted absolute power by that system.
 
