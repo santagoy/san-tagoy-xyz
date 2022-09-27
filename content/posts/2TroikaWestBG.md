@@ -12,7 +12,7 @@ title: 1d2 Heretical Troika Backgrounds
 
 Troika backgrounds with a blasphemous flair in an acid west kind of place. This isn't the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and the people granted absolute power by that system.
 
-I'll release more things like this in the future.
+> *I'll release more things like this in the future.*
 
 # Character Creation
 
@@ -26,26 +26,27 @@ I'll release more things like this in the future.
 
 ## 1 Reformed Church-goer
 
-Once an avid connoisseur of imagined paradises in post-death immortality and belligerent denier of earthly delights. Now, you would rather imagine yourself burning down under (not Oseanya). Speaking of burning, the Inquisition persists in their hunt. Unfortunately for them, retribution is a two-way street.
+Once an avid connoisseur of imagined paradises in post-death and belligerent denier of earthly delights. Now, you would rather imagine yourself burning down under (not Oseanya). On burning, the Inquisition persists in their hunt. Unfortunately for them, retribution is a two-way street.
 
 Possessions:
 
 - 5 empty wine bottles
-- 3.5 liters of a homemade flammable substance
+- 3.5 liters of accelerant
 - 5 dry rags
 - a bullet-stopping holy book
 
-Advanced Skills & Spells:
-3 Sneak
-2 Spell - Assassin's Dagger
-2 Chemistry
-2 Medicine
-2 Pistol Fighting
-1 Athletics
+Advanced Skills and Spells:
+
+- 3 Sneak
+- 2 Spell - Assassin's Dagger
+- 2 Chemistry
+- 2 Medicine
+- 2 Pistol Fighting
+- 1 Athletics
 
 ## 2 Secular Survivor
 
-The Greater Church's forces were zealously thorough in the systemic culling of all native people of the cloth. Nationalism? Independence? Perish the thought. Yet you remain among the inheritors' of your fallen brothers' will. Doubtful, however, that their will includes contracts with a false idol, some otherworldly conceptual existence from beyond.
+The Greater Church's forces were zealously thorough in the systemic culling of all natives of the cloth. Nationalism? Independence? Perish the thought. Yet you remain among the inheritors' of your fallen comrades' will. Doubtful, however, that their will includes contracts with a false idol, an otherworldly conceptual existence.
 
 Possessions:
 
@@ -53,12 +54,13 @@ Possessions:
 - symbolic carpenter's hammer
 - tattoo of eldritch agreement
 
-Advanced Skills & Spells:
-4 Healing
-3 Language (a dead one)
-3 Spell - Read Entrails
-1 Language (a forbidden one)
-1 Sickle Fighting
+Advanced Skills and Spells:
+
+- 4 Healing
+- 3 Language (dead)
+- 3 Spell - Read Entrails
+- 1 Language (forbidden)
+- 1 Sickle Fighting
 
 Special:
 In exchange for eternal servitude post-vengeance, you have a pact with a powerful, unfathomable entity. The corruption has warped your body: your blood is now Faithsbane and poisons any believer or clergyman from *that* Church. Additionally, there is a 2-in-6 chance you begin with 1 random mutation:
