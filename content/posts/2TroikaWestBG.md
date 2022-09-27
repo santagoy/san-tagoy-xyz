@@ -16,7 +16,7 @@ Troika backgrounds with a blasphemous flair in an acid west kind of place. This 
 
 # Character Creation
 
-1. Choose a Background from the five below! You are with everything they already have and even may have.
+1. Choose a Background from the two below! You are with everything they already have and even may have.
 2. Roll 1d4+3 for Skill.
 3. Roll 2d6+12 for Stamina.
 4. Roll 1d6+6 for Luck.
