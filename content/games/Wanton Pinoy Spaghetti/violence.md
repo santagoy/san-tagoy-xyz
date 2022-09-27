@@ -6,6 +6,8 @@ bookCollapseSection: false
 weight: 30
 ---
 
+> Based on [Luke Gearing's Violence](https://lukegearing.blot.im/violence)!
+
 ## Initiative
 
 Roll a d20 for each individual or group involved in the combat. Write these down and resolve, highest first.
