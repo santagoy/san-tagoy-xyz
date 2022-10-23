@@ -1,7 +1,7 @@
 ---
 author: Nico Santagoy
 date: 2022-09-27
-linktitle: 1d2 Heretical Troika Backgrounds
+linktitle: Heretical Troika BG
 menu:
   main:
     parent: ttrpgs
