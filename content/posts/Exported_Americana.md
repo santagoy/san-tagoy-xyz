@@ -1,6 +1,6 @@
 ---
 author: Nico Santagoy
-date: 2022-11-11
+date: 2022-11-10
 linktitle: Exported Americana
 menu:
   main:
