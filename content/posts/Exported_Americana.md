@@ -67,7 +67,7 @@ The entire facility goes dark as all CCTV footage corrupts. An EMP Shock disable
 
 A high-ceiling hall with clues of a café rest collapsed in one of the corners. When facing the stairs, a large grid of windows provides on with a view of Manila Bay and Roxas Boulevard. The neo-classical architecture hint at grandness. All lost in the noise of war.
 
-![custom map](images/export-americana/Z-Soda-GroundFloor.png "Z-Soda Museum Ground Floor")
+![custom map](/images/export-americana/Z-Soda-GroundFloor.png "Z-Soda Museum Ground Floor")
 
 ##### 1. ENTRANCE
 
@@ -89,7 +89,7 @@ An even larger staircase than the one outside leads further into the museum, but
 
 Once the grand exhibit room for Z-Soda Museum. They're history as a company and their endeavors in the country were all documented here at one point. Now here: The worn-away wallpaper, manufactured to have a texture akin to Z-Soda cans, bear a paisley pattern of fractal Z's. Scattered between *7a* and *7b* are animatronic polar bears and a cold skeleton of what was once a Santa Claus. A faint smell of burnt cables pervades.
 
-![custom map](images/export-americana/Z-Soda-Basement1.png "Z-Soda Museum Basement 1")
+![custom map](/images/export-americana/Z-Soda-Basement1.png "Z-Soda Museum Basement 1")
 
 ##### 4. General Assembly Hall
 
@@ -121,7 +121,7 @@ The sole entrance/exit to the Basement level below.
 
 Where the magic (i.e. the vast amount of non-addictive narcotics in the Kapitol Wasteland) happens. Various automated mechanical arms and mannequins set about their tasks 24/7 to fuel the demand. Clearly every single mechanism here originates from somewhere in the museum or in the nearby amusement park. However, These don't appear jury-rigged in the slightest, in fact, everything here is precision machined. A gas mask for organics is required before entry due to the chemical fumes.
 
-![custom map](images/export-americana/Z-Soda-Basement2.png "Z-Soda Museum Basement 2")
+![custom map](/images/export-americana/Z-Soda-Basement2.png "Z-Soda Museum Basement 2")
 
 ##### 10. Formerly the Employee Bathroom
 Now it houses the cleaning chemicals for the factory, separated from the production chemicals in **Room 13.**
