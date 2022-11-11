@@ -17,11 +17,13 @@ tags:
   - magic system
   - worldbuilding
   - living content
+images:
+  - /images/the-traditions/traditions-front-image.jpg
 ---
 
 # The Traditions?
 
-As many as there are Spheres of Afterlife. Some are bound to specific spheres while other access multiple. No, you can't travel to these spheres at the moment, at least while alive. Yes, many have tried and died—their attempts often done while high on vanity. You must not succumb to such temptations. I pass this knowledge unto you with that hope alone. You've trained enough to perceive the veil and, while more training is required to manipulate it adeptly, I trust that these Spells are well within your power to enact.
+As many as there are Spheres of Afterlife. Every Tradition draws from a Sphere or multiple. No, you can't travel to these Spheres at the moment, at least while alive. Yes, many have tried and died—their attempts done while high on vanity. You must not succumb to such temptations. I pass this knowledge unto you with that hope alone. You've trained enough to perceive the veil and, while more training is required to manipulate it adeptly, I trust that these Spells are well within your power to enact.
 
 ## Undeadery
 
