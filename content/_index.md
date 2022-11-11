@@ -4,18 +4,16 @@ type: docs
 bookToc: false
 ---
 
-# An Outer Sphere of Thoughts
+# Nico's Dreaded Portfolio
 
 ---
 
-I'm Nico, a writer of mostly Tabletop RPG things. I've made several things, for examples two epistolary games which you may find in anthologies [here](https://far-horizons-co-op.itch.io/sgd8) and [here](https://far-horizons-co-op.itch.io/anthology-2-1).
+## Marketing is insidious, which is why I made this site: partly for marketing myself.
 
-Although my tastes changed some time after that and now I mostly write things for ***play*** than things that want to be ***games***.
+I used to design games, now I write them. Am I a writer? I'd like to be one. I'd like to be many things, like a collage artist or a writer of Tabletop RPG *things*.
 
-You can find one of them in the Violence Collection at the Spearwitch store [here](https://spearwitch.com/products/violence-collection).
+Besides writing, I designed a number of games: [**Letters of the Sky (2021)**](https://far-horizons-co-op.itch.io/sgd8) and [**The Moment Phantasm (2022)**](https://far-horizons-co-op.itch.io/anthology-2-1). Both epistolary games published in anthologies by The Far Horizons Cooperative.
 
-I'll be posting even more things in my [blog](/posts) entries!
+On things I've actually written in the Tabletop RPG scene, there's [**Blessed Art Thou (2022)**](https://spearwitch.com/products/violence-collection) also published in an anthology.
 
-I'm still setting things up here, but I'll have multiple avenues where you can tip me for my work on the hobby.
-
-Thank you and I hope you enjoy your stay here!
+Now this ***portfolio*** will serve as the medium by which I will tear down the barriers guarding the attention economy. Witness my progress from poor barely passable writing to actually competent works!
