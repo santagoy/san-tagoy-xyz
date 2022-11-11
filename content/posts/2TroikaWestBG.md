@@ -5,9 +5,16 @@ linktitle: Heretical Troika BG
 menu:
   main:
     parent: ttrpgs
-# next: /posts/shortcodes
-# prev: /posts/post-name
 title: 1d2 Heretical Troika Backgrounds
+summary: |
+  Acid West Backgrounds for Troika verging on the Blasphemous!
+categories:
+  - setting
+  - characters
+tags:
+  - Troika!
+  - Writing
+  - Blasphemy
 ---
 
 Troika backgrounds with a blasphemous flair in an acid west kind of place. This isn't the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and the people granted absolute power by that system.
