@@ -2,8 +2,6 @@
 title: My Outer Sphere
 type: docs
 bookToc: false
-images:
-  - /images/main-image.png
 ---
 
 # Nico's Road to Better Writing
