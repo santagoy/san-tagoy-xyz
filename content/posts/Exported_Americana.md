@@ -6,14 +6,18 @@ menu:
   main:
     parent: ttrpgs
 # next: /posts/shortcodes
-prev: /posts/2TroikaWestBG
+prev: /posts/2TroikaWestBG.md
 title: Fallout-inspired Metro Manila
 summary: |
   An excuse to write zany strangeness. Welcome to the Kapitol Wastes!
 categories:
   - adventure
+tags:
+  - fallout
+  - murder mystery
 images:
   - /images/export-americana/fallout-preview-image.jpg
+type: Post
 ---
 
 > "War. War never changes."
