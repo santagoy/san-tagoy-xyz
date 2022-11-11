@@ -53,8 +53,8 @@ params:
   description: I used to design games, now I write them. Am I a writer? I'd like to be one. I'd like to be many things, like a collage artist or a writer of Tabletop Role-playing Game *things*.
 
   # Use this for the social media preview functionality
-  # images:
-  #   - /icons/instagram-icon.svg
+  images:
+     - /icons/main-image.png
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
