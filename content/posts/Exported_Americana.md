@@ -17,7 +17,6 @@ tags:
   - murder mystery
 images:
   - /images/export-americana/fallout-preview-image.jpg
-type: Post
 ---
 
 > "War. War never changes."
