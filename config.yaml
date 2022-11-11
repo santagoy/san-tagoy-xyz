@@ -51,7 +51,7 @@ params:
 
   # Use this for the social media preview functionality
   images:
-  - /static/images/main-image.png
+  - /resources/_gen/images/feature.png
 
   timeZone: UTC+8 Local PH
   # (Optional, default light) Sets color theme: light, dark or auto.
