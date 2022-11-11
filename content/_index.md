@@ -2,6 +2,8 @@
 title: My Outer Sphere
 type: docs
 bookToc: false
+images:
+  - /images/Poster_Ways Away_Square Ratio_Base.png
 ---
 
 # Nico's Dreaded Portfolio
