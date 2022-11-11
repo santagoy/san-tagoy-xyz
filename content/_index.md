@@ -1,5 +1,5 @@
 ---
-title: My Outer Sphere
+title: Nico's Road to Better Writing
 type: docs
 bookToc: false
 ---
