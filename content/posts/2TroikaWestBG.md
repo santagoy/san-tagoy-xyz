@@ -7,7 +7,7 @@ menu:
     parent: ttrpgs
 title: 1d2 Heretical Troika Backgrounds
 summary: |
-  Acid West Backgrounds for Troika verging on the Blasphemous!
+  Acid West Backgrounds for Troika verging on the blasphemous!
 categories:
   - setting
   - characters
