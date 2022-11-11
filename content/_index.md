@@ -6,13 +6,11 @@ images:
   - /images/main-image.png
 ---
 
-# Nico's Dreaded Portfolio
+# Nico's Road to Better Writing
 
 ---
 
 ## Marketing is insidious, which is why I made this site: partly for marketing myself.
-
-I used to design games, now I write them. Am I a writer? I'd like to be one. I'd like to be many things, like a collage artist or a writer of Tabletop Role-playing Game *things*.
 
 Besides writing, I designed a number of games: [**Letters of the Sky (2021)**](https://far-horizons-co-op.itch.io/sgd8) and [**The Moment Phantasm (2022)**](https://far-horizons-co-op.itch.io/anthology-2-1). Both epistolary games published in anthologies by The Far Horizons Cooperative.
 

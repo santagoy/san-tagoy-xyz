@@ -6,7 +6,6 @@ menu:
   main:
     parent: ttrpgs
 # next: /posts/shortcodes
-prev: /posts/2TroikaWestBG.md
 title: Fallout-inspired Metro Manila 1
 summary: |
   An excuse to write zany strangeness. Welcome to the Kapitol Wastes!
