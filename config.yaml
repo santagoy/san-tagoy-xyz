@@ -50,8 +50,8 @@ params:
   description: "I used to design games, now I write them. Am I a writer? I'd like to be one. I'd like to be many things, like a collage artist or a writer of Tabletop Role-playing Game content."
 
   # Use this for the social media preview functionality
-  # images:
-  # - /resources/_gen/images/feature.png
+  images:
+  - /images/feature.png
 
   timeZone: UTC+8 Local PH
   # (Optional, default light) Sets color theme: light, dark or auto.
