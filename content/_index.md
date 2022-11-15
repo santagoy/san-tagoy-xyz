@@ -20,7 +20,6 @@ Now this ***portfolio*** will serve as the medium by which I will tear down the 
 
 It's Spaghetti Westerns set in Spanish colonial Philippines. All this experienced through the medium of Tabletop RPGs. Imagination and conversation are the essential ingredients to play.
 
-
 <!--
   This is the HTML block you need to insert wherever you want
   your webring to show up. By default, it is displayed exactly
