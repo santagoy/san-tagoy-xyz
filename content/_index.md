@@ -1,21 +1,21 @@
 ---
-title: My Outer Sphere
+title: Nico's Road to Better Writing
 type: docs
 bookToc: false
 ---
 
-# An Outer Sphere of Thoughts
+# Nico's Road to Better Writing
 
 ---
 
-I'm Nico, a writer of mostly Tabletop RPG things. I've made several things, for examples two epistolary games games which you may find in anthologies [here](https://far-horizons-co-op.itch.io/sgd8) and [here](https://far-horizons-co-op.itch.io/anthology-2-1).
+## Marketing is insidious, which is why I made this site: partly for marketing myself.
 
-Although my tastes changed some time after that and now I mostly write things for ***play*** than things that want to be ***games***.
+Besides writing, I designed a number of games: [**Letters of the Sky (2021)**](https://far-horizons-co-op.itch.io/sgd8) and [**The Moment Phantasm (2022)**](https://far-horizons-co-op.itch.io/anthology-2-1). Both epistolary games published in anthologies by The Far Horizons Cooperative.
 
-You can find one of them in the Violence Collection at the Spearwitch store [here](https://spearwitch.com/products/violence-collection).
+On things I've actually written in the Tabletop RPG scene, there's [**Blessed Art Thou (2022)**](https://spearwitch.com/products/violence-collection) also published in an anthology.
 
-I'll be posting even more things in my [blog](/posts) entries!
+Now this ***portfolio*** will serve as the medium by which I will tear down the barriers guarding the attention economy. Witness my progress from poor barely passable writing to actually competent works!
 
-I'm still setting things up here, but I'll have multiple avenues where you can tip me for my work on the hobby.
+## Wait, what is Wanton Pinoy Spaghetti?
 
-Thank you and I hope you enjoy your stay here!
+It's Spaghetti Westerns set in Spanish colonial Philippines. All this experienced through the medium of Tabletop RPGs. Imagination and conversation are the essential ingredients to play.

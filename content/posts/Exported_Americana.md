@@ -6,11 +6,17 @@ menu:
   main:
     parent: ttrpgs
 # next: /posts/shortcodes
-prev: /posts/2TroikaWestBG
-title: Fallout-inspired Metro Manila
+title: Fallout-inspired Metro Manila 1
+summary: |
+  An excuse to write zany strangeness. Welcome to the Kapitol Wastes!
+categories:
+  - adventure
+tags:
+  - fallout
+  - murder mystery
+images:
+  - /images/export-americana/fallout-preview-image.jpg
 ---
-
-An excuse to write zany strangeness.
 
 > "War. War never changes."
 — Ron Perlman, Fallout intros.
