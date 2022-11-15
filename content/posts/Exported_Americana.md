@@ -1,7 +1,7 @@
 ---
 author: Nico Santagoy
 date: 2022-11-10
-linktitle: Exported Americana
+linktitle: Fallout-inspired Metro Manila 1
 menu:
   main:
     parent: ttrpgs
