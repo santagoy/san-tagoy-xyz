@@ -25,7 +25,7 @@ In the year 2050, the extraction of wealth from the former colonies, or "enclave
 
 This hierarchy was a house of cards needing only a gentle breeze for collapse. What was divinely delivered instead was the typhoon of global nuclear annihilation.
 
-## Welcome to the Kapitol Wastes!
+# Welcome to the Kapitol Wastes!
 
 Over hundreds of years since the bombs fell. Humanity persists.
 
