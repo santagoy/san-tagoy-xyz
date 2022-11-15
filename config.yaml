@@ -13,6 +13,7 @@ module:
     - path: github.com/platenio/hugo-platen-netlify
     - path: github.com/platenio/hugo-platen
     - path: github.com/alex-shpak/hugo-book
+    - path: 'github.com/platenio/hugo-toroidal'
 
 # Book configuration
 disablePathToLower: true
@@ -123,3 +124,7 @@ params:
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly: true
+
+  Toroidal:
+    WebringName: 'Thought Breeders'
+    RandomMemberLink: true
