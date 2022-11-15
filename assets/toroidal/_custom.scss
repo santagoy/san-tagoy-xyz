@@ -850,16 +850,6 @@ body h6 {
   background-color: rgba(255, 102, 102, 0.1);
 }
 
-body {
-  background-image: var(--bg-image);
-  background-attachment: fixed;
-  background-position: top right;
-  background-size: 25%;
-  background-repeat: no-repeat;
-  @media(min-width: 897px) {
-      padding-top: 5rem;
-  }
-}
 .book-toc-content {
   margin-top: 50px;
   }
