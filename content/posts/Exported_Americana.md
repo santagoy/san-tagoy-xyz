@@ -75,17 +75,17 @@ A high-ceiling hall with clues of a café rest collapsed in one of the corners. 
 
 ![custom map](/images/export-americana/Z-Soda-GroundFloor.png "Z-Soda Museum Ground Floor")
 
-#### 2.3.1.1 – ENTRANCE
+#### 2.3.1.1 – Entrance
 
 A grand stairway tapers off to the tall doors of Z-Soda Museum. "Z-Soda. It's Zuper!" is etched in a brass sign above the auxiliary inner doors.
 
-#### 2.3.1.2 – CONCIERGE
+#### 2.3.1.2 – Concierge
 
 Flanked by two menacing turrets. All who enter are greeted by three red K's flashed on a large screen and a chipper voice: "Greetings! We, the Katipuneros of this great land need you to state your purpose. Bear only the truth and good intentions lest you be vaporized by our Zap Turrets!"
 
 The leader, the robot named Andres Bonifacio, greets visitors personally.
 
-#### 2.3.1.3 – GRAND ATRIUM
+#### 2.3.1.3 – Grand Atrium
 
 An imposingly high ceiling with a dusty chandelier made of Z-Soda Green Bottles hanging in the center. Every square on the map is an auto-laser turret that blasts all hostiles into dust. Various Z-Soda memorabilia, photographs, and paintings mark the walls.
 
@@ -97,51 +97,51 @@ Once the grand exhibit room for Z-Soda Museum. They're history as a company and 
 
 ![custom map](/images/export-americana/Z-Soda-Basement1.png "Z-Soda Museum Basement 1")
 
-#### 2.3.2.1 – GENERAL ASSEMBLY HALL
+#### 2.3.2.1 – General Assembly Hall
 
 A vast array of CRT screens blast the logo of Protocol Katipunan as a light-volumed national anthem plays in the background. The niches of the walls house metal scrap busts modeled after the famous Katipuneros of yore from Luna to Mabini. It is currently off-limits to all but the inner circle of robot Andres Bonifacio as it was the site of the first murder.
 
-#### 2.3.2.2 – ADMINISTRATOR'S OFFICE
+#### 2.3.2.2 – Administrator's Office
 
 Andres Bonifacio's private office where he commonly hosts meetings with his inner circle. Religiously adorned with anything evoking nationalism with an old-fashioned, sturdy slab of constructed wood meant to be an executive desk in the center adjacent to the door. No one else can enter the office unless Andres is already inside.
 
-#### 2.3.2.3 – EXHIBIT HALL
+#### 2.3.2.3 – Exhibit Hall
 
 Once meant to be an ambitiously designed display of the company's timeline from its inception until what was the relative present at the time of construction. The early 20th century comprised most of what was the timeline.
 
 Now it serves as storage for spare parts.
 
-#### 2.3.2.4 – REPAIR STATIONS
+#### 2.3.2.4 – Repair Stations
 
 These were once the designated location of the animatronic polar bear and Santa Claus attractions. Now they're where the Katipuneros repair and maintain themselves. Also here are entrances/exits to the loading-receiving stations outside of the museum.
 
-#### 2.3.2.5 – GENERAL HALL
+#### 2.3.2.5 – General Hall
 
 Robot Katipuneros off-duty roam the hallways and converse with one another.
 
-#### 2.3.2.6 – ELEVATOR
+#### 2.3.2.6 – Elevator
 
 The sole entrance/exit to the Basement level below.
 
-### 2.3.3 – Basement 1
+### 2.3.3 – Basement
 
 Where the magic (i.e. the vast amount of non-addictive narcotics in the Kapitol Wasteland) happens. Various automated mechanical arms and mannequins set about their tasks 24/7 to fuel the demand. Clearly every single mechanism here originates from somewhere in the museum or in the nearby amusement park. However, These don't appear jury-rigged in the slightest, in fact, everything here is precision machined. A gas mask for organics is required before entry due to the chemical fumes.
 
 ![custom map](/images/export-americana/Z-Soda-Basement2.png "Z-Soda Museum Basement 2")
 
-#### 2.3.3.1 – FORMERLY THE EMPLOYEE BATHROOM
+#### 2.3.3.1 – Formerly The Employee Bathroom
 
 Now it houses the cleaning chemicals for the factory, separated from the production chemicals in **Room 13.**
 
-#### 2.3.3.2 – MANUFACTURING HALL
+#### 2.3.3.2 – Manufacturing Hall
 
 Katipuneros on duty here frequently perform routine check-ups on the machines, resupply the chemicals for automated synthesis, and monitor the status of the mainframe.
 
-#### 2.3.3.3 – THE MAINFRAME
+#### 2.3.3.3 – The Mainframe
 
 One of the most important rooms in the Museum. All of the automation within the building is managed by the mainframe. This includes the lights, the production machines, and the CCTV footage. Only Andres Bonifacio and Santiago Alvarez should have remote access to the server and only he has executive privileges and control of the turrets. The Inner Circle should only have limited permissions in the Mainframe and must be physically present for access.
 
-#### 2.3.3.4 – CHEMICAL STORAGE
+#### 2.3.3.4 – Chemical Storage
 
 Stored here are the entirety of the chemicals needed for narcotic production. A fire in this area would be catastrophic.
 
