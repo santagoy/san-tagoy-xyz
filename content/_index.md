@@ -20,6 +20,7 @@ Now this ***portfolio*** will serve as the medium by which I will tear down the 
 
 It's Spaghetti Westerns set in Spanish colonial Philippines. All this experienced through the medium of Tabletop RPGs. Imagination and conversation are the essential ingredients to play.
 
+
 <!--
   This is the HTML block you need to insert wherever you want
   your webring to show up. By default, it is displayed exactly
@@ -38,7 +39,7 @@ It's Spaghetti Westerns set in Spanish colonial Philippines. All this experience
   The 'allow-scripts' attribute is only required if you are
   using the random member link.
 -->
-<iframe id="toroidal-iframe-fellow-thought-breeders-big-mikey"
+<iframe id="toroidal-iframe-other-cool-folks-nico"
         class="toroidal"
         frameBorder="0"
         allow="layout-animations 'none';
@@ -50,7 +51,7 @@ It's Spaghetti Westerns set in Spanish colonial Philippines. All this experience
         allowfullscreen="false"
         allowpaymentrequest="false"
         sandbox="allow-top-navigation allow-same-origin allow-scripts"
-        src="https://san-tagoy.xyz/toroidal/big-mikey/" >
+        src="https://san-tagoy.xyz/toroidal/san-tagoy/" >
 </iframe>
 
 <!--
@@ -66,8 +67,8 @@ It's Spaghetti Westerns set in Spanish colonial Philippines. All this experience
   // you put it in your site, themed exactly as it is on
   // the host.
   function configureToroidalIframe() {
-    let iframeID = 'toroidal-iframe-fellow-thought-breeders-big-mikey'
-    let navID    = 'toroidal-nav-fellow-thought-breeders'
+    let iframeID = 'toroidal-iframe-other-cool-folks-nico'
+    let navID    = 'toroidal-nav-other-cool-folks'
     let webringIframe = document.getElementById(iframeID);
     if (webringIframe != null) {
       let webringDoc = webringIframe.contentDocument;
