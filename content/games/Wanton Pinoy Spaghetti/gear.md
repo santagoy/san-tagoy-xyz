@@ -46,3 +46,17 @@ weight: 20
 |      Ration      |  2   | *1 day's worth* |
 |      Saddle      |  20  |                 |
 |    *Salakot*     |  5   |                 |
+
+## Beasts of Burden and Livestock
+
+|      Item       | Cost |    Remarks    |
+|:---------------:|:----:|:-------------:|
+|   Poor Horse    |  35  |               |
+|   Fine Horse    |  72  |               |
+|     Carabao     |  20  |               |
+|  Native Cattle  |  40  |               |
+| Imported Cattle |  68  |               |
+|       Pig       |  12  | *breeds fast* |
+|      Goat       |  28  |               |
+|     Chicken     |  8   |               |
+|  Fighting Cock  |  50  |               |
