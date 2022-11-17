@@ -7,13 +7,14 @@ weight: 20
 
 ## Blades
 
-|     Item      | Cost |    Remarks    |
-|:-------------:|:----:|:-------------:|
-|   Balisong    |  5   | *Concealable* |
-| Hunting Knife |  8   |               |
-|     Bolo      |  11  |               |
-|     Kris      |  14  |               |
-|  Cane Sword   |  20  | *Concealable* |
+|      Item      | Cost |    Remarks    |
+|:--------------:|:----:|:-------------:|
+|    Balisong    |  5   | *Concealable* |
+| Throwing Knife |  3   | *Concealable* |
+| Hunting Knife  |  8   |               |
+|      Bolo      |  11  |               |
+|      Kris      |  14  |               |
+|   Cane Sword   |  20  | *Concealable* |
 
 ## Firearms and Accessories
 
