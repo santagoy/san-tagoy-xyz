@@ -1,6 +1,5 @@
 ---
 title: Violence
-date: 2022-09-25
 summary: How to adjudicate violence in Wanton Pinoy Spaghetti
 bookCollapseSection: false
 weight: 30

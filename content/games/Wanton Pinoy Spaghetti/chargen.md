@@ -1,6 +1,5 @@
 ---
 title: Making a Character
-date: 2022-09-25
 summary: Character Creation
 bookCollapseSection: false
 weight: 10
