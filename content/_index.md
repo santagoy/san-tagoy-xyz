@@ -14,7 +14,7 @@ Besides writing, I designed a number of games: [**Letters of the Sky (2021)**](h
 
 On things I've actually written in the Tabletop RPG scene, there's [**Blessed Art Thou (2022)**](https://spearwitch.com/products/violence-collection) also published in an anthology.
 
-Now this ***portfolio*** will serve as the medium by which I will tear down the barriers guarding the attention economy. Witness my progress from poor barely passable writing to actually competent works!
+Now this ***portfolio*** will serve as the medium by which I will tear down the barriers guarding the attention economy. Witness my progress from passable writing to competent works!
 
 ## Wait, what is Wanton Pinoy Spaghetti?
 
