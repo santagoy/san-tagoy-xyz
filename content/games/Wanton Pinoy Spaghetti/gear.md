@@ -1,6 +1,5 @@
 ---
 title: Gear
-date: 2022-09-25
 summary: A non-comprehensive list of gear
 bookCollapseSection: false
 weight: 20
@@ -8,13 +7,14 @@ weight: 20
 
 ## Blades
 
-|     Item      | Cost |    Remarks    |
-|:-------------:|:----:|:-------------:|
-|   Balisong    |  5   | *Concealable* |
-| Hunting Knife |  8   |               |
-|     Bolo      |  11  |               |
-|     Kris      |  14  |               |
-|  Cane Sword   |  20  | *Concealable* |
+|      Item      | Cost |    Remarks    |
+|:--------------:|:----:|:-------------:|
+|    Balisong    |  5   | *Concealable* |
+| Throwing Knife |  3   | *Concealable* |
+| Hunting Knife  |  8   |               |
+|      Bolo      |  11  |               |
+|      Kris      |  14  |               |
+|   Cane Sword   |  20  | *Concealable* |
 
 ## Firearms and Accessories
 
@@ -46,3 +46,17 @@ weight: 20
 |      Ration      |  2   | *1 day's worth* |
 |      Saddle      |  20  |                 |
 |    *Salakot*     |  5   |                 |
+
+## Beasts of Burden and Livestock
+
+|      Item       | Cost |    Remarks    |
+|:---------------:|:----:|:-------------:|
+|   Poor Horse    |  35  |               |
+|   Fine Horse    |  72  |               |
+|     Carabao     |  20  |               |
+|  Native Cattle  |  40  |               |
+| Imported Cattle |  68  |               |
+|       Pig       |  12  | *breeds fast* |
+|      Goat       |  28  |               |
+|     Chicken     |  8   |               |
+|  Fighting Cock  |  50  |               |

@@ -1,6 +1,5 @@
 ---
 title: Making a Character
-date: 2022-09-25
 summary: Character Creation
 bookCollapseSection: false
 weight: 10
@@ -55,10 +54,10 @@ All players start with the following:
 - Revolver **or** Rifle (single-shot or lever-action)
 - 1 Slot of appropriate ammunition
 - Leather Rucksack
-- a Hunting Knife **or** _Balisong_
+- a Hunting Knife **or** *Balisong*
 - 3 days worth of rations
 - Water Canteen
-- 30 Pesos to buy miscellaneous [items](/gear.md) or to keep
+- 50 Pesos to buy miscellaneous [items](/content/games/gear) or to keep
 - The clothes on your back
 
 ## Luck
