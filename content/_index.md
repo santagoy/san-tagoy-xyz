@@ -12,7 +12,7 @@ bookToc: false
 
 Besides writing, I designed a number of Tabletop games: [**Letters of the Sky (2021)**](https://far-horizons-co-op.itch.io/sgd8) and [**The Moment Phantasm (2022)**](https://far-horizons-co-op.itch.io/anthology-2-1). Both epistolary games published in anthologies by The Far Horizons Co-op.
 
-As for other things I've written in the Tabletop RPG scene, there's [**Blessed Art Thou (2022)**](https://spearwitch.com/products/violence-collection) also published in an anthology.
+As for other things I've written in the scene, there's [**Blessed Art Thou (2022)**](https://spearwitch.com/products/violence-collection) also published in an anthology.
 
 This is my journey to better writing. A catalog of my progress and an outlet as some creative online.
 
