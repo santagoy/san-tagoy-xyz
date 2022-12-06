@@ -38,7 +38,7 @@ Those intimately familiar with violence knows that it is waged as war, not sport
 
 One would be able to forecast victory or defeat between to warbands by the following five considerations: First, which warband is favored by the gods, granting them surprise over the other. Second, which warchief has the most cunning, better able to overcome imposed disadvantage. Third, with whom lie the advantages derived from heaven and earth, granting many boons and banes. Fourth, which warband is stronger, considered both in quantity and quality. Fifth, which warband has greater morale, better able to brave death.
 
-{{< figure src="/static/images/fighter/01.jpg" alt="groups of men waging war" width="400" >}}
+{{< figure src="/images/fighter/01.jpg" alt="groups of men waging war" width="400" >}}
 
 ## On Leadership and Mercenaries
 
@@ -46,7 +46,7 @@ It's no small thing to risk life and limb, men are kept loyal by fortune and com
 
 A man who hires other into his service is responsible for their safety. Men are paid prior to the start of their service, their leader covering food and shelter. Men who take up the offer to perform violence are provided arms and armor by their leaders while veteran mercenaries come prepared and armed at a higher price. Upon victory, men are given a share of spoils by their leader, those leading a charge or demonstrating exceptional valor are given a double-portion. Spoils are still owed to those who fall in battle, their share of the spoils giving to their surviving family, or buried with them.
 
-{{< figure src="/images/fighter/01.jpg" alt="a man in chainmail armor on a war horse" width="300" >}}
+{{< figure src="/images/fighter/02.jpg" alt="a man in chainmail armor on a war horse" width="300" >}}
 
 ## On Equine Matters
 
