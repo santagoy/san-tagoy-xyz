@@ -16,10 +16,6 @@ As for other things I've written in the scene, there's [**Blessed Art Thou (2022
 
 This is my journey to better writing. A catalog of my progress and an outlet as some creative online.
 
-## Wait, what is Wanton Pinoy Spaghetti?
-
-It's Spaghetti Westerns set in Spanish colonial Philippines. All this experienced through the medium of Tabletop RPGs. Imagination and conversation are the essential ingredients to play.
-
 <!--
   This is the HTML block you need to insert wherever you want
   your webring to show up. By default, it is displayed exactly
