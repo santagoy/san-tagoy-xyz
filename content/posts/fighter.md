@@ -22,7 +22,7 @@ images:
 
 ## *Preface*
 
-The words after are not mine. I am using this as a reference for my players in our upcoming open table campaign Strike the Southern Sky!
+The words after aren't mine. I am using this as a reference for my players in our upcoming open table campaign Strike the Southern Sky!
 
 I spoke to him and got his permission to post these writings for as long as I credit him with the following phrase: *words based on Chasing a Blaze in the Northern Sky.*
 
