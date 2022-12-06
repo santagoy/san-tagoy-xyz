@@ -523,6 +523,9 @@ body[dir='rtl'] .book-menu input.toggle:checked + label::after {
   }
   .book-header {
     display: block;
+    div > strong {
+      display: none;
+    }
   }
   #menu-control:focus ~ main label[for='menu-control'] {
     outline-style: auto;
