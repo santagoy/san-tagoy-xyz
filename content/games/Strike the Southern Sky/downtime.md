@@ -2,7 +2,7 @@
 title: Downtime
 summary: Fun and useful things to do at settlements!
 bookCollapseSection: false
-weight: 50
+weight: 60
 ---
 
 At the end of a session, characters which have survived their first session of play are named. Named characters may spend a week of downtime in civilization, gaining rumors and allowing their characters to take a few unique interactions with the settlement.

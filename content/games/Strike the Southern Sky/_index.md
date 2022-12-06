@@ -5,9 +5,13 @@ summary: An OD&D Retroclone for my home games
 bookCollapseSection: true
 ---
 
-*Rules based on Chasing a Blaze in the Northern Sky*
+# Player-Facing Rules
+
+*based on Chasing a Blaze in the Northern Sky*
 
 This being here is primarily as a convenient reference for my friends and aspiring players for my open table game!
+
+Therefore, these are only player-facing rules that won't make much sense if you're planning to run the game as the GM. I'll post the GM Procedures at some point in the future!
 
 ---
 
