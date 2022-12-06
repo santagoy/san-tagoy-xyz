@@ -139,7 +139,7 @@ Weird and arcane candle-makers. You start with the following:
 
 ### Bard
 
-A jack-of-all-trades. You start with the following:
+A talented jack-of-all-trades. You start with the following:
 
 #### Stats
 
