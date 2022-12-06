@@ -1,22 +1,21 @@
 ---
 author: Nico Santagoy
 date: 2022-12-06
-linktitle: The Fighter: A Guide
+linktitle: The Fighter, A Guide
 menu:
   main:
     parent: ttrpgs
 # next: /posts/shortcodes
-title: Pigs in the Graveyard, Rules for Violence
+title: The Fighter, A Guide
 summary: |
   A guide on how to play the Fighter in Strike the Southern Sky, my open table campaign.
 categories:
   - system
+  - setting
 tags:
-  - western
-  - cowboys
-  - violence
-  - combat
-  - rules
+  - D&D
+  - Class
+  - Fighter
 images:
   - /images/fighter/feature.jpg
 ---
