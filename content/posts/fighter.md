@@ -46,7 +46,7 @@ It's no small thing to risk life and limb, men are kept loyal by fortune and com
 
 A man who hires other into his service is responsible for their safety. Men are paid prior to the start of their service, their leader covering food and shelter. Men who take up the offer to perform violence are provided arms and armor by their leaders while veteran mercenaries come prepared and armed at a higher price. Upon victory, men are given a share of spoils by their leader, those leading a charge or demonstrating exceptional valor are given a double-portion. Spoils are still owed to those who fall in battle, their share of the spoils giving to their surviving family, or buried with them.
 
-{{< figure src="/images/fighter/02.jpg" alt="a man in chainmail armor on a war horse" width="300" >}}
+{{< figure src="/images/fighter/02.png" alt="a man in chainmail armor on a war horse" width="350" >}}
 
 ## On Equine Matters
 
