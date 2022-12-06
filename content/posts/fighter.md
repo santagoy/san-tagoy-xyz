@@ -30,7 +30,7 @@ I spoke to him and got his permission to post these writings for as long as I cr
 
 {{< figure src="/static/images/fighter/hero-image.jpg" alt="hero image of knightly side profile" width="500" >}}
 
-# Fighter
+# Fighters
 
 ## On Warbands
 
@@ -46,7 +46,7 @@ It is no small thing to risk life and limb, men are kept loyal by fortune and co
 
 A man who hires other into his service is responsible for their safety. Men are paid prior to the start of their service, their leader covering food and shelter. Men who take up the offer to perform violence are provided arms and armor by their leaders while veteran mercenaries come prepared and armed at a higher price. Upon victory, men are given a share of spoils by their leader, those leading a charge or demonstrating exceptional valor are given a double-portion. Spoil are still owed to those who fall in battle, their share of the spoils giving to their surviving family, or buried with them. 
 
-![groups of men waging war](../../static/images/fighter/02.png)
+![a chainmail armored man on a horse](../../static/images/fighter/02.png)
 
 ## On Equine Matters
 
