@@ -129,7 +129,7 @@ Weird and arcane candle-makers. You start with the following:
 - 6 HP
 - Start with 1 permanently bound familiar
 - candle magic — can craft 1 color (in Class handout)
-- Potion brewing — knows 1 recipe (in Class handout)
+- Potion brewing — knows 2 recipes (in Class handout)
 
 #### Gear
 
