@@ -1,5 +1,5 @@
 ---
-title: Character Progression
+title: Encounters
 summary: Leveling-up, baby!
 bookCollapseSection: false
 weight: 40

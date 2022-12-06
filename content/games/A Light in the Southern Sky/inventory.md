@@ -1,5 +1,5 @@
 ---
-title: Character Progression
+title: Inventory
 summary: Leveling-up, baby!
 bookCollapseSection: false
 weight: 30
