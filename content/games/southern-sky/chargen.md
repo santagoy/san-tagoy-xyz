@@ -86,7 +86,7 @@ Cunning thieves and spies. You start with the following:
 - 30' of rope attached to a heavy hook
 - additional 4d20 silver
 
-### Huntsman
+### Hunter
 
 Skilled trackers and foragers. You start with the following:
 
