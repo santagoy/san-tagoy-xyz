@@ -49,7 +49,7 @@ In the absence of a tent, one could construct emergency shelter within 2 hours t
 
 Fire is a dear friend to those in the wilderness, warding away beasts and offering light. Camping with a fire abjures the cold, camping cold without a fire reduces chance of being noticed in the night. Setting out food away from camp abjures hungry visitors. Setting out offerings of treasure away from camp abjures cruel spirits of the night.
 
-{{< figure src="/images/hunter/02.jpg" alt="inuit fighting a bear with a bow and arrow" >}}
+{{< figure src="/images/hunter/02.jpeg" alt="inuit fighting a bear with a bow and arrow" >}}
 
 ## On Other Considerations
 
