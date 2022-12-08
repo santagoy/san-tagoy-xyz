@@ -33,7 +33,7 @@ I spoke to the original author and got his permission to post these writings for
 
 # Hunters
 
-The wilderness holds no mercy for the "civilized", spoiled by shelter, hearth, and a stocked larder.
+The wilderness holds no mercy for those accustomed to civilization, where one is spoiled by shelter, hearth, and a stocked larder.
 
 Safe return isn't guaranteed to those who dare trespass beneath the domain of the open sky. Those foolish enough to depart from a trail or the shores of a river risk becoming lost. Trees and rain limits ones sight, hiding familiar sights which that lead the way home. One could become reacquainted with the cardinal directions by finding the north star or constructing a solar compass and tracking the azimuth for an hour. These prospects are hopeless on days overcast by clouds.
 

@@ -5,7 +5,7 @@ linktitle: The Fighter, A Guide
 menu:
   main:
     parent: ttrpgs
-# next: /posts/shortcodes
+next: /posts/thief.md
 title: The Fighter, A Guide
 summary: |
   A guide on how to play the Fighter in Strike the Southern Sky, my open table campaign.

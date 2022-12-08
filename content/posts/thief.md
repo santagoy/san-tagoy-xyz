@@ -5,7 +5,7 @@ linktitle: The Thief, A Guide
 menu:
   main:
     parent: ttrpgs
-# next: /posts/shortcodes
+next: /posts/hunter.md
 title: The Thief, A Guide
 summary: |
   A guide on how to play the Thief in Strike the Southern Sky, my open table campaign.
