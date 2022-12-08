@@ -9,7 +9,7 @@ Think of a character concept. Who are they in this time in history? A foreigner?
 
 These companions are the other players (their characters) at the table. Think of how you all know each other in the world. Why are you as thick as thieves? Are you thieves?
 
-How many languages do you know? Can't decide? Roll a 1d4 and that's how many languages you know. Some of the common languages of the time were the following:
+How many languages do you know? Can't decide? Roll a 1d4 and that's how many languages you know. A number of the common languages of the time were the following:
 
 - Bisaya
 - Ilonggo
@@ -28,7 +28,7 @@ You only roll a 1d20 when doing something risky like shooting someone in a firef
 
 Sometimes, you roll with Advantage or Disadvantage which is rolling two d20s and taking the highest or lowest respectively.
 
-You can apply multiple Tags to a single roll if applicable.
+Apply multiple Tags to a single roll if applicable.
 
 | 1d10 |     Prowess     |       Knowledge        |         Pizzazz         |
 |:----:|:---------------:|:----------------------:|:-----------------------:|
@@ -64,7 +64,7 @@ All players start with the following:
 
 Every time you fail a roll, mark Luck to a maximum of 5.
 
-You can avoid consequences by testing Luck. To succeed, roll at or lower than your current Luck on a d6.
+Avoid consequences by testing Luck. To succeed, roll at or lower than your current Luck on a d6.
 
 Regardless of the result, remove a point of Luck every time you test it.
 
