@@ -57,7 +57,7 @@ All players start with the following:
 - a Hunting Knife **or** *Balisong*
 - 3 days worth of rations
 - Water Canteen
-- 50 Pesos to buy miscellaneous [items](/content/games/Wanton%20Pinoy%20Spaghetti/gear.md) or to keep
+- 50 Pesos to buy miscellaneous [items](https://san-tagoy.xyz/games/wanton-pinoy-spaghetti/gear/) or to keep
 - The clothes on your back
 
 ## Luck
