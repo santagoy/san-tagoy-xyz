@@ -81,3 +81,18 @@ This is my journey to better writing. A catalog of my progress and an outlet as 
     configureToroidalIframe();
   }
 </script>
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/san_tagoy"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/san_tagoy', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
