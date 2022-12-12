@@ -24,9 +24,9 @@ How many languages do you know? Can't decide? Roll a 1d4 and that's how many lan
 
 Now roll 1d4 for each of the three named Tag categories below. Whatever the result for each is how many starting Tags you get per category. Each Tag adds a +2 to a 1d20 roll.
 
-You only roll a 1d20 when doing something risky like shooting someone in a firefight or trying to pick a lock under duress. The number you need to beat is often a 10-12 and (optionally) a 16+ in combat.
+You only roll a 1d20 when doing something risky like shooting a foe in a firefight or trying to pick a lock under duress. The number you need to beat is often a 10-12 and a 16+ in combat.
 
-Sometimes, you roll with Advantage or Disadvantage which is rolling two d20s and taking the highest or lowest respectively.
+At times you roll with Advantage or Disadvantage which is rolling two d20s and taking the highest or lowest respectively.
 
 Apply multiple Tags to a single roll if applicable.
 
@@ -45,7 +45,7 @@ Apply multiple Tags to a single roll if applicable.
 
 ## Inventory
 
-You have 12 Inventory slots. First 6 are quick slots, anything you can pull out at a moment's notice. The next 6 require a d8 roll higher than the item's number slot to be procured immediately under duress, otherwise the item takes 10 seconds or more to find.
+You have 12 Inventory slots. First 6 are quick slots, anything you can pull out at a moment's notice. The next 6 require a d8 roll higher than the item's number slot to find it immediately, otherwise the item takes 10 seconds or more to find.
 
 ### Starting Loadout
 

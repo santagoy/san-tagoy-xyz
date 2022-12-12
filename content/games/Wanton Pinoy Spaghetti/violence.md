@@ -61,9 +61,9 @@ If Melee is initiated during a round, both combatants have their turns consumed 
 
 When firing to suppress, no roll is required.
 
-When a suppressed target attempts to take an action which could expose them, roll 1d6. If the number rolled is equal to or less than the number of people firing to suppress, the target is shot. The number rolled is how many individuals hit—resolve each separately, determining randomly who hits.
+When a suppressed target takes an action which could expose them, roll 1d6. If the number rolled is equal to or less than the number of people firing to suppress, the target is shot. The number rolled is how many individuals hit—resolve each separately, determining randomly who hits.
 
-If Suppression is at hidden or obscured targets, it only has half effect (i.e. 2 people would have to fire to have a 1-in-6 chance of shooting individuals as they take action.)
+If Suppression is at hidden or obscured targets, it only has half effect (i.e. 2 people would have to fire to have a 1-in-6 chance of shooting individuals as they act.)
 
 ## Reloading
 
@@ -75,6 +75,6 @@ An example would be the coach gun being able to fire 4 shots in a single round o
 
 ## Healing
 
-When you take an Injury and happen to survive a violent encounter due to someone's intervention, you must spend a week resting in a safe place per injury to heal. 3 injuries means 3 weeks for example.
+When you take an Injury and happen to survive a violent encounter due to an ally's intervention, you must spend a week resting in a safe place per injury to heal. 3 injuries means 3 weeks for example.
 
-After 3 days of receiving injuries, you may move around and act in some handicapped capacity. You will, however, retain those injuries until you heal.
+After 3 days of receiving injuries, you may move around and act in some debilitated capacity. You, however, retain those injuries until you heal.
