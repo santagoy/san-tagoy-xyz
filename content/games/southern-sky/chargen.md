@@ -49,7 +49,7 @@ You know your mother tongue and its appropriate script.
 
 ## Character Classes
 
-Choose one of the Roles below.
+Choose one from below.
 
 ### Fighter
 
