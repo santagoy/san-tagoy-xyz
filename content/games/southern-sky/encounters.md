@@ -83,12 +83,10 @@ A joust is scored as the best of three tilts in which two mounted knights enter 
 |  5  |  G  |  B  |  B  |  B  |  B  |  U  |
 |  6  | B+U |  U  |  U  |  U  |  U  | B+H |
 
-```
-**G** Lance glances off opponent.
-**B** Lance broken upon opponent.
-**H** Opponent struck upon helmet.
-**U** Opponent unhorsed.
-```
+- **G** Lance glances off opponent.
+- **B** Lance broken upon opponent.
+- **H** Opponent struck upon helmet.
+- **U** Opponent unhorsed.
 
 A glancing blow scores no points. Breaking a lance upon the opponent scores one point, or three points upon the opponent’s helmet. Unhorsing the opponent scores ten points. If a knight cannot continue due to injury he loses. The loser forfeits their mount or a grander wager by prior arrangement.
 
