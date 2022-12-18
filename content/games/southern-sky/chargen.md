@@ -69,6 +69,8 @@ Mighty warriors. You start with the following:
 - Shield
 - Spear
 
+---
+
 ### Thief
 
 Cunning thieves and spies. You start with the following:
@@ -85,6 +87,8 @@ Cunning thieves and spies. You start with the following:
 - Fine tools
 - 30' of rope attached to a heavy hook
 - additional 4d20 silver
+
+---
 
 ### Hunter
 
@@ -104,21 +108,26 @@ Skilled trackers and foragers. You start with the following:
 - Bow
 - Quiver with 10 arrows
 
+---
+
 ### Sage
 
 Wise and learned scholars. You start with the following:
 
 #### Stats
+
 - 4 HP
 - Save of 8
 - Fluent in 2 additional languages
-- Knows 1 Ritual of Banishing (in Class handout)
+- creature contracts — knows the rituals for 1 creature type (in Class handout)
 
 #### Gear
 
 - Papyrus journal with writing implements
 - Random wand with 1d20 charges
 - A dagger
+
+---
 
 ### Witch
 
@@ -136,6 +145,8 @@ Weird and arcane candle-makers. You start with the following:
 - Hovering broom (slower than a horse and can't fly, carries 10 slots)
 - candle in the color of known recipe
 - a random potion you know
+
+---
 
 ### Bard
 
