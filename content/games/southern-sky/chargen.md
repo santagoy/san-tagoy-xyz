@@ -119,7 +119,7 @@ Wise and learned scholars.
 - 4 HP
 - Save of 8
 - Fluent in 2 additional languages
-- creature contracts — knows the rituals for 1 creature type (in Class handout)
+- creature contracts — knows 1 creature's true name (in Class handout)
 - The spell Glossolalia. (in Class handout)
 
 #### Gear
