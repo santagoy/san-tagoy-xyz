@@ -51,7 +51,7 @@ You know your mother tongue and its appropriate script.
 
 Choose one from below.
 
-### Fighter
+### [Fighter]({{< ref "/posts/fighter.md" >}})
 
 Mighty warriors.
 
@@ -71,7 +71,7 @@ Mighty warriors.
 
 ---
 
-### Thief
+### [Thief]({{< ref "/posts/thief.md" >}})
 
 Cunning thieves and spies.
 
@@ -90,7 +90,7 @@ Cunning thieves and spies.
 
 ---
 
-### Hunter
+### [Hunter]({{< ref "/posts/hunter.md" >}})
 
 Skilled trackers and foragers.
 
@@ -110,9 +110,9 @@ Skilled trackers and foragers.
 
 ---
 
-### Sage
+### [Sage]({{< ref "/posts/sages.md" >}})
 
-Wise and learned scholars.
+Faustian scholars.
 
 #### Stats
 
@@ -124,7 +124,7 @@ Wise and learned scholars.
 
 #### Gear
 
-- Papyrus journal with writing implements
+- Parchment journal with writing implements
 - Random wand with 1d20 charges
 - A dagger
 
@@ -132,7 +132,7 @@ Wise and learned scholars.
 
 ### Witch
 
-Weird and arcane crafters.
+Weird, potion-making arcanists.
 
 #### Stats
 
@@ -151,7 +151,7 @@ Weird and arcane crafters.
 
 ### Bard
 
-Talented jack-of-all-trades.
+Talented jacks-of-all-trades.
 
 #### Stats
 

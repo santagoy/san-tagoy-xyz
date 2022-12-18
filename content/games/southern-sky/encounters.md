@@ -40,7 +40,7 @@ Lastly, a character may declare they assist their companions, forgoing their mel
 
 During the **Misc** phase, resolve all other actions. If in a grapple, you can pin or attack again in melee. Once someone is pinned in a grapple, the victor may choose to exit the grapple or keep the loser pinned and helpless.
 
-During the **Morale** phase, monsters and non-characters may have their morale tested to resist fleeing poor odds. Players determine if their characters flee.
+During the **Morale** phase, monsters and non-characters may have their morale tested to resist fleeing poor odds. Players decide if their characters flee.
 
 ## Turn Undead
 
@@ -65,6 +65,30 @@ A night’s (uninterrupted and at least as long as a quarter of a day) sleep rec
 ## Duels
 
 Fair combat between two individuals is resolved by rounds of bets, with both participants betting portions of their HP to a pool. Upon each bet, throw opposing 1d20's + Thews—higher roll wins, loser subtracts the whole pool from their total HP. These rounds of betting continue until one yields or an individual is reduced to 0 hp.
+
+## Jousting
+
+Jousts are knightly contests of mounted combat. A knight must possess armor, shield, helm, mount, and at least one lance to participate.
+
+A joust is scored as the best of three tilts in which two mounted knights enter the lists and, separated by a barrier, make an unimpeded charge at one another with the objective of unhorsing the opponent. Each throws a single, simultaneous attack roll with additional modifiers depending on their mount: War-charging Horse +8, hunter horse +6, and riding or draft horse +2. On a hit throw two six-sided dice and consult the jousting table. For sport the lesser of the two dice indicates damage sustained; in war damage is the sum of both dice.
+
+### Jousting Result Table
+
+| 1-6 |  1  |  2  |  3  |  4  |  5  |  6  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  1  |  G  |  G  |  G  |  G  |  G  | B+U |
+|  2  |  G  |  G  |  G  |  B  |  B  |  U  |
+|  3  |  G  |  G  |  B  |  B  |  B  |  U  |
+|  4  |  G  |  B  |  B  |  B  |  B  |  U  |
+|  5  |  G  |  B  |  B  |  B  |  B  |  U  |
+|  6  | B+U |  U  |  U  |  U  |  U  | B+H |
+
+**G** Lance glances off opponent.
+**B** Lance broken upon opponent.
+**H** Opponent struck upon helmet.
+**U** Opponent unhorsed.
+
+A glancing blow scores no points. Breaking a lance upon the opponent scores one point, or three points upon the opponent’s helmet. Unhorsing the opponent scores ten points. If a knight cannot continue due to injury he loses. The loser forfeits their mount or a grander wager by prior arrangement.
 
 ## Encumbrance
 
