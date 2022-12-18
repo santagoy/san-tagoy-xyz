@@ -53,7 +53,7 @@ Choose one from below.
 
 ### Fighter
 
-Mighty warriors. You start with the following:
+Mighty warriors.
 
 #### Stats
 
@@ -73,7 +73,7 @@ Mighty warriors. You start with the following:
 
 ### Thief
 
-Cunning thieves and spies. You start with the following:
+Cunning thieves and spies.
 
 #### Stats
 
@@ -92,7 +92,7 @@ Cunning thieves and spies. You start with the following:
 
 ### Hunter
 
-Skilled trackers and foragers. You start with the following:
+Skilled trackers and foragers.
 
 #### Stats
 
@@ -112,7 +112,7 @@ Skilled trackers and foragers. You start with the following:
 
 ### Sage
 
-Wise and learned scholars. You start with the following:
+Wise and learned scholars.
 
 #### Stats
 
@@ -131,7 +131,7 @@ Wise and learned scholars. You start with the following:
 
 ### Witch
 
-Weird and arcane candle-makers. You start with the following:
+Weird and arcane crafters.
 
 #### Stats
 
@@ -150,7 +150,7 @@ Weird and arcane candle-makers. You start with the following:
 
 ### Bard
 
-A talented jack-of-all-trades. You start with the following:
+Talented jack-of-all-trades.
 
 #### Stats
 
