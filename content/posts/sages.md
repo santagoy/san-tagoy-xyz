@@ -40,7 +40,7 @@ The world of the arcane is full of deceit and trickery amidst these Others. The 
 
 The easiest method to summon a magical creature is to speak aloud its true name with a catalyst in hand. This is something akin to the nature of the creature. Ghosts require mementos of humanity like food and warm furs. Fae and Demons require blood, flesh, or something specific to the individual creature. Enigmas always vary.
 
-The spell Glossolalia prevents others from understanding the name spoken. Many only hear gibberish rather than the true name. The spell's catalyst is a mixture of any animal's blood and vital juices slathered on your lips. Speak the incantation which varies across practitioners. You and those you speak with have the all words masked for those within earshot of you for as long as the viscera remains on your mouth.
+The spell ***Glossolalia*** prevents others from understanding the name spoken. Many only hear gibberish rather than the true name. The spell's catalyst is a mixture of any animal's blood and vital juices slathered on your lips. Speak the incantation which varies across practitioners. You and those you speak with have the all words masked for those within earshot of you for as long as the viscera remains on your mouth.
 
 If one doesn't know a creature's true name, they may summon a random creature belonging to one of the specific types through a ritual circle. They start off not knowing the creature's name. They must negotiate to learn it.
 
