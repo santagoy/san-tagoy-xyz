@@ -66,7 +66,7 @@ A night’s (uninterrupted and at least as long as a quarter of a day) sleep rec
 
 Fair combat between two individuals is resolved by rounds of bets, with both participants betting portions of their HP to a pool. Upon each bet, throw opposing 1d20's + Thews—higher roll wins, loser subtracts the whole pool from their total HP. These rounds of betting continue until one yields or an individual is reduced to 0 hp.
 
-## Jousting
+## Jousting [^1]
 
 Jousts are knightly contests of mounted combat. A knight must possess armor, shield, helm, mount, and at least one lance to participate.
 
@@ -83,10 +83,12 @@ A joust is scored as the best of three tilts in which two mounted knights enter 
 |  5  |  G  |  B  |  B  |  B  |  B  |  U  |
 |  6  | B+U |  U  |  U  |  U  |  U  | B+H |
 
+```
 **G** Lance glances off opponent.
 **B** Lance broken upon opponent.
 **H** Opponent struck upon helmet.
 **U** Opponent unhorsed.
+```
 
 A glancing blow scores no points. Breaking a lance upon the opponent scores one point, or three points upon the opponent’s helmet. Unhorsing the opponent scores ten points. If a knight cannot continue due to injury he loses. The loser forfeits their mount or a grander wager by prior arrangement.
 
@@ -97,3 +99,5 @@ You have 6 quick slots, items that can be quickly grabbed at a moment's notice. 
 Most items would take up a single inventory slot of space. 3 Light items such as a dagger, torch, or day’s food may be carried in a single inventory slot. Cumbersome items would require multiple inventory slots.
 
 A backpack worn on one’s back would grant an additional 5 inventory slots. A satchel worn on one’s person would grant an additional 5 inventory slots. A character could wear two at once.
+
+[^1]: Words are taken from Simon J. Bull's [Delving Deeper](https://ddo.immersiveink.com/dd.html#jousting).
