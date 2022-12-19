@@ -25,6 +25,7 @@ Every odd-numbered level, choose a **Boon** [^1].
 11. **Two Weapon Fighting:** Fight with a light weapon in the off hand, for either +2 Evasion, or an extra attack at –2 to hit each round.
 12. **Weapon Specialization:** Gain +2 to hit and damage with one weapon type of choice.
 {{< /expand >}}
+
 Roll and add to your maximum HP.
 
 You need Experience Points (XP) to level-up. Use them to buy the next level for your character. You retain all unspent XP.
@@ -36,7 +37,7 @@ Multiply every succeeding level by 300 to see the cost for its level-up. 600 XP 
 Achieve any of the following glories. Most glories grant 600 XP, while others are worth double. Some grant XP each time your perform them while others only grant XP once.
 
 {{< expand "Glories for XP">}}
-1. Win a tournament (each time)
+1. Win a tournament (once)
 2. Resolve a situation scourging a village or more’s worth of people (each time)
 3. Slay a famous villain (e.g., dragon or wicked knight) (each time)
 4. Deliver a holy relic to the Church (each time)
@@ -71,6 +72,6 @@ Achieve any of the following glories. Most glories grant 600 XP, while others ar
 33. Form your own order of chivalrous knights (once, worth double)
 {{< /expand >}}
 
-[^1]: The idea of Boons are taken from Feats in [Original Edition Delta](http://www.oedgames.com/).
+[^1]: The idea of Boons were taken from Feats in [Original Edition Delta](http://www.oedgames.com/).
 
 [^2]: The ideas of earning XP in this format was taken from [this blog post about Knightly games](https://riseupcomus.blogspot.com/2018/04/the-matter-of-marcher-lords.html).
