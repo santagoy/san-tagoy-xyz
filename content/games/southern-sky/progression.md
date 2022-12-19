@@ -9,16 +9,16 @@ weight: 20
 
 There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maximum of 5 HD (each equal to 1d6).
 
-Every odd-numbered level, choose a **Feat**.
+Every odd-numbered level, choose a **Boon** [^1].
 
-{{< expand "Character Feats">}}
+{{< expand "Character Boons">}}
 1. **Berserk:** Rage to gain +2 to Slaying, Saves, and Damage for one round as well as +2 HD temporarily for one encounter (the latter applies only once per encounter). Afterward, save or lose the ability for the day.
 2. **The Grappler:** All attempts at grapples are made with +2. Additionally, if you are currently grappled, roll a Save. On a success, you counter the grapple.
 3. **Great Fortitude:** Gain a +4 bonus to saves against poison, disease, and death.
 4. **Iron Will:** Gain a +4 bonus to saves against mental attacks, including charm, fear, and illusions.
 5. **Mounted Combat:** Gain +2 to hit and +4 damage with mounted melee attacks, and +4 to saves against being unhorsed.
 6. **Rapid Shot:** Gain an extra attack every round in missile combat.
-7. **Fortuitous Studies:** Come across a random ritual or candle recipe in your studies (can be taken multiple times).
+7. **Fortuitous Studies:** Come across a random true name or candle recipe during your downtime (can be taken multiple times).
 8. **Sentinel:** While wielding a shield and in the front ranks, allies behind you gain +2 to their attacks against enemies you defend against.
 9. **Toughness:** Add an extra +2 HP every time you gain HD.
 10. **Tracking:** Track targets on a 4-in-6 chance basis, adjusted for small or large parties, inclement weather, and the like.
@@ -27,13 +27,13 @@ Every odd-numbered level, choose a **Feat**.
 {{< /expand >}}
 Roll and add to your maximum HP.
 
-You need Experience Points (XP) to level-up. Use them to buy the next level for your character.
+You need Experience Points (XP) to level-up. Use them to buy the next level for your character. You retain all unspent XP.
 
 Multiply every succeeding level by 300 to see the cost for its level-up. 600 XP for Level 2, 900 for Level 3, 1200 for Level 4, and so on and so forth until level 10 (for 3000 XP).
 
-## Earning XP
+## Earning XP [^2]
 
-Achieve any of the following glories. Most glories grant 500 XP, while others are worth double. Some grant XP each time your perform them while others only grant XP once.
+Achieve any of the following glories. Most glories grant 600 XP, while others are worth double. Some grant XP each time your perform them while others only grant XP once.
 
 {{< expand "Glories for XP">}}
 1. Win a tournament (each time)
@@ -70,3 +70,7 @@ Achieve any of the following glories. Most glories grant 500 XP, while others ar
 32. Become a lord of a barony (once, worth double)
 33. Form your own order of chivalrous knights (once, worth double)
 {{< /expand >}}
+
+[^1]: The idea of Boons are taken from Feats in [Original Edition Delta](http://www.oedgames.com/).
+
+[^2]: The ideas of earning XP in this format was taken from [this blog post about Knightly games](https://riseupcomus.blogspot.com/2018/04/the-matter-of-marcher-lords.html).

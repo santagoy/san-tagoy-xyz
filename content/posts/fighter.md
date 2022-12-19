@@ -28,7 +28,7 @@ I spoke to him and got his permission to post these writings for as long as I cr
 
 ---
 
-{{< figure src="/images/fighter/hero-image.jpg" alt="hero image of knightly side profile" width="350" >}}
+{{< figure src="/images/fighter/hero-image.jpg" alt="hero image of knightly side profile" width="300" >}}
 
 # Fighters
 
