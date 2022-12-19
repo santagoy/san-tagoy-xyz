@@ -55,7 +55,7 @@ Roll 1d20 + Sage level + Save every time you summon a creature. On a 20, the rit
 
 ## Contracting
 
-For a price, these magical creatures provide their services to you—your will be done. Every creature is an individual and requires periodic obeisance for lending their power to you. They can't manifest fully in the mortal realm outside of their summoning circle unless the area is a place of power.
+For a price, these magical creatures provide their services to you—your will be done. Every creature is an individual and requires periodic obeisance for lending their power to you. Though they may also require a one time transaction and grant power for a commensurate amount of time. They can't manifest fully in the mortal realm outside of their summoning circle unless the area is a place of power.
 
 All magical creatures require an object or mortal host to persist. Wands, amulets, weapons are the frequent choice of many. Mortal hosts range from a human sacrifice to even a raven. In the case of the former, the person turned corpse becomes the vessel for the creature.
 
