@@ -7,7 +7,7 @@ weight: 20
 
 ## Leveling Up
 
-There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maximum of 5 HD (each equal to 1d8).
+There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maximum of 5 HD (each equal to 1d6).
 
 Every odd-numbered level, choose a **Feat**.
 
