@@ -26,7 +26,7 @@ Now roll 1d4 for each of the three named Tag categories below. Whatever the resu
 
 You only roll a 1d20 when doing something risky like shooting a foe in a firefight or trying to pick a lock under duress. The number you need to beat is often a 10-12 and a 16+ in combat.
 
-At times you roll with Advantage or Disadvantage which is rolling two d20s and taking the highest or lowest respectively.
+At times you roll with Edge or Slack which is rolling two d20s and taking the highest or lowest respectively.
 
 Apply multiple Tags to a single roll if applicable.
 
