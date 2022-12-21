@@ -25,11 +25,11 @@ Unless otherwise stated, you begin with the following:
 
 ### Stats [^1]
 
-- Slaying of 8, your ability to strike foes in combat, adds to a 1d20
-- Evasion of 10, your ability to avoid attacks in combat, adds to a 1d20
-- Movement of 40m, your travel distance in feet per turn while exploring underground
-- Speed of 15 m, your maximum travel distance during a  single combat round
-- Save of 6, your ability to avoid misfortune and harm, adds to a 1d20.
+- Slaying of 8, your ability to strike foes in combat, adds to a 1d20.
+- Evasion of 10, your ability to avoid attacks in combat, adds to a 1d20. [^2]
+- Movement of 40m, your travel distance in feet per turn while exploring underground. [^3]
+- Speed of 16 m, your maximum travel distance during a single combat round.
+- Save of 6, your ability to avoid misfortune and harm, adds to a 1d20 + Class level. [^4]
 - Move Silently of 6, your ability to avoid the witness of another, adds to a 1d20.
 
 Adjust Evasion, Movement, and Move Silently, by your equipment.
@@ -47,9 +47,9 @@ Adjust Evasion, Movement, and Move Silently, by your equipment.
 
 You know your mother tongue and its appropriate script.
 
-## Character Classes
+## Character Classes [^5]
 
-Choose one from below.
+Choose one from below. You can't multiclass.
 
 ### [Fighter]({{< ref "/posts/fighter.md" >}})
 
@@ -59,7 +59,7 @@ Mighty warriors.
 
 - 12 Hit Points (HP)
 - Slaying of 10
-- +2 to saves vs instant death
+- +2 to Saves vs instant death
 - Cleave — Upon slaying an enemy, you are granted another attack.
 
 #### Gear
@@ -78,9 +78,9 @@ Cunning thieves and spies.
 #### Stats
 
 - 6 HP
-- Move Silently of 8
-- +2 to Saves involving acts of nimbleness and agility
-- Can easily search rooms, open locks, and disable traps — You can add your Wits and your Thief level to the occasional roll.
+- Move Silently of 8 + Thief Level
+- +2 to Saves involving nimbleness and agility
+- When rolling to search rooms, open locks, or disable traps, you add Wits and Thief Level to the roll.
 
 #### Gear
 
@@ -119,8 +119,8 @@ Faustian scholars.
 - 4 HP
 - Save of 8
 - Fluent in 2 additional languages
-- creature contracts — knows 1 creature's true name (in Class handout)
-- The spell Glossolalia. (in Class handout)
+- creature contracts — knows 1 creature's true name
+- The spell Glossolalia.
 
 #### Gear
 
@@ -138,8 +138,8 @@ Weird, potion-making arcanists.
 
 - 6 HP
 - Start with 1 permanently bound familiar
-- candle magic — can craft 1 color (in Class handout)
-- Potion brewing — knows 2 recipes (in Class handout)
+- candle magic — can craft 1 color
+- Potion brewing — knows 2 recipes
 
 #### Gear
 
@@ -156,7 +156,7 @@ Talented jacks-of-all-trades.
 #### Stats
 
 - 10 HP
-- Songs of Beguilement (Uses Charisma, in the Class handout)
+- Songs of Beguilement (Uses Charisma)
 - Add Bard Level to Duel rolls too
 - Move Silently of 8 in settlements
 
@@ -166,4 +166,12 @@ Talented jacks-of-all-trades.
 - 8 Throwing Knives
 - Padded Boots
 
-[^1]: Class levels are only used as a modifier to rolls in tasks related to each Class's functions and specializations.
+[^1]: Slaying only adds Fighter Levels to the 1d20 roll. You can only add Hunter Levels to Slaying with missile attacks.
+
+[^2]: Evasion only adds Fighter or Thief Levels.
+
+[^3]: 2m is equal to 1" at the table.
+
+[^4]: Saves add all Classes' Levels.
+
+[^5]: Please see Class handouts in the [blog]({{< ref "/posts/_index.md" >}}) or by clicking the title of each Class.

@@ -12,11 +12,11 @@ There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maxi
 Every odd-numbered level, choose a **Boon** [^1].
 
 {{< expand "Character Boons">}}
-1. **Berserk:** Rage to gain +2 to Slaying, Saves, and Damage for one round as well as +2 HD temporarily for one encounter (the latter applies only once per encounter). Afterward, save or lose the ability for the day.
+1. **Berserk:** Rage to gain +2 to Slaying, Saves, and Damage for one round as well as +2 HD temporarily for one encounter (the latter applies only once per encounter). Afterward, Save or lose the ability for the day.
 2. **The Grappler:** All attempts at grapples are made with +2. Additionally, if you are currently grappled, roll a Save. On a success, you counter the grapple.
-3. **Great Fortitude:** Gain a +4 bonus to saves against poison, disease, and death.
-4. **Iron Will:** Gain a +4 bonus to saves against mental attacks, including charm, fear, and illusions.
-5. **Mounted Combat:** Gain +2 to hit and +4 damage with mounted melee attacks, and +4 to saves against being unhorsed.
+3. **Great Fortitude:** Gain a +2 bonus to saves against poison, disease, and death.
+4. **Iron Will:** Gain a +2 bonus to saves against mental attacks, including charm, fear, and illusions.
+5. **Mounted Combat:** Gain +2 to hit and +2 damage with mounted melee attacks, and +4 to saves against being unhorsed.
 6. **Rapid Shot:** Gain an extra attack every round in missile combat.
 7. **Fortuitous Studies:** Come across a random true name or candle recipe during your downtime (can be taken multiple times).
 8. **Sentinel:** While wielding a shield and in the front ranks, allies behind you gain +2 to their attacks against enemies you defend against.
