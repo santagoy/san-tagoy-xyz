@@ -8,13 +8,13 @@ weight: 30
 ## Armor and Weapons
 
 |        Item        | Price | Description                                                                                    |
-|:------------------:|:-----:|:---------------------------------------------------------------------------------------------- |
+| :----------------: | :---: | :--------------------------------------------------------------------------------------------- |
 |        Helm        |  20s  | +1 to Evasion                                                                                  |
 |       Shield       |  35s  | +2 to Evasion                                                                                  |
 | Braces and Greaves |  15s  | +1 to Evasion if wearing medium or heavy armor                                                 |
-|    Light Armor     |  30s  | A leather Jerkin, linothorax, or a gambeson, +1 to Evasion                                                                                  |
-|    Medium Armor    |  90s  | A lamellar or a cuirass, +2 to Evasion, -4 to Moving Silently                                                           |
-|    Heavy Armor     | 150s  | A chainmail hauberk or a panoply, +4 to Evasion, -6 to Moving Silently                                                           |
+|    Light Armor     |  30s  | A leather Jerkin, linothorax, or a gambeson, +1 to Evasion                                     |
+|    Medium Armor    |  90s  | A lamellar or a cuirass, +2 to Evasion, -4 to Moving Silently                                  |
+|    Heavy Armor     | 150s  | A chainmail hauberk or a panoply, +4 to Evasion, -6 to Moving Silently                         |
 |       Dagger       |  10s  | 10m throwing range, 1d6 damage, 2d6 damage in a grapple                                        |
 |        Axe         |  15s  | (1d6 + Thews) may splinter shields and sever wooden weapon shafts                              |
 |      Bludgeon      |  15s  | (1d6 + Thews) may stun or knock down foes                                                      |
@@ -35,7 +35,7 @@ A character **fighting unarmed** deals their Thews modifier in damage with a suc
 ## Tools and Utilities
 
 |      Item       | Price  | Description                                                                                                                                   |
-|:---------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3m wooden pole  |  10s   |                                                                                                                                               |
 |  Alpinist rope  | 10s/1m | 30m per slot, lighter and more resistant to snapping                                                                                          |
 |    Caltrops     |  15s   | A bag contains enough to cover a 4m square, three bags contain enough to set up a 1m wide circular perimeter with a 5m radius.                |
@@ -46,7 +46,7 @@ A character **fighting unarmed** deals their Thews modifier in damage with a suc
 |   Fine Tools    |  175s  | Allow one to open a lock or disable a trap, those untrained in their use risk breaking them inside of locks or setting off traps prematurely. |
 |   Heavy hook    |   5s   | Can be paired with a rope for climbing or hammered into trees                                                                                 |
 |   Iron Spike    |   2s   | Requires a mallet                                                                                                                             |
-|    Oiled-Bag    |  30s   | Protects items from the rain                                                                                                                |
+|    Oiled-Bag    |  30s   | Protects items from the rain                                                                                                                  |
 |   Oiled-Cloak   |  30s   | Protects against the rain                                                                                                                     |
 |  Padded Boots   |  20s   | Quieter movement                                                                                                                              |
 | Polished Mirror |  40s   | reflects light and allows one to look beyond corners                                                                                          |
@@ -70,7 +70,7 @@ Easier to make the items below than buy for smaller quantities. Large quantities
 ## Sustenance
 
 |         Item         | Price | Description                                           |
-|:--------------------:|:-----:|:----------------------------------------------------- |
+| :------------------: | :---: | :---------------------------------------------------- |
 | 1 Week of Dried Food |  10s  |                                                       |
 | Waterskin/Airbladder |  5s   | 4L in capacity, 2 days' worth of water                |
 |       Wineskin       |  15s  | contains enough wine for 8 people to drink their fill |
@@ -100,7 +100,7 @@ May be bought from an apothecary or Witch for varying prices, availability subje
 ## Beasts of Burden
 
 |       Item        | Price | Description                                         |
-|:-----------------:|:-----:|:--------------------------------------------------- |
+| :---------------: | :---: | :-------------------------------------------------- |
 |    Pack Horse     |  50   | all horses carry 15 slots                           |
 |   Riding Horse    |  150  | for riding quickly over far distances               |
 |   Hunter Horse    |  450  | trained for combat                                  |
@@ -118,7 +118,7 @@ Beasts of Burden require 4x as much water and 2x as much food as a man. Camels c
 ## Storage
 
 |  Item  | Price | Description                              |
-|:------:|:-----:|:---------------------------------------- |
+| :----: | :---: | :--------------------------------------- |
 | Barrel |  20s  | 20 slots or 40 slots (80L) of liquid     |
 |  Sack  |  12s  | takes up 10 slots, holds 20 slots inside |
 
