@@ -23,7 +23,7 @@ Roll 1d4 once per Attribute to determine the modifier of each.
 
 Unless otherwise stated, you begin with the following:
 
-### Stats
+### Stats [^1]
 
 - Slaying of 8, your ability to strike foes in combat, adds to a 1d20
 - Evasion of 10, your ability to avoid attacks in combat, adds to a 1d20
@@ -80,7 +80,7 @@ Cunning thieves and spies.
 - 6 HP
 - Move Silently of 8
 - +2 to Saves involving acts of nimbleness and agility
-- Can easily search rooms, open locks, and disable traps — You can add your Wits and your Rogue level to the occasional roll.
+- Can easily search rooms, open locks, and disable traps — You can add your Wits and your Thief level to the occasional roll.
 
 #### Gear
 
@@ -165,3 +165,5 @@ Talented jacks-of-all-trades.
 - Instrument of Choice
 - 8 Throwing Knives
 - Padded Boots
+
+[^1]: Class levels are only used as a modifier to rolls in tasks related to each Class's functions and specializations.
