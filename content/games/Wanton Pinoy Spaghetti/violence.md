@@ -5,7 +5,11 @@ bookCollapseSection: false
 weight: 30
 ---
 
-> Based on [Luke Gearing's Violence](https://lukegearing.blot.im/violence)!
+{{< hint danger >}}
+_Based on [Luke Gearing's Violence](https://lukegearing.blot.im/violence)!_
+{{< /hint >}}
+
+---
 
 ## Initiative
 
@@ -78,3 +82,13 @@ An example would be the coach gun being able to fire 4 shots in a single round o
 When you take an Injury and happen to survive a violent encounter due to an ally's intervention, you must spend a week resting in a safe place per injury to heal. 3 injuries means 3 weeks for example.
 
 After 3 days of receiving injuries, you may move around and act in some debilitated capacity. You, however, retain those injuries until you heal.
+
+## Enemy Morale
+
+Each enemy has a morale value. Roll 2d6 when
+
+- their leader is shot
+
+- numbers are halved
+
+If the result exceeds the sum of their total morale, they flee or surrender. Players must choose when their characters commit to either.
