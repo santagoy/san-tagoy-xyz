@@ -43,13 +43,13 @@ After the violence is concluded, roll a d20 for each person Down. Add +2 for eac
 
 ## Sniping
 
-To snipe, you must be at a distance. The target must also be unaware of your position and be either not in cover or not moving. To hit, roll 12+ with Advantage and add relevant Tags.
+To snipe, you must be at a distance. The target must also be unaware of your position and be either not in cover or not moving. To hit, roll 12+ with Edge (2d20 take the higher) and add relevant Tags.
 
 On a hit, roll for if they are Downed or Injured.
 
 ## Melee
 
-Both combatants roll a d12 and add relevant modifiers. Pronounce if intent is to subdue or to kill.
+Both combatants roll a d12 and add relevant modifiers. Announce if intent is to subdue or to kill.
 
 - If the difference between them is 1 or 0, both are Injured and the fight continues.
 
@@ -81,9 +81,11 @@ An example would be the coach gun being able to fire 4 shots in a single round o
 
 When you take an Injury and happen to survive a violent encounter due to an ally's intervention, you must spend a week resting in a safe place per injury to heal. 3 injuries means 3 weeks for example.
 
-After 3 days of receiving injuries, you may move around and act in some debilitated capacity. You, however, retain those injuries until you heal.
+After 3 days of receiving injuries, you may move around and act in a debilitated capacity. You, however, retain those injuries until you heal.
 
 ## Enemy Morale
+
+Assign a moral rating to a general group of enemies from 3 to 9. The higher, the less likely to rout.
 
 Each enemy has a morale value. Roll 2d6 when
 
@@ -91,4 +93,6 @@ Each enemy has a morale value. Roll 2d6 when
 
 - numbers are halved
 
-If the result exceeds the sum of their total morale, they flee or surrender. Players must choose when their characters commit to either.
+If the result exceeds the sum of their total morale, they flee or surrender.
+
+Players' prerogative for when their characters fold.
