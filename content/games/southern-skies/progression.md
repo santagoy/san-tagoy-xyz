@@ -11,7 +11,7 @@ There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maxi
 
 Every odd-numbered level after the first, choose a **Boon** [^1].
 
-{{< expand "Character Boons">}}
+{{< details title="**BOONS**" open=false >}}
 
 1. **Berserk:** Rage to gain +2 to Slaying, Saves, and Damage for one round as well as +2 HD temporarily for one encounter (the latter applies only once per encounter). Afterward, Save or lose the ability for the day.
 2. **The Grappler:** All attempts at grapples are made with +2. Additionally, if you are currently grappled, roll a Save. On a success, you counter the grapple.
@@ -25,7 +25,7 @@ Every odd-numbered level after the first, choose a **Boon** [^1].
 10. **Tracking:** Track targets on a 4-in-6 chance basis, adjusted for small or large parties, inclement weather, and the like.
 11. **Two Weapon Fighting:** Fight with a light weapon in the off hand, for either +2 Evasion, or an extra attack at –2 to hit each round.
 12. **Weapon Specialization:** Gain +2 to hit and damage with one weapon type of choice.
-    {{< /expand >}}
+    {{< /details >}}
 
 You need Experience Points (XP) to level-up. Your total XP must equal the value required for the succeeding level.
 
@@ -47,7 +47,7 @@ XP is equal to silver pieces (s) earned after character creation. Finding lost t
 
 Most of the possible Glories players can can earn are listed below. **Players who achieve a Glory are granted 2500s by the King**. The sum distributed evenly amongst them. Some Glories, however, are worth double or even triple that amount as indicated below.
 
-{{< expand "Glories for XP">}}
+{{< details title="**GLORIES**" open=false >}}
 
 1. Win a tournament (each time)
 2. Resolve a situation scourging a village or more’s worth of people (each time)
@@ -79,7 +79,7 @@ Most of the possible Glories players can can earn are listed below. **Players wh
 28. Build an elaborate and difficult-to-plunder tomb for yourself (once)
 29. Become lord to a barony (once, worth triple)
 30. Form your own order of chivalrous knights (once, worth triple)
-    {{< /expand >}}
+    {{< /details >}}
 
 [^1]: The idea of Boons was taken from Feats in [Original Edition Delta](http://www.oedgames.com/).
 [^2]: The idea of earning XP in this format was taken from [this blog post about Knightly games](https://riseupcomus.blogspot.com/2018/04/the-matter-of-marcher-lords.html).
