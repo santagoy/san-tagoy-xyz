@@ -51,7 +51,7 @@ You know your mother tongue and its appropriate script.
 
 Choose one from below. You can't multiclass.
 
-### [Fighter]({{< ref "/posts/fighter.md" >}})
+### [Fighter]({{< ref "\posts\fighter.md" >}})
 
 Mighty warriors.
 
@@ -71,7 +71,7 @@ Mighty warriors.
 
 ---
 
-### [Thief]({{< ref "/posts/thief.md" >}})
+### [Thief]({{< ref "\posts\thief.md" >}})
 
 Cunning thieves and spies.
 
@@ -90,7 +90,7 @@ Cunning thieves and spies.
 
 ---
 
-### [Hunter]({{< ref "/posts/hunter.md" >}})
+### [Hunter]({{< ref "\posts\hunter.md" >}})
 
 Skilled trackers and foragers.
 
@@ -110,7 +110,7 @@ Skilled trackers and foragers.
 
 ---
 
-### [Sage]({{< ref "/posts/sages.md" >}})
+### [Sage]({{< ref "\posts\sages.md" >}})
 
 Faustian scholars.
 
@@ -167,11 +167,7 @@ Talented jacks-of-all-trades.
 - Padded Boots
 
 [^1]: Slaying only adds Fighter Levels to the 1d20 roll. You can only add Hunter Levels to Slaying with missile attacks.
-
 [^2]: Evasion only adds Fighter or Thief Levels.
-
 [^3]: 2m is equal to 1" at the table.
-
 [^4]: Saves add all Classes' Levels.
-
 [^5]: Please see Class handouts in the [blog]({{< ref "/posts/_index.md" >}}) or by clicking the title of each Class.
