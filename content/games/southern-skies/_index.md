@@ -30,3 +30,7 @@ The third is the **Quartermaster**, their role is to manage upkeep and prepare f
 The fourth is the **Scribe**, their role is to make a journal report at the end of the session. This is for the benefit of those not at the adventure who want to keep abreast of the situation. Write as plainly or as flowery as you desire, but not in bullet points. If there is an adventure report written for the session, all players in the session receive an additional 300xp and the Scribe gains an additional 300xp and 200 silver pieces from the King.
 
 [^1]: The system is taken from [Target 20](http://www.oedgames.com/target20/) from OED Games.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
