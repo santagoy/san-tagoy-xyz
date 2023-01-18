@@ -75,7 +75,7 @@ Account for every shot. Revolvers usually have 6 shots. Lever-actions, about 7-9
 
 Coach guns only fire two shots. Single-shot rifle, only one shot of course. Bolt-action rifles? 5 shots. Anything with the `quick reload` Tag can be reloaded freely once per round after firing to be fired again.
 
-An example would be the coach gun being able to fire 4 shots in a single round or a revolver with a speed loader can fire 12 rounds total before spending one round to reload.
+An example would be the coach gun being able to fire 4 shots in a single round or a revolver with a speed loader can fire 12 rounds total.
 
 ## Healing
 
