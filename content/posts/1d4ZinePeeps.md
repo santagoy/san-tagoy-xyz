@@ -105,3 +105,20 @@ Whether your still studying in the institution, working in it, or just gave up a
 Once you get even a lick of sleep, the wolf comes out. Once you remove the silver around your neck, the wolf comes out. You sleep in a silver-lined blanket just to keep the wolf from coming out. The beast unleashed is your id manifest. You only have a semblance of control while in this form as if you were in a dream. Test Luck every minute to avoid lashing out against friends.
 
 While in this form, you gain 5 Athletics and 5 Unarmed Fighting, but lose access to your other Advanced Skills.
+
+---
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/san_tagoy"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/san_tagoy', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Like my stuff? Subscribe to my newsletter!</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
