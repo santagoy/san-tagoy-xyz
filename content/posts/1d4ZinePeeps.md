@@ -117,7 +117,7 @@ While in this form, you gain 5 Athletics and 5 Unarmed Fighting, but lose access
 >
   <label for="bd-email">Like my stuff? Subscribe to my newsletter!</label>
   <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
+  <input type="submit" value="I'd love to!" />
   <p>
     <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
