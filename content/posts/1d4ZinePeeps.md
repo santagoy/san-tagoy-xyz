@@ -1,6 +1,6 @@
 ---
 author: Nico Santagoy
-date: 2023-01-23
+date: 2023-01-21
 linktitle: 1d4 Lokal Peeps into Zines
 menu:
   main:
