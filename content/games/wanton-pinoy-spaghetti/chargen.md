@@ -22,9 +22,9 @@ How many languages do you know? Can't decide? Roll a 1d4 and that's how many lan
 
 ## The Numbers
 
-Now roll 1d4 for each of the three named Tag categories below. Whatever the result for each is how many starting Tags you get per category. Each Tag adds a +2 to a 1d20 roll.
+Now roll 1d4 once for each of the three named Tag categories below. The result of the 1d4 is how many Tags you can pick from each column list in the table below. If you can't decide on which Tag to get, roll 1d10.
 
-You only roll a 1d20 when doing something risky like shooting a foe in a firefight or trying to pick a lock under duress. The number you need to beat is often between 10 and 15 while it's a 16+ in combat.
+Each Tag adds a +2 to a 1d20 roll. You only roll a 1d20 when doing something risky like shooting a foe in a firefight or trying to pick a lock under duress. The number you need to beat is often between 10 and 15 while it's a 16+ in combat.
 
 At times you roll with Edge or Slack which is rolling two d20s and taking the highest or lowest respectively.
 
