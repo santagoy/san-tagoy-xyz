@@ -19,7 +19,7 @@ images:
 ---
 
 > "War. War never changes."
-— Ron Perlman, Fallout intros.
+> — Ron Perlman, Fallout intros.
 
 In the year 2050, the extraction of wealth from the former colonies, or "enclaves of the free world", proved beneficial to the American War Machine. The Philippines, in particular, was a fattened cow whose wealth and value poured from its slit throat. Only a select (arbitrary) few could reap the benefits of the conquering of their fellow countrymen. It may have been at the cost of their already diminished dignity, but a barely extant conscience is a great abettor. The American Dream needed its enforcers.
 
@@ -31,9 +31,9 @@ Over hundreds of years since the bombs fell. Humanity persists.
 
 # 1 – Manila Jai Alai Building
 
-It withstood the second Great War and it went on to survive the commercial whims of local government officials who'd have preferred it be replaced by another mall. Now it is home to the ***Blazing Bakunawas***.
+It withstood the second Great War and it went on to survive the commercial whims of local government officials who'd have preferred it be replaced by another mall. Now it is home to the **_Blazing Bakunawas_**.
 
-This mercenary clan has eschewed the use of firearms in their code of honor and fight only with a miscellany of trick projectiles launched with their cesta baskets. Studded *pelotas*, impact grenades (colloquially known as pillboxes), and even hallucinatory liquids packed in balloons are all launched at targets.
+This mercenary clan has eschewed the use of firearms in their code of honor and fight only with a miscellany of trick projectiles launched with their cesta baskets. Studded _pelotas_, impact grenades (colloquially known as pillboxes), and even hallucinatory liquids packed in balloons are all launched at targets.
 
 They're in high demand across the Wastes and are famously among the toughest of Mercenary clans.
 
@@ -51,7 +51,7 @@ A "living museum" meant to both celebrate Filipino History within a reality-warp
 
 "Z-Soda. It's Zuper!" was the famous tagline that etched itself into the brains of every single soul across the free world.
 
-The symbol of their eternal place in the public consciousness of the Philippines was Z-Soda Park. Now, however, it's a hollowed out ruin inhabited by a number of robots turned sentient. ***Protocol Katipunan*** are what they call themselves as their leader believes itself to be possessed by the spirit of Andres Bonifacio.
+The symbol of their eternal place in the public consciousness of the Philippines was Z-Soda Park. Now, however, it's a hollowed out ruin inhabited by a number of robots turned sentient. **_Protocol Katipunan_** are what they call themselves as their leader believes itself to be possessed by the spirit of Andres Bonifacio.
 
 They've poached the mechanisms of several attractions to create laboratories for producing various recreational drugs and hallucinogens to provide to the Kapitol Wastes. They also send out search parties to hunt for scrap for unit maintenance and laboratory maintenance.
 
@@ -93,7 +93,7 @@ An even larger staircase than the one outside leads further into the museum, but
 
 ### 2.3.2 – Lower Ground Level
 
-Once the grand exhibit room for Z-Soda Museum. They're history as a company and their endeavors in the country were all documented here at one point. Now here: The worn-away wallpaper, manufactured to have a texture akin to Z-Soda cans, bear a paisley pattern of fractal Z's. Scattered between *7a* and *7b* are animatronic polar bears and a cold skeleton of what was once a Santa Claus. A faint smell of burnt cables pervades.
+Once the grand exhibit room for Z-Soda Museum. They're history as a company and their endeavors in the country were all documented here at one point. Now here: The worn-away wallpaper, manufactured to have a texture akin to Z-Soda cans, bear a paisley pattern of fractal Z's. Scattered between _7a_ and _7b_ are animatronic polar bears and a cold skeleton of what was once a Santa Claus. A faint smell of burnt cables pervades.
 
 ![custom map](/images/export-americana/Z-Soda-Basement1.png "Z-Soda Museum Basement 1")
 
@@ -195,10 +195,10 @@ As a teacher substitute model, he reads and writes at ludicrous speeds. His proc
 
 Chief production officer of narcotics to the Katipuneros. As a prototype, she served on the frontlines as an organic soldier substitute. She is getting cabin fever from the lockdown and is, therefore, taking the lead in the investigation into this killing spree.
 
-## 2.5 –  Clue Matrix
+## 2.5 – Clue Matrix
 
-|  Katipunero Name   | Mechanical surgery protocols | With EMP shielding | Has the remote access to the mainframe | Has fine motors for cursive |
-| ------------------ |:----------------------------:|:------------------:|:--------------------------------------:|:---------------------------:|
+| Katipunero Name    | Mechanical surgery protocols | With EMP shielding | Has the remote access to the mainframe | Has fine motors for cursive |
+| ------------------ | :--------------------------: | :----------------: | :------------------------------------: | :-------------------------: |
 | Andres Bonifacio   |                              |         x          |                   x                    |                             |
 | Antonio Luna       |                              |         x          |                                        |                             |
 | Apolinario Mabini  |              x               |                    |                                        |              x              |

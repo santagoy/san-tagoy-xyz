@@ -17,9 +17,9 @@ tags:
   - Blasphemy
 ---
 
-Troika backgrounds with a blasphemous flair in an acid west kind of place. This isn't the frontier, no. Think more of the colonies and a growing amount of ***spite*** against the institutions of beliefs and the people granted absolute power by that system.
+Troika backgrounds with a blasphemous flair in an acid west kind of place. This isn't the frontier, no. Think more of the colonies and a growing amount of **_spite_** against the institutions of beliefs and the people granted absolute power by that system.
 
-> *I'll release more things like this in the future.*
+> _I'll release more things like this in the future._
 
 # Character Creation
 
@@ -57,7 +57,7 @@ The Greater Church's forces were zealously thorough in the systemic culling of a
 
 Possessions:
 
-- heretical ritual sickle *(with a groove for poisons)*
+- heretical ritual sickle _(with a groove for poisons)_
 - symbolic carpenter's hammer
 - tattoo of eldritch agreement
 
@@ -70,10 +70,10 @@ Advanced Skills and Spells:
 - 1 Sickle Fighting
 
 Special:
-In exchange for eternal servitude post-vengeance, you have a pact with a powerful, unfathomable entity. The corruption has warped your body: your blood is now Faithsbane and poisons any believer or clergyman from *that* Church. Additionally, there is a 2-in-6 chance you begin with 1 random mutation:
+In exchange for eternal servitude post-vengeance, you have a pact with a powerful, unfathomable entity. The corruption has warped your body: your blood is now Faithsbane and poisons any believer or clergyman from _that_ Church. Additionally, there is a 2-in-6 chance you begin with 1 random mutation:
 
 | 1d6 | Mutation                                                      |
-|:---:| ------------------------------------------------------------- |
+| :-: | ------------------------------------------------------------- |
 |  1  | crab claw in lieu of a hand                                   |
 |  2  | infravision eyes, the pupils are black slits on yellow irises |
 |  3  | powerful, inverted legs like that of a predator               |

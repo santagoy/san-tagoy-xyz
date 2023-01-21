@@ -95,4 +95,4 @@ Each enemy has a morale value. Roll 2d6 when
 
 If the result exceeds the sum of their total morale, they flee or surrender.
 
-Players' prerogative for when their characters fold.
+Players' prerogative on when their characters fold.
