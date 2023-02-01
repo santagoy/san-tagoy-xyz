@@ -34,7 +34,7 @@ You need Experience Points (XP) to level-up. Your total XP must equal the value 
 |   2   |       1500        |
 |   3   |       3000        |
 |   4   |       6000        |
-|   5   |       1200        |
+|   5   |       12000       |
 |   6   |       24000       |
 |   7   |       48000       |
 |   8   |       96000       |
