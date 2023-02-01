@@ -5,9 +5,7 @@ bookCollapseSection: false
 weight: 20
 ---
 
-{{< hint info >}}
 All prices are in Pesos.
-{{< /hint >}}
 
 ## Blades
 

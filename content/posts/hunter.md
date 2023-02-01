@@ -21,11 +21,11 @@ images:
   - /images/hunter/feature.jpg
 ---
 
-## *Preface*
+## _Preface_
 
 The words after aren't mine. I am using this as a reference for my players, most new to this style of play, in our upcoming open table campaign Strike the Southern Sky!
 
-I spoke to the original author and got his permission to post these writings for as long as I credit him with the following phrase: *words based on Chasing a Blaze in the Northern Sky.*
+I spoke to the original author and got his permission to post these writings for as long as I credit him with the following phrase: _words based on Chasing a Blaze in the Northern Sky._
 
 ---
 
