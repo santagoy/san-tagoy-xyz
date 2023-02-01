@@ -6,3 +6,5 @@ outputs:
   - html
   - toroidal
 ---
+
+{{< toroidal-admin >}}

@@ -1,7 +1,8 @@
 {
   "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
   "frontMatter.extends": [
-    "https://platen.io/frontmatter/platen.json"
+    "https://platen.io/frontmatter/platen.json",
+    "https://platen.io/frontmatter/toroidal.json"
   ],
   "frontMatter.site.baseURL": "https://platen-template.netlify.app",
   "frontMatter.taxonomy.tags": [],
