@@ -1,1 +1,14 @@
 # yaml-language-server: $schema=https://platen.io/modules/platen/config/site/theme/variables/light_scss/schema.json
+purple: "#8d5a97"
+lightpurple: "#907f9f"
+darkpurple: "#3e2443"
+brown: "#1c1c11"
+color-link: "#9f1900"
+color-visited-link: "#9f1900"
+body-background: "#b9aec3"
+bg-image: 'url("https://san-tagoy.xyz/images/bg-texture.png")'
+body-font-color: "#1c1c11"
+icon-filter: "brightness(0) invert(1)"
+hint-color-info: "#6bf"
+hint-color-warning: "#fd6"
+hint-color-danger: "#f66"

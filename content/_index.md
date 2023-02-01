@@ -1,7 +1,8 @@
 ---
 title: Nico's Road to Better Writing
-type: docs
-bookToc: false
+platen:
+  table_of_contents:
+    render: false
 ---
 
 # Nico's Road to Better Writing
