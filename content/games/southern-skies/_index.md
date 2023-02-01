@@ -2,7 +2,9 @@
 title: Southern Skies
 date: 2022-12-06
 summary: An OD&D Retroclone for my home games
-bookCollapseSection: true
+platen:
+  menu:
+    collapse_section: true
 ---
 
 # Player-Facing Rules

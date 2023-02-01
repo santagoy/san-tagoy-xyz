@@ -2,7 +2,9 @@
 title: Wanton Pinoy Spaghetti
 date: 2022-09-25
 summary: An unconventional Spaghetti Western
-bookCollapseSection: true
+platen:
+  menu:
+    collapse_section: true
 ---
 
 ## Introduction

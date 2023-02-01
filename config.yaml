@@ -16,17 +16,18 @@ module:
 # disablePathToLower: true
 # enableGitInfo: true
 
-# Needed for mermaid/katex shortcodes
-# markup:
-#   goldmark:
-#     renderer:
-#       unsafe: true
-#     parser:
-#       attribute:
-#         block: true
-#   tableOfContents:
-#     startLevel: 1
-#     endLevel: 5
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 5
+
 
 # Multi-lingual mode config
 # There are different options to translate files
