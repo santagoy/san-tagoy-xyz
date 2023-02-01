@@ -1,0 +1,20 @@
+.markdown {
+  table {
+    overflow: auto;
+    display: block;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-top: $padding-large;
+    margin-bottom: $padding-large;
+
+    tr th,
+    tr td {
+      padding: $padding-medium $padding-large;
+      border: $padding-minimal solid rgb(255, 255, 255);
+    }
+
+    tr:nth-child(2n) {
+      background: rgb(255, 255, 255);
+    }
+  }
+}

@@ -12,6 +12,12 @@ There are 10 levels. Every even-numbered level grants +1 Hit Dice (HD) to a maxi
 Every odd-numbered level after the first, choose a **Boon** [^1].
 
 ```details
+---
+summary: BOONS
+linkable: true
+open: false
+---
+
 1. **Berserk:** Rage to gain +2 to Slaying, Saves, and Damage for one round as well as +2 HD temporarily for one encounter (the latter applies only once per encounter). Afterward, Save or lose the ability for the day.
 2. **The Grappler:** All attempts at grapples are made with +2. Additionally, if you are currently grappled, roll a Save. On a success, you counter the grapple.
 3. **Great Fortitude:** Gain a +2 bonus to saves against poison, disease, and death.
@@ -47,6 +53,12 @@ XP is equal to silver pieces (s) earned after character creation. Finding lost t
 Most of the possible Glories players can can earn are listed below. **Players who achieve a Glory are granted 2500s by the King**. The sum distributed evenly amongst them. Some Glories, however, are worth double or even triple that amount as indicated below.
 
 ```details
+---
+summary: GLORIES
+linkable: true
+open: false
+---
+
 1. Win a tournament (each time)
 2. Resolve a situation scourging a village or more’s worth of people (each time)
 3. Slay a famous villain (e.g., dragon or wicked knight) (each time, worth double)
