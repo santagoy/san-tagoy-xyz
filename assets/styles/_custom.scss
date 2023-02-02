@@ -240,7 +240,7 @@ body[dir="rtl"] .platen-menu input.toggle:checked + label::after {
   padding: 0.5rem;
   border: 0;
   border-radius: 0.25rem;
-  background: rgba(255, 205, 232, 0.636);
+  background: rgba(235, 235, 235, 0.636);
 }
 .platen-search input:required + .platen-search-spinner {
   display: block;
