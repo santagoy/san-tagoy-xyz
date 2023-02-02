@@ -7,4 +7,4 @@ menu:
     entries:
       - feature: toroidal
         weight: 1
-        page_path: webrings/cool-peeps
+        page_path: webrings/cool-peeps/nico-santagoy
