@@ -3,9 +3,6 @@ module github.com/platenio/platen-template
 go 1.16
 
 require (
-	github.com/alex-shpak/hugo-book v0.0.0-20221111100854-d5b75f4fb3aa // indirect
-	github.com/platenio/hugo-platen v0.1.0 // indirect
-	github.com/platenio/hugo-platen-netlify v0.1.0 // indirect
-	github.com/platenio/hugo-toroidal v0.0.0-20220517032152-48506e061fdc // indirect
-	github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.80 // indirect
+	github.com/platenio/platen/modules/platen v0.0.0-20230201010936-058d7b1f175e // indirect
+	github.com/platenio/platen/modules/toroidal v0.0.0-20230201010936-058d7b1f175e // indirect
 )

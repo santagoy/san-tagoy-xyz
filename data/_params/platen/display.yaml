@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://platen.io/modules/platen/config/site/display/settings/schema.json
+logo:
+  url: /icons/site-logo.png
+menu:
+  root_section: games
+  after_injection:
+    entries:
+      - feature: toroidal
+        weight: 1
+        page_path: webrings/cool-peeps
+        display_name: Cool Peeps

@@ -45,9 +45,7 @@ If the injustice isn't within your power to correct then you must connect with t
 
 The rites for these sanctifications vary from Keeper to Keeper. A temporary bargain, a promise of a favor, the incurring of debts, with a Psychopomp are prerequisites for aid.
 
-{{< hint info >}}
-*Make a +3 Warding Save when a Ghost attempts to possess you. Failure means losing yourself for a fair amount of time. You may repeat the save every minute the Ghost remains in your body.*
-{{< /hint >}}
+_Make a +3 Warding Save when a Ghost attempts to possess you. Failure means losing yourself for a fair amount of time. You may repeat the save every minute the Ghost remains in your body._
 
 ## Speak to the Dead Beyond
 

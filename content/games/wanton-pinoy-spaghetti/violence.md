@@ -5,9 +5,7 @@ bookCollapseSection: false
 weight: 30
 ---
 
-{{< hint danger >}}
 _Based on [Luke Gearing's Violence](https://lukegearing.blot.im/violence)!_
-{{< /hint >}}
 
 ---
 
