@@ -3,7 +3,7 @@
 # see: http://platen.io/modules/toroidal/config/content/member/
 name: Nico Santagoy
 description: |
-  That's me! I make RPG stuff for people!
+  That's me! I make analog RPG stuff on this site powered by Platen!
 weight: 1 # Replace with desired weight.
 type: toroidal
 toroidal_home_page: https://san-tagoy.xyz/ # Replace with the member's actual site

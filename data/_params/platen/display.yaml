@@ -3,9 +3,8 @@ logo:
   url: /icons/site-logo.png
 menu:
   root_section: games
-  after_injection:
+  after_root_section:
     entries:
       - feature: toroidal
         weight: 1
         page_path: webrings/cool-peeps
-        display_name: Cool Peeps
