@@ -5,9 +5,21 @@ bookCollapseSection: false
 weight: 20
 ---
 
-All prices are in Pesos.
+# Gear
 
-## Blades
+`All prices are in Pesos.`
+
+## Weapons
+
+````tabs
+---
+id: minimal-yaml
+---
+
+```tab
+---
+name: '**BLADES**'
+---
 
 |      Item      | Cost |    Remarks    |
 | :------------: | :--: | :-----------: |
@@ -17,15 +29,18 @@ All prices are in Pesos.
 |      Bolo      |  11  |               |
 |      Kris      |  14  |               |
 |   Cane Sword   |  20  | _Concealable_ |
-
-## Firearms and Accessories
+```
+```tab
+---
+name: '**FIREARMS**'
+---
 
 |        Item         | Cost |                      Remarks                       |
 | :-----------------: | :--: | :------------------------------------------------: |
 |      Revolver       |  18  |                     _6 shots_                      |
 |      Derringer      |  15  |                   _Concealable_                    |
 |      Coach Gun      |  22  |  _2 shots, quick reload, uses buckshot and slugs_  |
-| Lever-action Rifle  |  27  |    _10-15 shots, uses revolver or hunting ammo_    |
+| Lever-action Rifle  |  27  |   _10--15 shots, uses revolver or hunting ammo_    |
 |  Single-shot Rifle  |  18  | _1 shot, quick reload, uses hunting or rifle ammo_ |
 |  Bolt-Action Rifle  |  35  |      _5 Shots, quick reload, uses rifle ammo_      |
 |    Speed Loader     |  8   |            _quick reload for revolver_             |
@@ -34,6 +49,8 @@ All prices are in Pesos.
 |  Rifle Ammunition   |  3   |                _10 rounds, 1 slot_                 |
 |      Buckshot       |  2   |                _10 rounds, 1 slot_                 |
 |        Slugs        |  2   |                _10 rounds, 1 slot_                 |
+```
+````
 
 ## Tools and Misc
 
@@ -49,6 +66,18 @@ All prices are in Pesos.
 |      Saddle      |  20  |                 |
 |    _Salakot_     |  5   |                 |
 
+## Animals
+
+````tabs
+---
+id: minimal-yaml
+---
+
+```tab
+---
+name: '**LIVESTOCK**'
+---
+
 ## Livestock
 
 |        Item        | Cost |    Remarks    |
@@ -59,7 +88,11 @@ All prices are in Pesos.
 |        Goat        |  28  |               |
 |      Chicken       |  8   |               |
 | Fine Fighting Cock |  75  |               |
-
+```
+```tab
+---
+name: '**BEASTS OF BURDEN**'
+---
 ## Beasts of Burden
 
 |    Item    | Price | Description                                         |
@@ -76,3 +109,5 @@ All prices are in Pesos.
 Animals hitched may pull 4x their slots, but require a road to pass through mountains, forests, swamps, or dessert terrain.
 
 Beasts of Burden require 4x as much water and 2x as much food as a man. Camels can forgo both for 2 weeks.
+```
+````

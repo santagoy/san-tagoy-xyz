@@ -28,7 +28,6 @@ markup:
     startLevel: 1
     endLevel: 5
 
-
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
@@ -56,8 +55,6 @@ params:
   #   # (Optional, default light) Sets color theme: light, dark or auto.
   #   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   #   # BookTheme: "purple"
-
-  ThemeVariant: "purple"
 #   # (Optional, default true) Controls table of contents visibility on right side of pages.
 #   # Start and end levels can be controlled with markup.tableOfContents setting.
 #   # You can also specify this parameter per page in front matter.

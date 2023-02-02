@@ -188,14 +188,6 @@ aside nav ul a:hover {
   flex: 0 0 16rem;
   font-size: 0.875rem;
 }
-.platen-menu .platen-menu-content {
-  width: 16rem;
-  padding: 1rem;
-  background: var(--body-background);
-  position: fixed;
-  top: 0;
-  bottom: 0;
-}
 .platen-menu a,
 .platen-menu label {
   color: inherit;
@@ -248,8 +240,7 @@ body[dir="rtl"] .platen-menu input.toggle:checked + label::after {
   padding: 0.5rem;
   border: 0;
   border-radius: 0.25rem;
-  background: var(--gray-100);
-  // color: var(--body-font-color);
+  background: rgba(255, 205, 232, 0.636);
 }
 .platen-search input:required + .platen-search-spinner {
   display: block;
@@ -542,7 +533,7 @@ main {
   background-color: transparent;
 }
 div.platen-menu-content nav > ul:not([class^="platen"]) {
-  margin-top: 2.5em;
+  margin-top: 2em;
 }
 h1 {
   font-size: 2em;
@@ -580,45 +571,45 @@ input {
 input {
   overflow: visible;
 }
-[type="button"],
-[type="reset"],
-[type="submit"] {
-  -webkit-appearance: button;
-}
-[type="button"]::-moz-focus-inner,
-[type="reset"]::-moz-focus-inner,
-[type="submit"]::-moz-focus-inner {
-  border-style: none;
-  padding: 0;
-}
-[type="button"]:-moz-focusring,
-[type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
-}
-progress {
-  vertical-align: baseline;
-}
-[type="checkbox"],
-[type="radio"] {
-  box-sizing: border-box;
-  padding: 0;
-}
-[type="number"]::-webkit-inner-spin-button,
-[type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
-[type="search"] {
-  -webkit-appearance: textfield;
-  outline-offset: -2px;
-}
-[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
-::-webkit-file-upload-button {
-  -webkit-appearance: button;
-  font: inherit;
-}
+// [type="button"],
+// [type="reset"],
+// [type="submit"] {
+//   -webkit-appearance: button;
+// }
+// [type="button"]::-moz-focus-inner,
+// [type="reset"]::-moz-focus-inner,
+// [type="submit"]::-moz-focus-inner {
+//   border-style: none;
+//   padding: 0;
+// }
+// [type="button"]:-moz-focusring,
+// [type="reset"]:-moz-focusring,
+// [type="submit"]:-moz-focusring {
+//   outline: 1px dotted ButtonText;
+// }
+// progress {
+//   vertical-align: baseline;
+// }
+// [type="checkbox"],
+// [type="radio"] {
+//   box-sizing: border-box;
+//   padding: 0;
+// }
+// [type="number"]::-webkit-inner-spin-button,
+// [type="number"]::-webkit-outer-spin-button {
+//   height: auto;
+// }
+// [type="search"] {
+//   -webkit-appearance: textfield;
+//   outline-offset: -2px;
+// }
+// [type="search"]::-webkit-search-decoration {
+//   -webkit-appearance: none;
+// }
+// ::-webkit-file-upload-button {
+//   -webkit-appearance: button;
+//   font: inherit;
+// }
 template {
   display: none;
 }
@@ -656,11 +647,11 @@ input.toggle {
   // opacity: 0;
   position: absolute;
 }
-html {
-  font-size: 16px;
-  scroll-behavior: smooth;
-  touch-action: manipulation;
-}
+// html {
+//   font-size: 16px;
+//   scroll-behavior: smooth;
+//   touch-action: manipulation;
+// }
 // body {
 //   min-width: 20rem;
 //   color: var(--body-font-color);
@@ -725,16 +716,6 @@ aside nav ul ul {
 }
 .platen-icon {
   filter: var(--icon-filter);
-}
-.platen-menu .platen-menu-content {
-  width: 16rem;
-  padding: 1rem;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  margin-top: 50px;
-  overflow-x: hidden;
-  overflow-y: auto;
 }
 .platen-menu a,
 .platen-menu label {
@@ -953,16 +934,17 @@ body[dir="rtl"] .platen-menu input.toggle:checked + label::after {
 }
 .markdown code {
   padding: 0 0.25rem;
+  color: white;
   background: var(--purple);
   border-radius: 0.25rem;
   font-size: 0.875em;
 }
-.markdown pre {
-  padding: 1rem;
-  // background: var(--gray-100);
-  border-radius: 0.25rem;
-  overflow-x: auto;
-}
+// .markdown pre {
+//   padding: 1rem;
+//   // background: var(--gray-100);
+//   border-radius: 0.25rem;
+//   overflow-x: auto;
+// }
 .markdown p {
   word-wrap: break-word;
 }
@@ -995,3 +977,23 @@ body {
 // .platen-toc {
 //   color: var(--darkpurple);
 // }
+.markdown {
+  table {
+    overflow: auto;
+    display: block;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-top: $padding-large;
+    margin-bottom: $padding-large;
+
+    tr th,
+    tr td {
+      padding: $padding-medium $padding-large;
+      border: $padding-minimal solid rgb(255, 255, 255);
+    }
+
+    tr:nth-child(2n) {
+      background: rgb(206, 177, 205);
+    }
+  }
+}
