@@ -13,11 +13,11 @@ There are no fantasy races here. You are all some manner of human.
 
 You have three Attributes:
 
-- **Thews** — modifies to-hit rolls and damage rolls in melee combat
-- **Wits** — determines when they can act in mutual surprise
-- **Charisma** — adds to reaction rolls from NPCs
+- **Thews** modifies to-hit rolls and damage rolls in melee combat
+- **Wits** determines when they can act in mutual surprise
+- **Charisma** adds to reaction rolls from NPCs
 
-Roll 1d4 once per Attribute to determine the modifier of each.
+Roll 1d4 once per Attribute to know the modifier of each.
 
 ## Characters' Starting Info
 
@@ -60,7 +60,7 @@ Mighty warriors.
 - 12 Hit Points (HP)
 - Slaying of 10
 - +2 to Saves vs instant death
-- Cleave — Upon slaying an enemy, you are granted another attack.
+- **Cleave**. Upon slaying an enemy, you are granted another attack.
 
 #### Gear
 
@@ -100,7 +100,6 @@ Skilled trackers and foragers.
 - Move Silently of 8 in the wilderness
 - Unable to lose the party during bushcraft
 - Less likely to face danger while bushcrafting
-- +1 to hit with missiles
 
 #### Gear
 
@@ -119,8 +118,8 @@ Faustian scholars.
 - 4 HP
 - Save of 8
 - Fluent in 2 additional languages
-- creature contracts — knows 1 creature's true name
-- The spell Glossolalia.
+- creature contracts—knows 1 creature's true name
+- The spell **Glossolalia**.
 
 #### Gear
 
@@ -167,7 +166,7 @@ Talented jacks-of-all-trades.
 - Padded Boots
 
 [^1]: Slaying only adds Fighter Levels to the 1d20 roll. You can only add Hunter Levels to Slaying with missile attacks.
-[^2]: Evasion only adds Fighter or Thief Levels.
+[^2]: Evasion only adds Bard, Fighter, or Thief Levels.
 [^3]: 2m is equal to 1" at the table.
 [^4]: Saves add all Classes' Levels.
 [^5]: Please see Class handouts in the [blog]({{% ref "/posts/_index.md" %}}) or by clicking the title of each Class.

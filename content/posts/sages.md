@@ -74,6 +74,6 @@ At times, one could want to banish any magical creature in their service or even
 |    Demons     |      Holy symbols, blessed water, preferably all done on holy ground.      |
 |    Enigmas    |                Always specific to each individual creature.                |
 
-Roll 1d20 + Sage level + Save every time you banish a creature. On a 20, the banishing succeeds and the creature is forcibly returned to their realm. You can't ever summon them again—they hate you now. Otherwise, the creature places a curse on you as it's sent back.
+Roll 1d20 + Sage level + Save every time you banish a creature. On a 20, the banishing succeeds and the creature is forcibly returned to their realm. You can't ever summon them again—they hate you now. On a failure, the creature places a curse on you as it's sent back.
 
 [^1]: I took liberal inspiration for the magic here from Atelier Hwei's [Pariah Vol. 01](https://atelier-hwei.itch.io/pariah).

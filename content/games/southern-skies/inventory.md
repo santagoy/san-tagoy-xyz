@@ -7,24 +7,24 @@ weight: 30
 
 ## Armor and Weapons
 
-|        Item        | Price | Description                                                                                    |
-| :----------------: | :---: | :--------------------------------------------------------------------------------------------- |
-|        Helm        |  20s  | +1 to Evasion                                                                                  |
-|       Shield       |  35s  | +2 to Evasion                                                                                  |
-| Braces and Greaves |  15s  | +1 to Evasion if wearing medium or heavy armor                                                 |
-|    Light Armor     |  30s  | A leather Jerkin, linothorax, or a gambeson, +1 to Evasion                                     |
-|    Medium Armor    |  90s  | A lamellar or a cuirass, +2 to Evasion, -4 to Moving Silently                                  |
-|    Heavy Armor     | 150s  | A chainmail hauberk or a panoply, +4 to Evasion, -6 to Moving Silently                         |
-|       Dagger       |  10s  | 10m throwing range, 1d6 damage, 2d6 damage in a grapple                                        |
-|        Axe         |  15s  | (1d6 + Thews) may splinter shields and sever wooden weapon shafts                              |
-|      Bludgeon      |  15s  | (1d6 + Thews) may stun or knock down foes                                                      |
-|       Spear        |  15s  | (1d6 + Thews) may be thrown or attack from the second rank                                     |
-|   Heavy Weapons    |  30s  | (2d6 + Thews) Cannot be used in a grapple                                                      |
-|    Arming Sword    | 200s  | All swords have +1 to hit and damage and treat 1's as 6's in damage rolls if using both hands. |
-|     Greatsword     | 300s  |                                                                                                |
-|       Arrow        |  5s   | 15 pcs                                                                                         |
-|        Bow         |  50s  | Range of 30m indoors and 90m outdoors, deals 1d6 and ignores armor, but not shields.           |
-|       Quiver       |  10s  | Holds up to 20 arrows                                                                          |
+|        Item         | Price | Description                                                                                    |
+| :-----------------: | :---: | :--------------------------------------------------------------------------------------------- |
+|        Helm         |  20s  | +1 to Evasion                                                                                  |
+|       Shield        |  35s  | +2 to Evasion                                                                                  |
+| Braces and Greaves  |  15s  | +1 to Evasion if wearing medium or heavy armor                                                 |
+|     Light Armor     |  30s  | A leather Jerkin, linothorax, or a gambeson, +1 to Evasion                                     |
+|    Medium Armor     |  90s  | A lamellar or a cuirass, +2 to Evasion, --4 to Moving Silently                                 |
+|     Heavy Armor     | 150s  | A chainmail hauberk or a panoply, +4 to Evasion, --6 to Moving Silently                        |
+|       Dagger        |  10s  | 10m throwing range, 1d6 damage, 2d6 damage in a grapple                                        |
+|         Axe         |  15s  | (1d6 + Thews) may splinter shields and sever wooden weapon shafts                              |
+|      Bludgeon       |  15s  | (1d6 + Thews) may stun or knock down foes                                                      |
+|        Spear        |  15s  | (1d6 + Thews) may be thrown or attack from the second rank                                     |
+| Heavy/Great Weapons |  30s  | (2d6 + Thews) Can't be used in a grapple                                                       |
+|    Arming Sword     | 200s  | All swords have +1 to hit and damage and treat 1's as 6's in damage rolls if using both hands. |
+|     Greatsword      | 300s  |                                                                                                |
+|        Arrow        |  5s   | 15 pieces                                                                                      |
+|         Bow         |  50s  | Range of 30m indoors and 90m outdoors, deals 1d6 and ignores armor, but not shields.           |
+|       Quiver        |  10s  | Holds up to 20 arrows                                                                          |
 
 Sleep while wearing armor is impossible and further donning armor takes considerable time, enough that if a camp is ambushed it is likely impossible to do so before combat begins. A character rising from sleep can arm themselves with two of the following within a single combat round a weapon, a quiver, a helm, or a shield.
 
@@ -38,7 +38,7 @@ A character **fighting unarmed** deals their Thews modifier in damage with a suc
 | :-------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3m wooden pole  |  10s   |                                                                                                                                               |
 |  Alpinist rope  | 10s/1m | 30m per slot, lighter and more resistant to snapping                                                                                          |
-|    Caltrops     |  15s   | A bag contains enough to cover a 4m square, three bags contain enough to set up a 1m wide circular perimeter with a 5m radius.                |
+|    Caltrops     |  15s   | A bag, enough to cover a 4m square, three bags are enough to set up a 1m wide circular perimeter with a 5m radius.                            |
 |    Charcoal     |  20s   | 1 sack's worth, can be used to make markings, or start a fire in wet conditions.                                                              |
 |  Climbing Pick  |  10s   |                                                                                                                                               |
 | Climbing Piton  |   1s   | hammer into sheer surfaces to climb up                                                                                                        |
@@ -63,9 +63,8 @@ A character **fighting unarmed** deals their Thews modifier in damage with a suc
 
 Easier to make the items below than buy for smaller quantities. Large quantities, around 10L or so, is faster bought at civilization. Roughly 15s per container.
 
-**Grease** wards off water and lubricates objects, allowing things to slip.
-
-**Hide Glue** is a craftable adhesive along with **Pitch**.
+- **Grease** wards off water and lubricates objects, allowing things to slip.
+- **Hide Glue** is an easily made adhesive along with **Pitch**.
 
 ## Sustenance
 
@@ -85,7 +84,7 @@ May be bought from an apothecary or Witch for varying prices, availability subje
 
 **Aglofotis** is able to be rubbed into a wound to counter act the effects of venom or purify imbibed poison.
 
-**Monkshood** is a possibly sub-lethal poison which if swallowed cools the flesh, slows the pulse and breathing to near imperceptible levels allowing the imbiber to mimic being death, frail men risk death upon imbibing it.
+**Monkshood** is a possibly sub-lethal poison which if swallowed cools the flesh, slows the pulse and breathing to near imperceptible levels allowing the imbiber to mimic being death. Frail men risk death upon imbibing it.
 
 **Nightshade** is a poison potent enough to kill a horse if swallowed or kill a man when smeared on a weapon or arrowhead.
 
@@ -134,9 +133,9 @@ The prices for these vary wildly depending on the quality of the ship, the type 
 
 **Large Ships** can be sailed by a ten man crew or rowed by twenty men, and are able to carry a total of 50 men.
 
-## Hiring men
+## Hiring Men
 
-Men can be hired for a minimum of a month of service, requiring payment upfront.
+Men are hired for a minimum of a month of service, requiring payment upfront.
 
 **Workers** require 5 silver a week.
 

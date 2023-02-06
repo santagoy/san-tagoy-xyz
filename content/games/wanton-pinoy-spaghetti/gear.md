@@ -35,20 +35,20 @@ name: '**BLADES**'
 name: '**FIREARMS**'
 ---
 
-|        Item         | Cost |                      Remarks                       |
-| :-----------------: | :--: | :------------------------------------------------: |
-|      Revolver       |  18  |                     _6 shots_                      |
-|      Derringer      |  15  |                   _Concealable_                    |
-|      Coach Gun      |  22  |  _2 shots, quick reload, uses buckshot and slugs_  |
-| Lever-action Rifle  |  27  |   _10--15 shots, uses revolver or hunting ammo_    |
-|  Single-shot Rifle  |  18  | _1 shot, quick reload, uses hunting or rifle ammo_ |
-|  Bolt-Action Rifle  |  35  |      _5 Shots, quick reload, uses rifle ammo_      |
-|    Speed Loader     |  8   |            _quick reload for revolver_             |
-| Revolver Ammunition |  1   |                _18 rounds, 1 slot_                 |
-| Hunting Ammunition  |  2   |                _12 rounds, 1 slot_                 |
-|  Rifle Ammunition   |  3   |                _10 rounds, 1 slot_                 |
-|      Buckshot       |  2   |                _10 rounds, 1 slot_                 |
-|        Slugs        |  2   |                _10 rounds, 1 slot_                 |
+|        Item         | Cost |                       Remarks                       |
+| :-----------------: | :--: | :-------------------------------------------------: |
+|      Revolver       |  18  |                      _6 shots_                      |
+|      Derringer      |  15  |                    _Concealable_                    |
+|      Coach Gun      |  22  |  _2 shots, quick reload, uses buckshot and slugs_   |
+| Lever-action Rifle  |  27  | _9 shots on hunting ammo, 14 shots on revolver ammo |
+|  Single-shot Rifle  |  18  | _1 shot, quick reload, uses hunting or rifle ammo_  |
+|  Bolt-Action Rifle  |  35  |      _5 Shots, quick reload, uses rifle ammo_       |
+|    Speed Loader     |  8   |             _quick reload for revolver_             |
+| Revolver Ammunition |  1   |                 _18 rounds, 1 slot_                 |
+| Hunting Ammunition  |  2   |                 _12 rounds, 1 slot_                 |
+|  Rifle Ammunition   |  3   |                 _10 rounds, 1 slot_                 |
+|      Buckshot       |  2   |                 _10 rounds, 1 slot_                 |
+|        Slugs        |  2   |                 _10 rounds, 1 slot_                 |
 ```
 ````
 
