@@ -5,6 +5,8 @@ bookCollapseSection: false
 weight: 10
 ---
 
+# Making a Character
+
 You play as young initiates of a free company of knights in a setting akin to the real Dark Ages. Think of a world with an Arthurian flair: grand castles, mighty moats, and Christian overtones. You are all beholden to a king who holds the seemingly divine right to rule over lands.
 
 There are no fantasy races here. You are all some manner of human.
@@ -131,7 +133,7 @@ Faustian scholars.
 
 ### Witch
 
-Weird, potion-making arcanists.
+Weird, potion-making hermits.
 
 #### Stats
 

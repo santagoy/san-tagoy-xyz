@@ -19,7 +19,7 @@ Therefore, these are only player-facing rules that won't make much sense if you'
 
 ## Resolution
 
-When discussion doesn't yield an obvious resolution, we roll. **_1d20_** for most of your characters' risky actions, or when we just rather leave things to chance. The target is always 20+ for all d20 rolls inclusive of modifiers. [^1]
+When discussion doesn't yield an evident resolution, we roll. **_1d20_** for most of your characters' risky actions, or when we just rather leave things to chance. The target is always 20+ for all d20 rolls inclusive of modifiers. [^1]
 
 ## Player Roles
 
