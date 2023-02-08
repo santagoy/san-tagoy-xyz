@@ -53,7 +53,7 @@ You know your mother tongue and its appropriate script.
 
 Choose one from below. You can't multiclass.
 
-### [Fighter]({{% ref "/posts/fighter.md" %}})
+### [Fighter](/posts/fighter)
 
 Mighty warriors.
 
@@ -73,7 +73,7 @@ Mighty warriors.
 
 ---
 
-### [Thief]({{% ref "/posts/thief.md" %}})
+### [Thief](/posts/thief)
 
 Cunning thieves and spies.
 
@@ -92,7 +92,7 @@ Cunning thieves and spies.
 
 ---
 
-### [Hunter]({{% ref "/posts/hunter.md" %}})
+### [Hunter](/posts/hunter.md")
 
 Skilled trackers and foragers.
 
@@ -111,7 +111,7 @@ Skilled trackers and foragers.
 
 ---
 
-### [Sage]({{% ref "/posts/sages.md" %}})
+### [Sage](/posts/sages)
 
 Faustian scholars.
 
