@@ -6,7 +6,8 @@ weight: 40
 ---
 
 ## Surprise and Reaction
-When monsters are encountered the referee gauges the foes' reaction and if there is surprise. Not all monsters would immediately attack, some may even be friendly and seek to act in mutual interest parlaying with characters. Surprising another allows them to take an action before the other acts. If there is mutual surprise, characters who keep their wits about them may act as if they had surprised the monster. Without surprise, actions are resolved simultaneously.  
+
+When monsters are encountered the referee gauges the foes' reaction and if there is surprise. Not all monsters would immediately attack, some may even be friendly and seek to act in mutual interest parlaying with characters. Surprising another allows them to take an action before the other acts. If there is mutual surprise, characters who keep their wits about them may act as if they had surprised the monster. Without surprise, actions resolve simultaneously.
 
 ## Running and Hiding
 
@@ -22,7 +23,7 @@ In certain circumstances, such as traveling in the underworld by torchlight or r
 
 ## Combat
 
-Combat is resolved simultaneously between characters and their foes in a series of phases: Movement, Missile, Melee, Misc., and Morale.
+Combat resolves simultaneously between characters and their foes in a series of phases: Movement, Missile, Melee, Misc., and Morale.
 
 At the start of every round of combat (6 seconds), the caller relays the actions of each character to the referee in phase order and each phase is resolved simultaneously.
 
@@ -50,11 +51,11 @@ Your holy symbol is anathema to undead hordes. Brandish it on high and claim you
 
 Those unable to avoid violence from monsters and enemies fall unconscious and roll a save upon reaching 0 hp. Roll 1d6.
 
-|  1d6   | Death Save Result                                    |
-|:------:| ---------------------------------------------------- |
-|   1    | Certain Death                                        |
-|  2–4   | Dismemberment only                                   |
-| 5 or 6 | Survives, but will bleed out without aid in 15 mins. |
+|  1d6   | Death Save Result                                       |
+| :----: | ------------------------------------------------------- |
+|   1    | Certain Death                                           |
+|  2--4  | Dismemberment only                                      |
+| 5 or 6 | Survives, but will bleed out without aid in 15 minutes. |
 
 An unconscious character must be carried by another, encumbering them as if they were carrying 2 full satchels.
 
@@ -70,12 +71,12 @@ Fair combat between two individuals is resolved by rounds of bets, with both par
 
 Jousts are knightly contests of mounted combat. A knight must possess armor, shield, helm, mount, and at least one lance to participate.
 
-A joust is scored as the best of three tilts in which two mounted knights enter the lists and, separated by a barrier, make an unimpeded charge at one another with the objective of unhorsing the opponent. Each throws a single, simultaneous attack roll with additional modifiers depending on their mount: War-charging Horse +8, hunter horse +6, and riding or draft horse +2. On a hit throw two six-sided dice and consult the jousting table. For sport the lesser of the two dice indicates damage sustained; in war damage is the sum of both dice.
+A joust is scored as the best of three tilts in which two mounted knights enter the lists and, separated by a barrier, make an unimpeded charge at one another with the objective of unhorsing the opponent. Each throws a single, simultaneous attack roll with additional modifiers depending on their mount: War-charging Horse +8, hunter horse +6, and riding or draft horse +2. On a hit throw two six-sided dice and consult the jousting table. For sport the lesser of the two dice indicates damage sustained. While in war, damage is the sum of both dice.
 
 ### Jousting Result Table
 
 | 1-6 |  1  |  2  |  3  |  4  |  5  |  6  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  1  |  G  |  G  |  G  |  G  |  G  | B+U |
 |  2  |  G  |  G  |  G  |  B  |  B  |  U  |
 |  3  |  G  |  G  |  B  |  B  |  B  |  U  |
@@ -88,7 +89,7 @@ A joust is scored as the best of three tilts in which two mounted knights enter 
 - **H** Opponent struck upon helmet.
 - **U** Opponent unhorsed.
 
-A glancing blow scores no points. Breaking a lance upon the opponent scores one point, or three points upon the opponent’s helmet. Unhorsing the opponent scores ten points. If a knight cannot continue due to injury he loses. The loser forfeits their mount or a grander wager by prior arrangement.
+A glancing blow scores no points. Breaking a lance upon the opponent scores one point, or three points upon the opponent’s helmet. Unhorsing the opponent scores ten points. If a knight can't continue due to injury he loses. The loser forfeits their mount or a grander wager by prior arrangement.
 
 ## Encumbrance
 
