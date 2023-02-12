@@ -106,7 +106,7 @@ name: '**BEASTS OF BURDEN**'
 |    Cart    |  75   | allows for 80 slots while hitched to a draft beast  |
 |   Wagon    |  150  | allows for 250 slots while hitched to a draft beast |
 
-Animals hitched may pull 4x their slots, but require a road to pass through mountains, forests, swamps, or dessert terrain.
+Animals hitched may pull 4x their slots, but require a road to pass through mountains, forests, swamps, or desert terrain.
 
 Beasts of Burden require 4x as much water and 2x as much food as a man. Camels can forgo both for 2 weeks.
 ```
