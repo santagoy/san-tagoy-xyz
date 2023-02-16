@@ -22,6 +22,6 @@ The city-states and the barons who ruled them rose in prominence in this time. T
 Formerly laborers' augmented exoskeletons for deep sea works, now they are single-person combat frames through which most wars are fought. The **Alluvion Knight** is both a symbol of terror and liberation to the people _Post Deluge_. The clashes between Knights are legendary, an exceptional melee that has become the namesake of this era: The **Steel Typhoon Eon**.
 
 [^1]:
-    _The rules displayed in the subsequent sections are heavily inspired by the rules of the wargame Mobile Frame Zero written by D. Vincent Baker and Joshua A.C. Newman. The following words are also licensed under a similar license._
+    _The rules displayed in the subsequent sections are heavily inspired by the rules of the wargame Mobile Frame Zero written by D. Vincent Baker and Joshua A.C. Newman. The following words in this section are licensed under Creative Commons too._
 
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
