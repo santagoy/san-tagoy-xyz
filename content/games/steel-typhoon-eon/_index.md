@@ -20,3 +20,7 @@ Yet we persisted. Settlements formed and humanity rebuilt itself. We are now in 
 The city-states and the barons who ruled them rose in prominence in this time. Their rule is enforced by the social contract: every citizen of the state protected from the ravaging of bandits and the coercion into indentured servitude by rival powers. The barons' force was their armies and its vanguard, the **Alluvion Armors**.
 
 Formerly laborers' augmented exoskeletons for deep sea works, now they are single-person combat frames through which most wars are fought. The **Alluvion Knight** is both a symbol of terror and liberation to the people _Post Deluge_. The clashes between Knights are legendary, an exceptional melee that has become the namesake of this era: The **Steel Typhoon Eon**.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
