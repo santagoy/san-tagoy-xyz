@@ -13,9 +13,9 @@ _This work is a somewhat pessimistic view on humanity's path forward after irrep
 
 ---
 
-Two things spelled the near-end of humanity: the realized Mutually Assured Destruction of our nightmares and the steady melting of our polar ice caps. Much of the world lost to the rising tides. Cobalt bombs poisoned the lands it devastated. Cities deep inland became centers of irradiated maelstroms unfit for human occupation.
+Two things spelled the near-end of humanity: the realized Mutually Assured Destruction of our nightmares and the fulfilled threat of fully risen sea levels. Cobalt bombs poisoned the lands it devastated. Cities deep inland became centers of irradiated maelstroms unfit for human occupation. What little lands were left were barely habitable.
 
-Yet we persisted. Settlements formed and humanity rebuilt itself. We are now in the period _Post Deluge_ where wireless communication has effectively died and the human population has dwindled amidst this fallout.
+Yet we persisted. Settlements formed and humanity rebuilt itself. We are now in the period _Post Deluge_ where wireless communication has effectively died out like most of humanity.
 
 The city-states and the barons who ruled them rose in prominence in this time. Their rule is enforced by the social contract: every citizen of the state protected from the ravaging of bandits and the coercion into indentured servitude by rival powers. The barons' force was their armies and its vanguard, the **Alluvion Armors**.
 
