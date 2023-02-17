@@ -184,8 +184,8 @@ Roll **1d6** after every turn; on a 1, you lose control as your Alluvion Armor s
 
 When resting outside of repair hubs or doing hurried repairs at a hub, roll **1d6**:
 
-- **4--6** You repair **1d6** systems.
-- **2--3** You repair 1d3 systems.
+- **4--6** You replace **1d6** systems.
+- **2--3** You replace 1d3 systems.
 - **1** Choose either
   - Your Armor can move
   - Your Armor can attack
