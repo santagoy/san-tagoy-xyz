@@ -7,8 +7,8 @@ weight: 20
 
 # General Thoughts
 
-- Each Armor can hold 5 different systems of different types all at once
-- Up to players to choose which system complements their frame
+- Chassis models (under construction) each have different system slot limits.
+- Up to players to choose which Systems complement their chassis.
 - Each frame is (2--4 meters tall)
 - Armors are battery-powered
 - Each frame is a unique chassis with different Special Abilities (_under construction_)
@@ -28,7 +28,9 @@ Every Alluvion Knight Player begins with 2d6 Skill Dice. These can be added to a
 
 There are six types of systems total
 
-- **Defensive systems**—armor, shield, camouflage, stealth systems, damo dust measures, etc. **You can carry 0--2 of these**. The first system adds 2d6 to your Defense pool. A 2nd system adds one more **d6** and you can serve as cover for allies without risking damage to yourself.
+- **Defensive Systems** are divided into different sub-types.
+  - **Resistive Defenses**—heavy armor and damoclite shields. You can carry 0-2 of these. The first system adds 2d6 to your Defense pool. A 2nd Resistive Defense System adds one more d6 and you can serve as cover for allies without risking damage to yourself.
+  - **ECMs (Electronic Countermeasures)**—stealth systems, damo dust measures, anti-missile cannons, smoke screens, etc. These are primarily used against _Smart Weapon Systems_, but also make you harder to hit. You can carry 0-2 of any of the three. The first adds 2d6 to the system. A second Defensive System of either type adds one more d6, but you take damage when serving as cover.
 - **Movement Systems**—jump jets, aqua jets, drill skates, etc. You can carry 0-2 of these. At 0 you only have your Armor's base movement speed. The first system adds **1d6** to your Move Pool and allows you to move through cover. A 2nd system adds one more **d6**.
 - **Surveillance/Communication Systems**—laser targeting, radar, sonar, signal trackers, etc. You can carry 0--2 of these. The first system adds **1d6** to your Spot Pool. A 2nd system adds one more **d6**. No surveillance systems means you can only spot targets within in hand-to-hand or direct line of fire and only out of cover. One surveillance system means you can spot targets both in direct line of fire and behind cover. Two surveillance systems means you can spot anything on the map.
 - **Weapons Systems** are divided into different sub-types.
@@ -185,7 +187,7 @@ Roll **1d6** after every turn; on a 1, you lose control as your Alluvion Armor s
 When resting outside of repair hubs or doing hurried repairs at a hub, roll **1d6**:
 
 - **4--6** You replace **1d6** systems.
-- **2--3** You replace 1d3 systems.
+- **2--3** You replace **1d3** systems.
 - **1** Choose either
   - Your Armor can move
   - Your Armor can attack
