@@ -11,11 +11,13 @@ platen:
 
 ## Marketing is insidious, which is why I made this site: partly for marketing myself.
 
-Besides writing, I designed a number of Tabletop games: [**Letters of the Sky (2021)**](https://far-horizons-co-op.itch.io/sgd8) and [**The Moment Phantasm (2022)**](https://far-horizons-co-op.itch.io/anthology-2-1). Both epistolary games published in anthologies by The Far Horizons Co-op.
+I write things that are hopefully useful for people in the hobby. You can find my random entries in [BLOG POSTS](posts/_index.md).
 
-As for other things I've written in the scene, there's [**Blessed Art Thou (2022) in the Violence anthology**](https://spearwitch.com/products/violence-collection).
+I also have some system drafts here too like [Wanton Pinoy Spaghetti](games/wanton-pinoy-spaghetti/_index.md), my rules set for running adventures in Colonial Philippines. Adventures for it are coming soon.
 
-This is my journey to better writing. A catalog of my progress and an outlet as some creative online.
+There's also [Southern Skies](games/southern-skies/_index.md) which is my friend's OD&D clone re-written to suit more of my preferences. Finally, there's [Steel Typhoon Eon](games/steel-typhoon-eon/_index.md) an ongoing project that I hope to finish and eventually publish.
+
+I also wrote for a few things like the [Violence Collection (2022)](https://magical-banquet-club.itch.io/violence-jam-fuck-war) and the biannual [Red Solstice Zine](https://redsolstice.itch.io/).
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/san_tagoy"
