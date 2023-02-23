@@ -1,11 +1,11 @@
 ---
-title: Nico's Road to Better Writing
+title: Road to Better Writing
 platen:
   table_of_contents:
     render: false
 ---
 
-# Nico's Road to Better Writing
+# Road to Better Writing
 
 ---
 
