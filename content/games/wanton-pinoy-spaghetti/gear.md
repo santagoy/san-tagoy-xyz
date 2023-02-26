@@ -107,7 +107,7 @@ name: '**BEASTS OF BURDEN**'
 |   Camel    |  450  | carries 20 slots, riding or pack animal                              |
 |    Cart    |  100  | allows for 80 slots while hitched to a draft beast                   |
 |   Wagon    |  250  | allows for 250 slots while hitched to a draft beast                  |
-|  Carriage  |  325  | allows for 150 slots and 4 passengers while hitched to a draft beast |
+|  Carriage  |  325  | allows for 150 slots while hitched to a draft beast |
 
 Animals hitched may pull 4x their slots, but require a road to pass through mountains, forests, swamps, or desert terrain.
 
