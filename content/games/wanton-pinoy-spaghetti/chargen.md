@@ -1,6 +1,6 @@
 ---
-title: Making a Character
-summary: Character Creation
+title: Basic Character Creation
+summary: Creating your caraboy
 bookCollapseSection: false
 weight: 10
 ---
@@ -70,4 +70,4 @@ If you're **Lucky** then roll 1d6 at the start of every session. You start wit
 
 ## Renown
 
-On your character sheets you just have a brief punchy statement about your reputation after your first session. You're a myth in the making.
+After finishing your first adventure, write a brief punchy statement about your reputation. You're a myth in the making. If your **Reputation Precedes You** already then write one now.
