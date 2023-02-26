@@ -13,7 +13,7 @@ weight: 20
 
 ````tabs
 ---
-id: minimal-yaml
+id: gear-1
 ---
 
 ```tab
@@ -73,7 +73,7 @@ name: '**FIREARMS**'
 
 ````tabs
 ---
-id: minimal-yaml
+id: gear-2
 ---
 
 ```tab

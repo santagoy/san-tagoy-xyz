@@ -91,7 +91,8 @@ Whenever you end a term, Muster Out and roll once on either the Benefits Table o
 
 ````tabs
 ---
-id: minimal-yaml
+id: skills-table
+name: Skills Table
 ---
 
 ```tab
@@ -186,7 +187,8 @@ At the end of character creation, 1000 is the maximum that can be carried on han
 
 ````tabs
 ---
-id: minimal-yaml
+id: cash-table
+name: Cash Table
 ---
 
 ```tab
@@ -292,7 +294,8 @@ All Skills on the table can only be acquired twice. The second time raises the S
 
 ````tabs
 ---
-id: minimal-yaml
+id: benefits-table
+name: Benefits Tables
 ---
 
 ```tab
