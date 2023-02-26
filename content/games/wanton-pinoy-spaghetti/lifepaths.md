@@ -1,6 +1,6 @@
 ---
 title: Lifepath Character Generation
-summary: Lifepaths for characters in Spanish colonial Philippines
+summary: Lifepaths for player characters in colonial Philippines
 bookCollapseSection: false
 weight: 10
 ---
@@ -85,16 +85,195 @@ Any time you finish your term of service, you may **Muster Out** and choose a be
 
 ## Mustering Out
 
-Whenever you end a term, Muster Out and roll on either the Benefits Table or the Cash Table. Serving with Distinction grants an additional roll on either table.
+Whenever you end a term, Muster Out and roll once on either the Benefits Table or the Cash Table. Serving with Distinction grants an additional roll on either table.
 
-| **1d6** |         **Drifter**         |          **Merchant**           |         **Outlaw**          |       **Scion**       |         **Soldier**         |         **Tradesman**         |
-| :-----: | :-------------------------: | :-----------------------------: | :-------------------------: | :-------------------: | :-------------------------: | :---------------------------: |
-|    1    |    2 Skills Table rolls     | 1d6 pack horse(s) & 1d4 cart(s) |       1d6 pack horses       |  2 Cash Table rolls   | +1 to next enrollment rolls |     2 Skills Table rolls      |
-|    2    |    learn 1d4 language(s)    |      2 Skills Table rolls       | +1 to next enrollment rolls | learn 1d4 language(s) |     additional 1d6 Luck     | 1d4 pack horse(s) and 1 wagon |
-|    3    | +1 to next enrollment rolls |          land and home          |          war horse          |  fine fighting cock   |        land and home        |       owned storefront        |
-|    4    |         race horse          |      learn 1d4 language(s)      |    2 Skills Table rolls     |    1d4 race horse     |    2 Skills Table rolls     |     1d4 loyal apprentices     |
-|    5    |    1d4 loyal companions     |       2 Cash Table rolls        |        1d6 followers        |   additional house    |          war horse          |  +1 to next enrollment rolls  |
-|    6    |     2 Cash Table rolls      |       1d8 imported cattle       |        land and home        |   hectares of land    |     2 Cash Table rolls      |      2 Cash Table rolls       |
+### Benefits Table
+
+````tabs
+---
+id: minimal-yaml
+---
+
+```tab
+---
+name: '**DRIFTER**'
+---
+
+| **1d6** |        **Benefits**         |
+| :-----: | :-------------------------: |
+|    1    |    2 Skills Table rolls     |
+|    2    |    learn 1d4 language(s)    |
+|    3    | +1 to next enrollment rolls |
+|    4    |      1d4 race horse(s)      |
+|    5    |    1d4 loyal companions     |
+|    6    |     2 Cash Table rolls      |
+```
+```tab
+---
+name: '**MERCHANT**'
+---
+
+| **1d6** |           **Benefits**            |
+| :-----: | :-------------------------------: |
+|    1    | 1d6 pack horse(s) and 1d4 cart(s) |
+|    2    |       2 Skills Table rolls        |
+|    3    |           land and home           |
+|    4    |       learn 1d4 language(s)       |
+|    5    |        2 Cash Table rolls         |
+|    6    |        1d8 imported cattle        |
+```
+```tab
+---
+name: '**OUTLAW**'
+---
+
+| **1d6** |        **Benefits**         |
+| :-----: | :-------------------------: |
+|    1    |      1d6 pack horse(s)      |
+|    2    | +1 to next enrollment rolls |
+|    3    |          war horse          |
+|    4    |    2 Skills Table rolls     |
+|    5    |    1d6 devoted followers    |
+|    6    |        land and home        |
+```
+```tab
+---
+name: '**SCION**'
+---
+
+| **1d6** |     **Benefits**     |
+| :-----: | :------------------: |
+|    1    |  2 Cash Table Rolls  |
+|    2    | learn 1d4 languages  |
+|    3    |  fine fighting cock  |
+|    4    |   1d4 race horses    |
+|    5    | additional homestead |
+|    6    |   hectares of land   |
+```
+```tab
+---
+name: '**SOLDIER**'
+---
+
+| **1d6** |        **Benefits**         |
+| :-----: | :-------------------------: |
+|    1    | +1 to next enrollment rolls |
+|    2    |     additional 1d6 Luck     |
+|    3    |        land and home        |
+|    4    |    2 Skills Table rolls     |
+|    5    |          war horse          |
+|    6    |     2 Cash Table rolls      |
+```
+```tab
+---
+name: '**TRADESMAN**'
+---
+
+| **1d6** |         **Benefits**          |
+| :-----: | :---------------------------: |
+|    1    |     2 Skills Table Rolls      |
+|    2    | 1d4 pack horse(s) and 1 wagon |
+|    3    |       owned storefront        |
+|    4    |     1d4 loyal apprentices     |
+|    5    |      2 Cash Table Rolls       |
+|    6    |  +1 to next enrollment rolls  |
+```
+````
+
+### Cash Table
+
+At the end of character creation, 1000 is the maximum that can be carried on hand. The rest is placed into a bank.
+
+````tabs
+---
+id: minimal-yaml
+---
+
+```tab
+---
+name: '**DRIFTER**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         50          |
+|    2    |         75          |
+|    3    |         150         |
+|    4    |         350         |
+|    5    |         750         |
+|    6    |        1500         |
+```
+```tab
+---
+name: '**MERCHANT**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         100         |
+|    2    |         300         |
+|    3    |         500         |
+|    4    |        1000         |
+|    5    |        1250         |
+|    6    |        2500         |
+```
+```tab
+---
+name: '**OUTLAW**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         25          |
+|    2    |         50          |
+|    3    |         75          |
+|    4    |         300         |
+|    5    |         750         |
+|    6    |        3000         |
+```
+```tab
+---
+name: '**SCION**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         500         |
+|    2    |         750         |
+|    3    |        1250         |
+|    4    |        2500         |
+|    5    |        3250         |
+|    6    |        4500         |
+```
+```tab
+---
+name: '**SOLDIER**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         250         |
+|    2    |         400         |
+|    3    |         500         |
+|    4    |         750         |
+|    5    |        1250         |
+|    6    |        2000         |
+```
+```tab
+---
+name: '**TRADESMAN**'
+---
+
+| **1d6** | **Amount in Pesos** |
+| :-----: | :-----------------: |
+|    1    |         100         |
+|    2    |         250         |
+|    3    |         600         |
+|    4    |         750         |
+|    5    |         900         |
+|    6    |        2250         |
+```
+````
 
 ## Skills
 
@@ -111,18 +290,120 @@ _†Applies only if the benefit is rolled._
 
 All Skills on the table can only be acquired twice. The second time raises the Skill's modifier to +4. Re-roll freely should you roll the same Skill more than twice.
 
-| **1d8** |  **Drifter**  |    **Merchant**     |   **Outlaw**   |      **Scion**      |   **Soldier**   |  **Tradesman**   |
-| :-----: | :-----------: | :-----------------: | :------------: | :-----------------: | :-------------: | :--------------: |
-|    1    |   Throwing    |   Mercantile Law    |    Shooting    |      Etiquette      |    First Aid    |     Medicine     |
-|    2    |   Gambling    |     Navigation      |  Horsemanship  |      Sciences       |  Filibusterism  |    Metallurgy    |
-|    3    | Folk Medicine |      Etiquette      |    Throwing    | Rhetoric and Poetry |   Demolitions   |   Engineering    |
-|    4    |   Athletics   |      Gambling       |    Gambling    |     Performance     |     Gunnery     |    Carpentry     |
-|    5    |   Survival    |     Iron Liver      |    Shooting    |      Education      |   Athleticism   |   Architecture   |
-|    6    |  Fisticuffs   |     Performance     | Knife Fighting |    Horsemanship     |    Gambling     | Animal Husbandry |
-|    7    |  Quick Draw   | Rhetoric and Poetry |    Survival    |      Shooting       | Weapon Fighting |    Navigation    |
-|    8    |   Shooting    |      Intuition      |  Athleticism   |       Fencing       |    Survival     |     Sailing      |
-|    9    | Horsemanship  |       Forgery       |   Quick Draw   |     Athleticism     |   Fisticuffs    |     Gambling     |
-|   10    |  Performance  |      Education      |   Fisticuffs   |      Medicine       |    Shooting     | Sleight of Hand  |
+````tabs
+---
+id: minimal-yaml
+---
+
+```tab
+---
+name: '**DRIFTER**'
+---
+
+| **1d10** |  **Drifter**  |
+| :------: | :-----------: |
+|    1     |   Throwing    |
+|    2     |   Gambling    |
+|    3     | Folk Medicine |
+|    4     |   Athletics   |
+|    5     |   Survival    |
+|    6     |  Fisticuffs   |
+|    7     |  Quick Draw   |
+|    8     |   Shooting    |
+|    9     |    Riding     |
+|    10    |  Iron Liver   |
+```
+```tab
+---
+name: '**MERCHANT**'
+---
+
+| **1d10** |    **Merchant**     |
+| :------: | :-----------------: |
+|    1     |  Diplomacy and Law  |
+|    2     |     Navigation      |
+|    3     |      Etiquette      |
+|    4     |      Gambling       |
+|    5     |     Iron Liver      |
+|    6     |     Performance     |
+|    7     |       Sailing       |
+|    8     |      Intuition      |
+|    9     |       Forgery       |
+|    10    | Rhetoric and Poetry |
+```
+```tab
+---
+name: '**OUTLAW**'
+---
+
+| **1d10** |   **Outlaw**    |
+| :------: | :-------------: |
+|    1     |    Shooting     |
+|    2     |     Riding      |
+|    3     |    Throwing     |
+|    4     |    Shooting     |
+|    5     |    Gambling     |
+|    6     | Knife Fighting  |
+|    7     |    Survival     |
+|    8     |    Athletics    |
+|    9     | Sleight of Hand |
+|    10    |   Fisticuffs    |
+```
+```tab
+---
+name: '**SCION**'
+---
+
+| **1d10** |      **Scion**      |
+| :------: | :-----------------: |
+|    1     |      Etiquette      |
+|    2     |      Sciences       |
+|    3     | Rhetoric and Poetry |
+|    4     |     Performance     |
+|    5     |  Diplomacy and Law  |
+|    6     |    Horsemanship     |
+|    7     |      Shooting       |
+|    8     |      Athletics      |
+|    9     |       Fencing       |
+|    10    |      Medicine       |
+```
+```tab
+---
+name: '**SOLDIER**'
+---
+
+| **1d10** |   **Soldier**   |
+| :------: | :-------------: |
+|    1     |    First Aid    |
+|    2     |  Filibusterism  |
+|    3     |   Demolitions   |
+|    4     |     Gunnery     |
+|    5     |    Athletics    |
+|    6     |    Gambling     |
+|    7     | Weapon Fighting |
+|    8     |    Survival     |
+|    9     |   Fisticuffs    |
+|    10    |    Shooting     |
+```
+```tab
+---
+name: '**TRADESMAN**'
+---
+
+| **1d10** |     **Tradesman**     |
+| :------: | :-------------------: |
+|    1     |       Medicine        |
+|    2     |      Metallurgy       |
+|    3     |       Mechanics       |
+|    4     | Carpentry and Masonry |
+|    5     |     Architecture      |
+|    6     |    Animal Medicine    |
+|    7     |      Navigation       |
+|    8     |        Sailing        |
+|    9     |    Sleight of Hand    |
+|    10    |       Sciences        |
+```
+````
 
 # Starting Inventory
 
@@ -157,4 +438,4 @@ A negative modifier to your starting luck rolls is added at age 38 and beyond fo
 
 # Last Steps
 
-Don't forget a name. Remember to tie the loose ends in your history.
+Don't forget about a name. Remember to tie the loose ends in your history.
