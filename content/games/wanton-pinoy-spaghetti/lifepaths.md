@@ -5,9 +5,13 @@ bookCollapseSection: false
 weight: 10
 ---
 
-This is a more involved way of making a character. I do find this method generally more enjoyable if the point is to not make disposable characters.
+# Lifepaths
 
-# Basic Assumptions
+---
+
+## Basic Assumptions
+
+This is a more involved way of making a character. I do find this method generally more enjoyable if the point is to not make disposable characters.
 
 **Your character begins at 18 years of age**, untrained and inexperienced. By the end of character creation, you're assumed to have either retired from your career in pursuit of other goals or began traveling while still practicing your preferred profession.
 
@@ -17,7 +21,7 @@ At times you roll with **Edge or Slack** which is rolling two d20s and taking th
 
 Apply multiple Skills to a single roll if applicable.
 
-# Social Stratification
+## Social Stratification
 
 Roll 2d6 to determine your starting Social Status. Record the number and starting statement.
 
@@ -27,7 +31,7 @@ Roll 2d6 to determine your starting Social Status. Record the number and startin
 | 8--10   | **Enforcers of the illusion.** Your family was either luckily chosen to become of means or they've had a history of sustaining the status quo. Traditionally Petit Bourgeois educated enough to think they should lead the boat-rocking.                     |
 | 11--12  | **Disturbingly rich.** An inherited silver spoon since generations prior and henceforth—effectively entrenched landlords.                                                                                                                                    |
 
-## Fluent Languages
+### Fluent Languages
 
 Your starting social status determines the dice you roll for number of known languages. If you lack the native tongue of the starting region, presume you at least know the language functionally enough to survive.
 
@@ -50,7 +54,7 @@ Roll or choose from below.
 |    7    | French                        |
 |    8    | Spanish                       |
 
-# Choose a Service
+## Choose a Service
 
 To gain skills and acquire resources before adventuring, you must enroll in a Service. There are five to choose from:
 
@@ -65,7 +69,7 @@ You can enroll in a Service multiple times. **Each enrollment advancing your age
 
 **Enrolling into a different Service** after each term is possible, but requires a different target result to be accepted. Always roll for the Service Change enrollment target even if the Service was taken at an earlier term.
 
-## Enrollment
+### Enrollment
 
 Roll 2d6 to determine whether you succeed enrolling into your Service of choice. Roll +1 if you're social standing is 11+. Failing the enrollment subsequently forces you to roll for your Draft, where the Service chooses you. Roll 1d6 and the result is your service for the term.
 
@@ -83,11 +87,11 @@ Rolling high enough on enrollment also means you've served with Distinction and 
 
 Any time you finish your term of service, you may **Muster Out** and choose a benefit.
 
-## Mustering Out
+### Mustering Out
 
 Whenever you end a term, Muster Out and roll once on either the Benefits Table or the Cash Table. Serving with Distinction grants an additional roll on either table.
 
-### Benefits Table
+#### Benefits Table
 
 ````tabs
 ---
@@ -181,7 +185,7 @@ name: '**TRADESMAN**'
 ```
 ````
 
-### Cash Table
+#### Cash Table
 
 At the end of character creation, 1000 is the maximum that can be carried on hand. The rest is placed into a bank.
 
@@ -277,7 +281,7 @@ name: '**TRADESMAN**'
 ```
 ````
 
-## Skills
+### Skills
 
 Whenever you roll on the Skills Table, roll only on the Service of your current term.
 
@@ -408,7 +412,7 @@ name: '**TRADESMAN**'
 ```
 ````
 
-# Starting Inventory
+## Starting Inventory
 
 When you finish character creation, you begin adventuring with the following set of items in addition to your Mustering Out benefits.
 
@@ -420,13 +424,13 @@ When you finish character creation, you begin adventuring with the following set
 - 3d4 clothing items
 - If a Tradesman
 
-# Luck
+## Luck
 
 Spend **Luck** points to add to 1d20 rolls. You may also **spend Luck to have things go your way**, if possible.
 
 Roll 1d6 at the start of every session. You start with that many Luck Points.
 
-# Aging
+## Aging
 
 As you age, both during character creation and after, your potential luck reduces.
 
@@ -439,6 +443,6 @@ A negative modifier to your starting luck rolls is added at age 38 and beyond fo
 |   58    |           -4            |
 |   70    |           -6            |
 
-# Last Steps
+## Last Steps
 
 Don't forget about a name. Remember to tie the loose ends in your history.

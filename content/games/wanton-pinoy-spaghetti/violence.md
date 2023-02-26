@@ -5,6 +5,8 @@ bookCollapseSection: false
 weight: 30
 ---
 
+# Violence
+
 _Based on [Luke Gearing's Violence](https://lukegearing.blot.im/violence)!_
 
 ---

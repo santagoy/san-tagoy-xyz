@@ -5,6 +5,10 @@ bookCollapseSection: false
 weight: 10
 ---
 
+# Basic Character Creation
+
+---
+
 Think of a character concept. Who are they in this time in history? A foreigner? A local? Regardless, they (and now by extension you) are in consistent company with a group of companions.
 
 These companions are the other players (their characters) at the table. Think of how you all know each other in the world. Why are you as thick as thieves? Are you thieves?

@@ -5,7 +5,7 @@ bookCollapseSection: false
 weight: 20
 ---
 
-# General Thoughts
+## General Thoughts
 
 - Chassis models (under construction) each have different system slot limits.
 - Up to players to choose which Systems complement their chassis.
@@ -15,7 +15,7 @@ weight: 20
 - Each frame has a base movement speed which can be modified with movement systems (_under construction_)
 - Pilots start with one Talent and gain additional ones at Rank 3 and 5 of their AK Skill (_under construction_)
 
-# Stats
+## Stats
 
 Every Alluvion Knight Player begins with 2d6 Skill Dice. These can be added to any of the Pools below at any time.
 
@@ -24,7 +24,7 @@ Every Alluvion Knight Player begins with 2d6 Skill Dice. These can be added to a
 - Defense Pool
 - Spot Pool
 
-# The Systems
+## The Systems
 
 There are six types of systems total
 
@@ -42,26 +42,26 @@ A mobile frame with neither Direct Fire nor Smart Systems gains **1d8** to their
 
 In addition to its systems, you can carry up to 2 single-shot rockets. They each add **1d8** to your Attack Pool when used.
 
-# General Combat Info
+## General Combat Info
 
 - Each round is roughly 5 seconds of in-game time
 - 1 hex/square on the map = 3m
 - Direct fire range = 60 m or 20 hexes/squares
 - Ranged attacks beyond direct fire range adds **1d8 Opportunity** to the defender's roll.
 
-# Skill, Wild Dice
+## Skill, Wild Dice
 
 Roll these dice once every round regardless of what actions you are taking. They can be assigned in lieu of dice from any pool.
 
 Take from this pool if you run out of dice from any of your other Pools (even Defense) during a round.
 
-# Initiative
+## Initiative
 
 Ambushes grant the ambushers a free round to themselves without reprisals. On equal terms, players roll **Acuity + Will** and add their Skill while NPCs roll their Skill Dice only.
 
 The side with the highest Ace goes first.
 
-# Actions
+## Actions
 
 Every AK Player has two actions per round. Actions may be repeated in one round. The actions are as follows:
 
@@ -72,19 +72,19 @@ Every AK Player has two actions per round. Actions may be repeated in one round.
 
 > _Comms are a free action._
 
-## Move
+### Move
 
 Roll your Move Pool once per round if you have available dice. Move only as many meters as your Armor's movement rating. Assign dice from your Move Pool (or Skill Pool) to add to the number of meters your Armor can move per round.
 
-## Attacking, Spotting, and Defending
+### Attacking, Spotting, and Defending
 
-### Attacking
+#### Attacking
 
 When rolling to **_Attack_**, always use the red dice from the Weapons Pool. Roll it only once per round regardless of the number of times attacking. Assign the highest or preferred dice to make up your **_Attack Value_** versus a target's **_Defense Value_**.
 
 Only roll the d8's from the consumable rockets if the character is using them this round.
 
-### Knowing When Attacks Hit
+#### Knowing When Attacks Hit
 
 Always compare the Attack Value + Spot Value to the Defense Value of the target.
 
@@ -93,7 +93,7 @@ Always compare the Attack Value + Spot Value to the Defense Value of the target.
 
 Attacks against terrain always hit.
 
-### Damage
+#### Damage
 
 If an attack hits, the difference between the Attack and Defense values determines how many **d6**'s are rolled.
 
@@ -106,7 +106,7 @@ The result of each **d6** matters. Higher results are Direct Hits while lower on
 
 Unless otherwise stated, for every 2 Direct Hits, a system is destroyed on the Armor. Players can always choose what system is destroyed on their Armors and Armors they attack **_OR_** assign each installed system a number from 1 to 5 and roll **1d6**—on a 6, the pilot themselves takes a Direct Hit against their HP.
 
-### Spotting
+#### Spotting
 
 Assign a die from your Spot Pool to increase the chances of allies' attacks hitting.
 
@@ -116,11 +116,11 @@ Spot dice don't stack against the same target. The higher Spot dice replaces low
 
 If a Spot dice on a target is used in an Attack, it's consumed. Unused Spot dice on targets don't carry over to the next round. All Spot dice are reset every round.
 
-### Defending
+#### Defending
 
 Roll the pool once per round only, regardless of how many times you are attacked. Assign a single die against each Attack.
 
-## Grappling
+### Grappling
 
 To grapple, take dice from the grappler's AK Skill Pool and compare against the target's selected dice from their Movement Pool. Spot can't augment the grappler's roll.
 
@@ -135,11 +135,11 @@ A grappler can only grapple one target at a time, unless otherwise stated.
 
 Finally, the grappled target can serve as cover for the grappler if the former is in the way of the incoming ranged attack (i.e. the grappled interrupts line of sight).
 
-## Readying/Holding an Action
+### Readying/Holding an Action
 
 Actions in a round can be held until the start of the character's next turn in the succeeding round. The character must announce a trigger for the Action to engage such as "I wait until any enemy is within range then I attack" or "I grapple whatever target passes next to me." If the trigger conditions are met, then the action engages and can even interrupt the actions of other characters.
 
-# Cover
+## Cover
 
 Every object that could possibly absorb blows from bullets or explosions can take a variable number of hits depending on the material it's made from. The number of hits different material types can take is denoted as Object Health (OH).
 
@@ -154,21 +154,21 @@ Either way, when hitting a target in cover, all rolls that aren't Direct Hits ar
 |         Wood         |    2     |    0    |
 | Plaster/Foam/Plastic |    1     |    0    |
 
-# Foot Soldiers
+## Foot Soldiers
 
-## Initiative
+### Initiative
 
 They always go at the end of the round. Roll **1d6** + Morale Rating per side every round. The side with the higher (or highest in the case of multiple sides) result has their infantry go first.
 
-## Weapons and Damage
+### Weapons and Damage
 
 Every squad of 6 foot soldiers with anti-AK weapons, have no more than **1d6** to their Weapons Pool. They may use Spot Dice to augment their Attack Value.
 
-## Dealing with Infantry
+### Dealing with Infantry
 
 Dedicate dice from the rolled Skill Pool or Weapons Pool per round to see how many foot soldiers within range fall per round. They don't benefit from cover.
 
-# Morale
+## Morale
 
 For every encounter prepared, assign every opposing side a Morale rating from 3 to 10. The latter number representing the most elite of combatants. Those whose very honor would be slighted at the very thought of retreat or surrender.
 
@@ -176,13 +176,13 @@ When half of enemy Alluvion Armors are rendered inoperable or their lead AK is d
 
 If the resulting sum is greater than the morale of a side indicate a rout or surrender.
 
-# AK Batteries
+## Batteries
 
 Alluvion Armors unable to charge after 3 encounters become depleted.
 
-Roll **1d6** after every turn; on a 1, you lose control as your Alluvion Armor shuts down.
+Roll **1d6** after every turn. On a 1, you lose control as your Alluvion Armor shuts down.
 
-# Repairs
+## Repairs
 
 When resting outside of repair hubs or doing hurried repairs at a hub, roll **1d6**:
 

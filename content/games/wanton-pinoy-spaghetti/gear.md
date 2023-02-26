@@ -9,6 +9,8 @@ weight: 20
 
 `All prices are in Pesos.`
 
+---
+
 ## Weapons
 
 ````tabs
@@ -81,8 +83,6 @@ id: gear-2
 name: '**LIVESTOCK**'
 ---
 
-## Livestock
-
 |        Item        | Cost |    Remarks    |
 | :----------------: | :--: | :-----------: |
 |   Native Cattle    |  50  |               |
@@ -96,7 +96,6 @@ name: '**LIVESTOCK**'
 ---
 name: '**BEASTS OF BURDEN**'
 ---
-## Beasts of Burden
 
 |    Item    | Price | Description                                                          |
 | :--------: | :---: | :------------------------------------------------------------------- |
