@@ -207,7 +207,7 @@ name: '**DRIFTER**'
 |    3    |         150         |
 |    4    |         350         |
 |    5    |         750         |
-|    6    |        1500         |
+|    6    |         900         |
 ```
 ```tab
 ---
@@ -219,9 +219,9 @@ name: '**MERCHANT**'
 |    1    |         100         |
 |    2    |         300         |
 |    3    |         500         |
-|    4    |        1000         |
-|    5    |        1250         |
-|    6    |        2500         |
+|    4    |         700         |
+|    5    |         850         |
+|    6    |         975         |
 ```
 ```tab
 ---
@@ -235,7 +235,7 @@ name: '**OUTLAW**'
 |    3    |         75          |
 |    4    |         300         |
 |    5    |         750         |
-|    6    |        3000         |
+|    6    |        2000         |
 ```
 ```tab
 ---
@@ -247,9 +247,9 @@ name: '**SCION**'
 |    1    |         500         |
 |    2    |         750         |
 |    3    |        1250         |
-|    4    |        2500         |
-|    5    |        3250         |
-|    6    |        4500         |
+|    4    |        1750         |
+|    5    |        2000         |
+|    6    |        2500         |
 ```
 ```tab
 ---
@@ -262,8 +262,8 @@ name: '**SOLDIER**'
 |    2    |         400         |
 |    3    |         500         |
 |    4    |         750         |
-|    5    |        1250         |
-|    6    |        2000         |
+|    5    |         900         |
+|    6    |        1250         |
 ```
 ```tab
 ---
@@ -277,7 +277,7 @@ name: '**TRADESMAN**'
 |    3    |         600         |
 |    4    |         750         |
 |    5    |         900         |
-|    6    |        2250         |
+|    6    |        1000         |
 ```
 ````
 
@@ -414,15 +414,7 @@ name: '**TRADESMAN**'
 
 ## Starting Inventory
 
-When you finish character creation, you begin adventuring with the following set of items in addition to your Mustering Out benefits.
-
-- Revolver **or** Rifle (single-shot or lever-action) with 1d4 slots of ammo
-- Leather Rucksack
-- a Hunting Knife **or** *Balisong*
-- 5 days worth of rations
-- 1d10 Water Canteen
-- 3d4 clothing items
-- If a Tradesman
+When you finish character creation, you begin adventuring, you must purchase your starting equipment. Prices are listed in the [Gear section](gear.md).
 
 ## Luck
 
