@@ -445,4 +445,4 @@ A negative modifier to your starting Luck rolls is applied at age 38 and periodi
 
 ## Last Steps
 
-Don't forget about a name. Remember to tie the loose ends in your history.
+Don't forget about a name.
