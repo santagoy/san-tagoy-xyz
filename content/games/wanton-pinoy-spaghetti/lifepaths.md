@@ -414,7 +414,7 @@ name: '**TRADESMAN**'
 
 ## Starting Inventory
 
-When you finish character creation, you begin adventuring, you must purchase your starting equipment. Prices are listed in the [Gear section](gear.md).
+When you finish character creation, you begin adventuring. Purchase your starting equipment. Prices are listed in the [Gear section](gear.md).
 
 ## Luck
 
