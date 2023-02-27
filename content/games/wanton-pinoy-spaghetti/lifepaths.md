@@ -80,7 +80,7 @@ Rolling high enough on enrollment also means you've served with Distinction and 
 |                | **Drifter** | **Merchant** | **Outlaw** | **Scion** | **Soldier** | **Tradesman** |
 | :------------: | :---------: | :----------: | :--------: | :-------: | :---------: | :-----------: |
 |   Enrollment   |     4+      |      4+      |     3+     |    10+    |     6+      |      5+       |
-|     Draft      |      1      |      6       |     2      |     3     |      4      |       5       |
+|     Draft      |      1      |      2       |     3      |     4     |      5      |       6       |
 |    Survival    |     4+      |      4+      |     5+     |    3+     |     7+      |      3+       |
 |  Distinction   |     6+      |      7+      |     7+     |    11+    |     8+      |      6+       |
 | Service Change |     5+      |      3+      |     4+     |    12+    |     4+      |      4+       |
