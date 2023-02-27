@@ -428,13 +428,13 @@ When you finish character creation, you begin adventuring with the following set
 
 Spend **Luck** points to add to 1d20 rolls. You may also **spend Luck to have things go your way**, if possible.
 
-Roll 1d6 at the start of every session. You start with that many Luck Points.
+Roll 1d6 at the start of every session. You start with that many Luck points.
 
 ## Aging
 
-As you age, both during character creation and after, your potential luck reduces.
+As you age, both during character creation and after, your potential Luck reduces.
 
-A negative modifier to your starting luck rolls is added at age 38 and beyond following the rubric below.
+A negative modifier to your starting Luck rolls is applied at age 38 and periodically increases following the rubric below.
 
 | **Age** | **Total Luck Modifier** |
 | :-----: | :---------------------: |
