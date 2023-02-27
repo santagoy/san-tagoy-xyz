@@ -1,6 +1,6 @@
 ---
 title: Lifepath Character Generation
-summary: Lifepaths for player characters in colonial Philippines
+summary: Lifepaths for player characters in colonial Philippines. Heavily inspired by Book 1 of Classic Traveller.
 bookCollapseSection: false
 weight: 10
 ---
