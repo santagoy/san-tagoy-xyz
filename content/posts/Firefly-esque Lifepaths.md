@@ -313,7 +313,7 @@ name: Benefits Tables
 name: '**DRIFTER**'
 ---
 
-| **1d10** | **Drifter** |
+| **1d10** | **Skills**  |
 | :------: | :---------: |
 |    1     |   Driving   |
 |    2     |  Gambling   |
@@ -331,7 +331,7 @@ name: '**DRIFTER**'
 name: '**MERCHANT**'
 ---
 
-| **1d10** |    **Merchant**     |
+| **1d10** |     **Skills**      |
 | :------: | :-----------------: |
 |    1     |  Diplomacy and Law  |
 |    2     |     Navigation      |
@@ -349,7 +349,7 @@ name: '**MERCHANT**'
 name: '**OUTLAW**'
 ---
 
-| **1d10** |   **Outlaw**    |
+| **1d10** |   **Skills**    |
 | :------: | :-------------: |
 |    1     |    Shooting     |
 |    2     |     Driving     |
@@ -367,7 +367,7 @@ name: '**OUTLAW**'
 name: '**SCION**'
 ---
 
-| **1d10** |      **Scion**      |
+| **1d10** |     **Skills**      |
 | :------: | :-----------------: |
 |    1     |      Etiquette      |
 |    2     |      Sciences       |
@@ -385,7 +385,7 @@ name: '**SCION**'
 name: '**SOLDIER**'
 ---
 
-| **1d10** |   **Soldier**   |
+| **1d10** |   **Skills**    |
 | :------: | :-------------: |
 |    1     |    First Aid    |
 |    2     |  Filibusterism  |
@@ -403,7 +403,7 @@ name: '**SOLDIER**'
 name: '**TRADESMAN**'
 ---
 
-| **1d10** |     **Tradesman**     |
+| **1d10** |      **Skills**       |
 | :------: | :-------------------: |
 |    1     |       Medicine        |
 |    2     |      Engineering      |
@@ -468,4 +468,4 @@ A negative modifier to your starting Luck rolls is applied at age 38 and periodi
 
 ## Last Steps
 
-Don't forget about a name. If you'd like to start with a ship without paying for it immediately, go into debt. It must be paid off within 100 months with interest.
+Don't forget about a name. If you'd like to start with a ship without paying for it immediately, go into debt. It must be paid off within 100 months with 1d8% interest.
