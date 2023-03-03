@@ -21,7 +21,9 @@ images:
 
 ---
 
-Basically a rip from [Wanton Pinoy Spaghetti](../games/wanton-pinoy-spaghetti/lifepaths.md). This is reflavored to sci-fi settings hence the title above. Firefly the TV series is still fun despite me not really liking the creator that much anymore. I do want to run an open table in a similar 'Verse with Browncoats and space cowboys galore!
+Basically a rip from [Wanton Pinoy Spaghetti](../games/wanton-pinoy-spaghetti/lifepaths.md). This is reflavored from historical Spaghetti Westerns to sci-fi Spaghetti Westerns hence the title above.
+
+Firefly the TV series is still fun despite me not really liking the creator that much anymore. I do want to run an open table in a similar 'Verse with Browncoats and space cowboys galore!
 
 I'll be making the Gear section next so stay tuned for that one.
 
