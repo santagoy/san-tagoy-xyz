@@ -43,7 +43,7 @@ After the violence is concluded, roll a d20 for each person Down. Add +2 for eac
 
 ## Sniping
 
-To snipe, you must be at a distance. The target must also be unaware of your position and be either not in cover or not moving. To hit, roll 12+ with Edge (2d20 take the higher) and add relevant Tags.
+To snipe, you must be at a distance. The target must also be unaware of your position and be either not in cover or not moving. You hit the first target automatically if you meet all prior conditions (i.e. distance, surprise, and stillness). You hit succeeding targets on a 12+ if 2/3 of the conditions are met. If only 1 is met, follow regular shooting rules.
 
 On a hit, roll for if they're Downed or Injured.
 
@@ -77,7 +77,7 @@ Coach guns only fire 2 shots. Single-shot rifle, only 1. Bolt-action rifles? 5 s
 
 Reloading takes a round. Although, anything with the `quick reload` Tag reloads freely once per round after firing so that you may shoot again.
 
-An example would be the coach gun being able to fire 4 shots in a single round or a revolver with a speed loader can fire 12 rounds total.
+An example would be the coach gun being able to fire 4 shots in a single round or a revolver with a speed loader fires 12 rounds total.
 
 ## Healing
 
