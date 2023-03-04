@@ -418,7 +418,7 @@ name: '**TRADESMAN**'
 |    9     |    Sleight of Hand    |
 |    10    |       Sciences        |
 
-_†**Xenobilogical Medicine** is the practice of managing the health of non-sentient alien or engineered life. "Engineered life" referring to gene-spliced created creatures that range from pets to beasts of burden._
+_†**Xenobiological Medicine** is the practice of managing the health of non-sentient alien or engineered life. "Engineered life" referring to gene-spliced created creatures that range from pets to beasts of burden._
 ```
 ````
 
