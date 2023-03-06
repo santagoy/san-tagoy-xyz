@@ -17,7 +17,7 @@ tags:
 
 ---
 
-I wrote this in another place originally, but I feel as if I wanted it to be better so I'm reposting the re-written version here on this blog. This is something I made on a whim about a past relationship and growth. Enjoy?
+I wrote this in another place originally, but I feel as if I wanted it to be better so I'm reposting the re-written version here on this blog. I say I wrote this on a whim, but that's not entirely true. I read a bad poem and was inspired to write again. Did I think I could write something better? No, I just thought that I should get better. Enjoy?
 
 ---
 
