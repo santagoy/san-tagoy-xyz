@@ -27,6 +27,8 @@ Firefly the TV series is still fun despite me not really liking the creator that
 
 I'll be making the Gear section next so stay tuned for that one.
 
+UPDATE: I think I'll call this Firefly-esque thing Dark Matter Drifter for lack of a better title.
+
 ---
 
 ## Basic Assumptions
