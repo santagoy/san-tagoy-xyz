@@ -33,7 +33,7 @@ and my attempts at getting better without really trying.
 
 I shouldn't have forgotten to count the times you willingly talked to me.
 Sailing conversation amidst a vague tension leads to places and we explored
-those areas like adolescents in a car on a Friday night. The saccharine air
+those locales like adolescents in a car on a Friday night. The saccharine air
 of your locus was interesting in that, now, I only vaguely recall
       the delight it (presumably) mutually stirred.
 
@@ -49,7 +49,7 @@ Danger was evidently not in any of my names, something
 
 A hope you're worth certainly. Coveting doesn't
 suit me. I wouldn't love it if we had made it.
-Unfortunately what I have made is this:
+Unfortunately what I made is this:
       I am at least now someone who,
       unlike that self in that one nightmare
       after a day or two of forgetting my meds,
