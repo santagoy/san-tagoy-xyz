@@ -49,7 +49,7 @@ Danger was evidently not in any of my names, something
 
 A hope you're worth certainly. Coveting doesn't
 suit me. I wouldn't love it if we had made it.
-Unfortunately what I made is this:
+Unfortunately, what I made is this:
       I am at least now someone who,
       unlike that self in that one nightmare
       after a day or two of forgetting my meds,
