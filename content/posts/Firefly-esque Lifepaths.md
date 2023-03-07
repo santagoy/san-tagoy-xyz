@@ -432,16 +432,16 @@ Once you retire, roll for a Boon. Your social status determines your starting Bo
 
 Roll or choose from below.
 
-| **1d8** | **Boons**                                         |
-| :-----: | ------------------------------------------------- |
-|    1    | roll on the Skills Table under Tradesman          |
-|    2    | gain Athletics or Shooting                        |
-|    3    | gain Fisticuffs or Weapon Fighting                |
-|    4    | start with combat armor or a vacc suit            |
-|    5    | start with a gun or a medical kit                 |
-|    6    | carry valuable cargo worth 1d100 x 100            |
-|    7    | inherit 5d12 x 10 credits                         |
-|    8    | inherit a ship worth 10000nc or less without debt |
+| **1d8** | **Boons**                                          |
+| :-----: | -------------------------------------------------- |
+|    1    | roll on the Skills Table under Tradesman           |
+|    2    | gain Athletics or Shooting                         |
+|    3    | gain Fisticuffs or Weapon Fighting                 |
+|    4    | start with reactive armor or a vacc suit           |
+|    5    | start with a gun or a medical kit                  |
+|    6    | carry valuable cargo worth 1d100 x 100             |
+|    7    | inherit 5d12 x 10 credits                          |
+|    8    | inherit a ship worth 100000nc or less without debt |
 
 ## Starting Inventory
 
