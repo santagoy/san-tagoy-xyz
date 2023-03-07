@@ -449,7 +449,7 @@ Roll or choose from below.
 
 ## Starting Inventory
 
-When you finish character creation, you begin adventuring. Purchase your starting equipment. Prices are listed in the Gear section (under construction).
+When you finish character creation, you begin adventuring. Purchase your starting equipment. Prices are listed in the [Gear section](dark-matter-drifter-gear.md).
 
 You have 12 Inventory slots. First 6 are quick slots, anything you can pull out at a moment's notice. These could be things in your pockets, belt, bandolier, coat, or hung on your back. The next 6 require 8 seconds or more to pull out from your caryall.
 
