@@ -15,8 +15,6 @@ tags:
   - rules
   - sci-fi
   - gear
-images:
-  - /images/firefly-lifepaths/feature.jpg
 ---
 
 ---
@@ -57,8 +55,8 @@ All guns in this new age operate on Mass Acceleration technology. These arms lau
 |        Item         | Cost |                         Remarks                         |
 | :-----------------: | :--: | :-----------------------------------------------------: |
 |     Muh Pistol      |  95  |                  18 shots, concealable                  |
-|   Snub Scattergun   | 125  |    6 shots, concealable, +1d6 damage at close range     |
-|     Scattergun      | 150  |          10 shots, +1d6 damage at close range           |
+|   Snub Scattergun   | 125  |    6 shots, concealable, +1d6 damage at short range     |
+|     Scattergun      | 150  |          10 shots, +1d6 damage at short range           |
 |     Mare's Leg      | 175  |                        24 shots                         |
 |    Assault Rifle    | 875  |                        45 shots                         |
 |    Sniper Rifle     | 800  |                         8 shots                         |
@@ -70,18 +68,18 @@ All guns in this new age operate on Mass Acceleration technology. These arms lau
 
 ## Worn Equipment
 
-|          Item          | Cost |                       Remarks                       |
-| :--------------------: | :--: | :-------------------------------------------------: |
-|    Artificial Gills    | 500  |                                                     |
-| Cold-weather Clothing  | 150  |                                                     |
-|    Diving Equipment    | 200  |                                                     |
-|      Oxygen Tank       | 250  |               two tanks last 6 hours                |
-| Respirator-Filter Mask | 100  |           For thin or tainted atmospheres           |
-|       Vacc Suit        | 6000 |                     _see below_                     |
-|   Reactive Armor Set   | 200  | concealable, ignores three gunshots, 100 to repair  |
-|     Mesh Armor Set     | 275  | concealable, ignores four melee hits, 100 to repair |
-|  Reactive Helmet/Mask  | 100  |         ignores two gunshots, 50 to repair          |
-|    Mesh Helmet/Mask    | 150  |        ignores two melee hits, 50 to repair         |
+|          Item          | Cost |                       Remarks                        |
+| :--------------------: | :--: | :--------------------------------------------------: |
+|    Artificial Gills    | 500  |                                                      |
+| Cold-weather Clothing  | 150  |                                                      |
+|    Diving Equipment    | 200  |                                                      |
+|      Oxygen Tank       | 250  |                two tanks last 6 hours                |
+| Respirator-Filter Mask | 100  |           For thin or tainted atmospheres            |
+|       Vacc Suit        | 6000 |                     _see below_                      |
+|   Reactive Armor Set   | 200  | concealable, prevents three gunshots, 50 to replace  |
+|     Mesh Armor Set     | 275  | concealable, prevents four melee hits, 50 to replace |
+|  Reactive Helmet/Mask  | 100  |                prevents two gunshots                 |
+|    Mesh Helmet/Mask    | 150  |               prevents two melee hits                |
 
 **Vacc suits** protects the wearer from the vacuum of space, radiation, and other environmental hazards. Integration with portable computer for various functions: remote vital signs monitor, Geiger counter, oxygen meter, ambient thermometer, and water supply.
 
