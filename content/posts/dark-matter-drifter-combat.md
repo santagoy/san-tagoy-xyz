@@ -60,6 +60,8 @@ Use luck to reduce the damage of incoming attacks too—1 point of luck to 1 poi
 
 Replace armor once it prevents its maximum number of hits in an intended location. The cost for such is listed in [Gear](dark-matter-drifter-gear.md). Armor instantly breaks when hit by anti-materiel rifles, plasma casters, and heavy artillery.
 
+If you're hit by a projectile while wearing intact armor, lose your turn next round as you are forced to hunker down and catch your breathe.
+
 ## Character Actions
 
 ### Movement
@@ -90,6 +92,8 @@ Roll with Disadvantage against moving targets or those in cover. If you have Adv
 Roll with Advantage against still targets our of cover. If you have Disadvantage against those same targets due to range penalties, roll normally.
 
 If shooting while moving, roll with Disadvantage.
+
+If you forego shooting while in cover and do not aim, you are considered hunkered down and out of line of sight.
 
 ### Melee
 
