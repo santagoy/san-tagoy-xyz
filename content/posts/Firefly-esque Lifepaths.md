@@ -321,11 +321,11 @@ name: '**DRIFTER**'
 | :------: | :---------: |
 |    1     |   Driving   |
 |    2     |  Gambling   |
-|    3     |    Medic    |
+|    3     |  Piloting   |
 |    4     |  Athletics  |
 |    5     |  Survival   |
 |    6     | Fisticuffs  |
-|    7     |   Forgery   |
+|    7     |   Gunnery   |
 |    8     |  Shooting   |
 |    9     | Engineering |
 |    10    | Iron Liver  |
@@ -335,18 +335,16 @@ name: '**DRIFTER**'
 name: '**MERCHANT**'
 ---
 
-| **1d10** |     **Skills**      |
-| :------: | :-----------------: |
-|    1     |  Diplomacy and Law  |
-|    2     |     Navigation      |
-|    3     |      Etiquette      |
-|    4     |      Gambling       |
-|    5     |     Iron Liver      |
-|    6     |     Performance     |
-|    7     |      Business       |
-|    8     |      Intuition      |
-|    9     |       Forgery       |
-|    10    | Rhetoric and Poetry |
+| **1d8** |    **Skills**     |
+| :-----: | :---------------: |
+|    1    | Diplomacy and Law |
+|    2    |     Etiquette     |
+|    3    |     Gambling      |
+|    4    |    Iron Liver     |
+|    5    |    Performance    |
+|    6    |     Business      |
+|    7    |     Intuition     |
+|    8    |      Forgery      |
 ```
 ```tab
 ---
@@ -360,7 +358,7 @@ name: '**OUTLAW**'
 |    3     |    Computer     |
 |    4     |    Shooting     |
 |    5     |    Gambling     |
-|    6     | Knife Fighting  |
+|    6     |    Piloting     |
 |    7     |    Survival     |
 |    8     |    Athletics    |
 |    9     | Sleight of Hand |
@@ -371,18 +369,16 @@ name: '**OUTLAW**'
 name: '**SCION**'
 ---
 
-| **1d10** |     **Skills**      |
-| :------: | :-----------------: |
-|    1     |      Etiquette      |
-|    2     |      Sciences       |
-|    3     | Rhetoric and Poetry |
-|    4     |     Performance     |
-|    5     |  Diplomacy and Law  |
-|    6     |      Business       |
-|    7     |      Shooting       |
-|    8     |      Athletics      |
-|    9     |       Fencing       |
-|    10    |        Medic        |
+| **1d8** |    **Skills**     |
+| :-----: | :---------------: |
+|    1    |     Etiquette     |
+|    2    |    Performance    |
+|    3    | Diplomacy and Law |
+|    4    |     Business      |
+|    5    |     Shooting      |
+|    6    |     Athletics     |
+|    7    |      Fencing      |
+|    8    |       Medic       |
 ```
 ```tab
 ---
@@ -391,12 +387,12 @@ name: '**SOLDIER**'
 
 | **1d10** |   **Skills**    |
 | :------: | :-------------: |
-|    1     |    First Aid    |
-|    2     |  Filibusterism  |
+|    1     |      Medic      |
+|    2     |    Piloting     |
 |    3     |   Demolitions   |
 |    4     |     Gunnery     |
 |    5     |    Athletics    |
-|    6     |    Gambling     |
+|    6     |    Computer     |
 |    7     | Weapon Fighting |
 |    8     |    Survival     |
 |    9     |   Fisticuffs    |
@@ -407,18 +403,18 @@ name: '**SOLDIER**'
 name: '**TRADESMAN**'
 ---
 
-| **1d10** |      **Skills**       |
-| :------: | :-------------------: |
-|    1     |       Medicine        |
-|    2     |      Engineering      |
-|    3     |    Terraformation     |
-|    4     | Carpentry and Masonry |
-|    5     |     Architecture      |
-|    6     |       Xen Med†        |
-|    7     |      Navigation       |
-|    8     |       Piloting        |
-|    9     |    Sleight of Hand    |
-|    10    |       Sciences        |
+| **1d10** |           **Skills**            |
+| :------: | :-----------------------------: |
+|    1     |            Medicine             |
+|    2     |           Engineering           |
+|    3     |          Biotechnology          |
+|    4     |      Carpentry and Masonry      |
+|    5     |          Architecture           |
+|    6     |            Xen Med†             |
+|    7     |            Computer             |
+|    8     |            Piloting             |
+|    9     |         Sleight of Hand         |
+|    10    | Sciences (*choose a specialty*) |
 
 _†**Xenobiological Medicine** is the practice of managing the health of non-sentient alien or engineered life. "Engineered life" referring to gene-spliced created creatures that range from pets to beasts of burden._
 ```
