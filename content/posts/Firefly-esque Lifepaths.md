@@ -451,6 +451,8 @@ Roll or choose from below.
 
 When you finish character creation, you begin adventuring. Purchase your starting equipment. Prices are listed in the Gear section (under construction).
 
+You have 12 Inventory slots. First 6 are quick slots, anything you can pull out at a moment's notice. These could be things in your pockets, belt, bandolier, coat, or hung on your back. The next 6 require 8 seconds or more to pull out from your caryall.
+
 ## Luck
 
 Spend **Luck** points to add to 1d20 rolls. You may also **spend Luck to have things go your way**, if possible.
