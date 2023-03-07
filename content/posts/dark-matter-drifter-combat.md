@@ -56,7 +56,7 @@ Should damage in any of the hit locations reach 5 or greater, consult the follow
 - Torso: mortal wound. Death in 1d4 hours without stabilizing medical attention.
 - Legs or arms: A limb is destroyed. Throw! Heads for the right, tails for the left.
 
-Use luck to reduce the damage of incoming attacks too—1 point of luck to 1 point of damage.
+Use luck to reduce the damage of incoming attacks too—1 point of luck to 1 point of damage. Attacks reduced to 0 this way are avoided completely.
 
 Replace armor once it prevents its maximum number of hits in an intended location. The cost for such is listed in [Gear](dark-matter-drifter-gear.md). Armor instantly breaks when hit by anti-materiel rifles, plasma casters, and heavy artillery.
 
