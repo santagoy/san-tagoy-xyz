@@ -201,7 +201,7 @@ name: '**TRADESMAN**'
 
 #### Cash Table
 
-At the end of character creation, 1000 is the maximum that can be carried on hand. The rest is placed into a bank.
+All New Credits are tied digitally to your name and passed on to your family or named successors should you pass away. If you die during character creation, **_your next character can inherit all your nucs_**.
 
 ````tabs
 ---
