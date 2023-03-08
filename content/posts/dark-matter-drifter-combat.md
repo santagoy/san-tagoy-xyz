@@ -39,7 +39,7 @@ Talking is indeed a free action, but verbosity consumes an action. Players may d
 
 ## Attacks and Damage
 
-Outside of combat, resolution is done with 1d20. During combat, use 2d6. Roll 2d6 + relevant Skills. If the target is 8 or higher, the attack hits. The lower die result determines hit location while the higher is the damage dealt.
+Outside of combat, resolution is done with 1d20. During combat, use 2d6. Roll 2d6 + relevant Skills. If the result is 8 or higher, the attack hits. The lower die result determines hit location while the higher is the damage dealt.
 
 | Lower Attack Die | Location |
 | :--------------: | :------: |
@@ -48,11 +48,11 @@ Outside of combat, resolution is done with 1d20. During combat, use 2d6. Roll 2d
 |       4--5       |  Torso   |
 |        6         |   Head   |
 
-Once the combined total of damage taken is 5 or greater, the target is out of combat. They need medical intervention to survive.
+Once the combined total of damage taken is 6 or greater, the target is out of combat. They need medical intervention to survive.
 
-Should damage in any of the hit locations reach 5 or greater, consult the following:
+Should damage in any of the hit locations reach 6 or greater, consult the following:
 
-- Head: instant death.
+- Head: dead.
 - Torso: mortal wound. Death in 1d4 hours without stabilizing medical attention.
 - Legs or arms: A limb is destroyed. Throw! Heads for the right, tails for the left.
 
@@ -72,7 +72,7 @@ Automatic weapons, guns with selective fire, have greater power draw when firing
 
 ### Movement and/or Shooting
 
-You can run (hopefully to cover) 10 meters over open ground. Obstacles or impeding terrain half that to 5 meters.
+You can run (hopefully to cover) 10 meters over open ground. Obstacles or impeding terrain reduce that to 6 meters. If using minis on a table, each meter can be scaled to 1 cm.
 
 Or shoot targets within range, even if they're moving. Advantage is rolling 3d6 and taking the two highest. Disadvantage is rolling 3d6 and taking the two lowest. Shooting beyond the maximum range is a guaranteed miss.
 
@@ -100,7 +100,7 @@ Roll with Advantage against still targets our of cover. If you have Disadvantage
 
 If shooting while moving, roll with Disadvantage.
 
-If you forego shooting while in cover and don't aim, you are considered hunkered down and out of line of sight.
+No one can shoot you if you forfeit your action in a round while in cover. You are hunkering down. This only applies if opponents aren't flanking and cover is obscuring their line of sight.
 
 ### Melee
 
