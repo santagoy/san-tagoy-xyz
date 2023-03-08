@@ -66,6 +66,8 @@ If you're hit by a projectile while wearing intact armor, lose your turn next ro
 
 You're assumed to have replenished the projectiles and recharged batteries during rest (if possible) or back at your ship. Track each shot before changing to a new battery cell.
 
+## Automatic Fire
+
 Automatic weapons, guns with selective fire, have greater power draw when firing in bursts, but greater chance to hit and damage. Consume 4 shots, but roll with Advantage and add +1d6. However, roll with Disadvantage if you fire an Automatic weapon without the Shooting Skill.
 
 ## Character Actions
