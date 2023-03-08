@@ -156,14 +156,16 @@ name: '**OUTLAW**'
 name: '**SCION**'
 ---
 
-| **1d6** |     **Benefits**     |
-| :-----: | :------------------: |
-|    1    |  2 Cash Table Rolls  |
-|    2    | learn 1d4 languages  |
-|    3    | fine heirloom sword  |
-|    4    | 1d4 Terran artifacts |
-|    5    | 2 Skills Table roll  |
-|    6    |   frontier colony    |
+| **1d6** |          **Benefits**           |
+| :-----: | :-----------------------------: |
+|    1    |       2 Cash Table Rolls        |
+|    2    |       learn 1d4 languages       |
+|    3    |       fine heirloom sword       |
+|    4    |      1d4 Terran artifacts       |
+|    5    |       2 Skills Table roll       |
+|    6    | frontier colony proprietorship† |
+
+† Bi-annual dividends worth 1d100 x 1000 nucs.
 ```
 ```tab
 ---
@@ -184,14 +186,16 @@ name: '**SOLDIER**'
 name: '**TRADESMAN**'
 ---
 
-| **1d6** |                 **Benefits**                 |
-| :-----: | :------------------------------------------: |
-|    1    |             2 Skills Table Rolls             |
-|    2    |         +1 to next enrollment rolls          |
-|    3    | administrative position at a frontier colony |
-|    4    |            1d4 loyal apprentices             |
-|    5    |              2 Cash Table Rolls              |
-|    6    |      ship worth 150k or less, 50% paid       |
+| **1d6** |           **Benefits**            |
+| :-----: | :-------------------------------: |
+|    1    |       2 Skills Table Rolls        |
+|    2    |    +1 to next enrollment rolls    |
+|    3    |      frontier colony shares†      |
+|    4    |       1d4 loyal apprentices       |
+|    5    |        2 Cash Table Rolls         |
+|    6    | ship worth 150k or less, 50% paid |
+
+† Quarterly stipend worth 1d10*1000 nucs.
 ```
 ````
 
@@ -210,84 +214,84 @@ name: Cash Table
 name: '**DRIFTER**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |         500         |
-|    2    |         750         |
-|    3    |        1500         |
-|    4    |        3500         |
-|    5    |        7500         |
-|    6    |        9000         |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |            500            |
+|    2    |            750            |
+|    3    |           1500            |
+|    4    |           3500            |
+|    5    |           7500            |
+|    6    |           9000            |
 ```
 ```tab
 ---
 name: '**MERCHANT**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |        1000         |
-|    2    |        3000         |
-|    3    |        5000         |
-|    4    |        7000         |
-|    5    |        9500         |
-|    6    |        15000        |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |           1000            |
+|    2    |           3000            |
+|    3    |           5000            |
+|    4    |           7000            |
+|    5    |           9500            |
+|    6    |           15000           |
 ```
 ```tab
 ---
 name: '**OUTLAW**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |         250         |
-|    2    |         500         |
-|    3    |         750         |
-|    4    |        3000         |
-|    5    |        7500         |
-|    6    |        20000        |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |            250            |
+|    2    |            500            |
+|    3    |            750            |
+|    4    |           3000            |
+|    5    |           7500            |
+|    6    |           20000           |
 ```
 ```tab
 ---
 name: '**SCION**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |        5000         |
-|    2    |        7500         |
-|    3    |        12500        |
-|    4    |        17500        |
-|    5    |        20000        |
-|    6    |        25000        |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |           5000            |
+|    2    |           7500            |
+|    3    |           12500           |
+|    4    |           17500           |
+|    5    |           20000           |
+|    6    |           25000           |
 ```
 ```tab
 ---
 name: '**SOLDIER**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |        2500         |
-|    2    |        4000         |
-|    3    |        5000         |
-|    4    |        7500         |
-|    5    |        9000         |
-|    6    |        12500        |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |           2500            |
+|    2    |           4000            |
+|    3    |           5000            |
+|    4    |           7500            |
+|    5    |           9000            |
+|    6    |           12500           |
 ```
 ```tab
 ---
 name: '**TRADESMAN**'
 ---
 
-| **1d6** | **Amount in Pesos** |
-| :-----: | :-----------------: |
-|    1    |        1000         |
-|    2    |        2500         |
-|    3    |        5000         |
-|    4    |        7000         |
-|    5    |        8500         |
-|    6    |        10750        |
+| **1d6** | **Amount in New Credits** |
+| :-----: | :-----------------------: |
+|    1    |           1000            |
+|    2    |           2500            |
+|    3    |           5000            |
+|    4    |           7000            |
+|    5    |           8500            |
+|    6    |           10750           |
 ```
 ````
 
