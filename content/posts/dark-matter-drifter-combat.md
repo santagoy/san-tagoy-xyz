@@ -23,7 +23,7 @@ Please check out Night-Tripper by Chris P. Wolf! You can find the original rules
 
 ---
 
-# When do I use this?
+## When to use this
 
 Single rolls or just saying what happens are often enough to resolve most conflicts. For more complex scenarios, use these combat rules.
 
