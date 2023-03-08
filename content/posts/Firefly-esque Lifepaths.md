@@ -299,7 +299,7 @@ Whenever you roll on the Skills Table, roll only on the Service of your current 
 | ----------------------- | :------------------------------------------: |
 | Initial term of service |                      2                       |
 | Subsequent terms        |                      1                       |
-| Distinction             |                      2                       |
+| Distinction             |                      +1                      |
 | Mustering Out†          |                      2                       |
 
 _†Applies only if the benefit is rolled._
