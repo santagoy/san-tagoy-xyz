@@ -62,9 +62,15 @@ Replace armor once it prevents its maximum number of hits in an intended locatio
 
 If you're hit by a projectile while wearing intact armor, lose your turn next round as you are forced to hunker down and catch your breathe.
 
+## Tracking Ammo
+
+You're assumed to have replenished the projectiles and recharged batteries during rest (if possible) or back at your ship. Track each shot before changing to a new battery cell.
+
+Automatic weapons, guns with selective fire, have greater power draw when firing in bursts, but greater chance to hit and damage. Consume 4 shots, but roll with Advantage and add +1d6. However, roll with Disadvantage if you fire an Automatic weapon without the Shooting Skill.
+
 ## Character Actions
 
-### Movement
+### Movement and/or Shooting
 
 You can run (hopefully to cover) 10 meters over open ground. Obstacles or impeding terrain half that to 5 meters.
 
@@ -80,6 +86,7 @@ Weapons that add to damage must roll +1d6 after the attack hits.
 | Snub Scattergun     |      Normal       |    Disadvantage    |       Miss        |        Miss         |
 | Scattergun          |     Advantage     |       Normal       |       Miss        |        Miss         |
 | Mare's Leg          |     Advantage     |       Normal       |   Disadvantage    |        Miss         |
+| Submachine Gun      |     Advantage     |       Normal       |       Miss        |        Miss         |
 | Assault Rifle       |      Normal       |       Normal       |      Normal       |    Disadvantage     |
 | Sniper Rifle        |   Disadvantage    |    Disadvantage    |     Advantage     |       Normal        |
 | Anti-Materiel Rifle |   Disadvantage    |    Disadvantage    |      Normal       |      Advantage      |
