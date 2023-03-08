@@ -195,7 +195,7 @@ name: '**TRADESMAN**'
 |    5    |        2 Cash Table Rolls         |
 |    6    | ship worth 150k or less, 50% paid |
 
-† Quarterly stipend worth 1d10*1000 nucs.
+† Quarterly stipend worth 1d10 x 1000 nucs.
 ```
 ````
 
