@@ -59,7 +59,7 @@ All guns in this new age operate on Mass Acceleration technology. These arms lau
 |     Scattergun      | 150  |          10 shots, +1d6 damage at short range           |
 |     Mare's Leg      | 175  |                        24 shots                         |
 |    Assault Rifle    | 875  |                45 shots, selective fire                 |
-|   Submachine Gun    | 875  |                50 shots, selective fire                 |
+|   Submachine Gun    | 375  |                50 shots, selective fire                 |
 |    Sniper Rifle     | 800  |                         8 shots                         |
 | Anti-Materiel Rifle | 1666 | 5 shots, 1 battery per shot, ignores armor, +1d6 damage |
 |    Plasma Caster    | 3750 |          12 shots, ignores armor, +1d6 damage           |
