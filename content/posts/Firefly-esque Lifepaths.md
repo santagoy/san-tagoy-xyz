@@ -128,28 +128,28 @@ name: '**DRIFTER**'
 name: '**MERCHANT**'
 ---
 
-| **1d6** |        **Benefits**         |
-| :-----: | :-------------------------: |
-|    1    |       aerial carrier        |
-|    2    |    2 Skills Table rolls     |
-|    3    |     land and homestead      |
-|    4    |    learn 1d4 language(s)    |
-|    5    |     2 Cash Table rolls      |
-|    6    | 1d10 month(s) of provisions |
+| **1d6** |           **Benefits**            |
+| :-----: | :-------------------------------: |
+|    1    |          aerial carrier           |
+|    2    |       2 Skills Table rolls        |
+|    3    |    1d10 month(s) of provisions    |
+|    4    |       learn 1d4 language(s)       |
+|    5    |        2 Cash Table rolls         |
+|    6    | ship worth 150k or less, 75% paid |
 ```
 ```tab
 ---
 name: '**OUTLAW**'
 ---
 
-| **1d6** |        **Benefits**         |
-| :-----: | :-------------------------: |
-|    1    |      1d4 land vehicles      |
-|    2    | +1 to next enrollment rolls |
-|    3    |    jury-rigged attack AV    |
-|    4    |    2 Skills Table rolls     |
-|    5    |    1d6 devoted followers    |
-|    6    |     land and homestead      |
+| **1d6** |          **Benefits**           |
+| :-----: | :-----------------------------: |
+|    1    |        1d4 land vehicles        |
+|    2    |   +1 to next enrollment rolls   |
+|    3    |      jury-rigged attack AV      |
+|    4    |      2 Skills Table rolls       |
+|    5    |      1d6 devoted followers      |
+|    6    | ship worth 150k or less, stolen |
 ```
 ```tab
 ---
@@ -161,8 +161,8 @@ name: '**SCION**'
 |    1    |  2 Cash Table Rolls  |
 |    2    | learn 1d4 languages  |
 |    3    | fine heirloom sword  |
-|    4    | 1d4 heritage liquors |
-|    5    | additional homestead |
+|    4    | 1d4 Terran artifacts |
+|    5    | 2 Skills Table roll  |
 |    6    |   frontier colony    |
 ```
 ```tab
@@ -170,14 +170,14 @@ name: '**SCION**'
 name: '**SOLDIER**'
 ---
 
-| **1d6** |        **Benefits**         |
-| :-----: | :-------------------------: |
-|    1    | +1 to next enrollment rolls |
-|    2    |     additional 1d6 Luck     |
-|    3    |     land and homestead      |
-|    4    |    2 Skills Table rolls     |
-|    5    |   interplanetary fighter    |
-|    6    |     2 Cash Table rolls      |
+| **1d6** |           **Benefits**            |
+| :-----: | :-------------------------------: |
+|    1    |    +1 to next enrollment rolls    |
+|    2    |        additional 1d6 Luck        |
+|    3    |        2 Cash Table rolls         |
+|    4    |       2 Skills Table rolls        |
+|    5    | ship worth 150k or less, 50% paid |
+|    6    |       1d4 loyal companions        |
 ```
 ```tab
 ---
@@ -191,7 +191,7 @@ name: '**TRADESMAN**'
 |    3    | administrative position at a frontier colony |
 |    4    |            1d4 loyal apprentices             |
 |    5    |              2 Cash Table Rolls              |
-|    6    |         1 interstellar trade vessel          |
+|    6    |      ship worth 150k or less, 50% paid       |
 ```
 ````
 
@@ -441,7 +441,7 @@ Roll or choose from below.
 |    5    | start with a gun or a medical kit                  |
 |    6    | carry valuable cargo worth 1d100 x 100             |
 |    7    | inherit 5d12 x 10 credits                          |
-|    8    | inherit a ship worth 100000nc or less without debt |
+|    8    | inherit a ship worth 200000nc or less without debt |
 
 ## Starting Inventory
 
