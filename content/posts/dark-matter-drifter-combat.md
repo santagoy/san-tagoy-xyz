@@ -48,7 +48,7 @@ Outside of combat, resolution is done with 1d20. During combat, use 2d6. Roll 2d
 |       4--5       |  Torso   |
 |        6         |   Head   |
 
-Once the combined total of damage taken is 5 or greater, the target is taken out of combat. They need medical intervention in order to survive.
+Once the combined total of damage taken is 5 or greater, the target is out of combat. They need medical intervention to survive.
 
 Should damage in any of the hit locations reach 5 or greater, consult the following:
 
@@ -100,7 +100,7 @@ Roll with Advantage against still targets our of cover. If you have Disadvantage
 
 If shooting while moving, roll with Disadvantage.
 
-If you forego shooting while in cover and do not aim, you are considered hunkered down and out of line of sight.
+If you forego shooting while in cover and don't aim, you are considered hunkered down and out of line of sight.
 
 ### Melee
 
