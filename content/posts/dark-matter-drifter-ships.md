@@ -29,6 +29,10 @@ These rules cover small craft like light freighters, gunboats and pleasure yacht
 
 Other than shuttles and other short-range craft, most ships are outfitted with a gate core. A gate core enables a ship to jump to gatespace and travel many times the speed of light. A ship can only enter or leave gatespace a significant distance from worlds or other large bodies.
 
+You can acquire multiple ships during your terms in [Character Creation](Firefly-esque%20Lifepaths.md) or even during play. If you have enough to crew the ship, they can pledge their loyalty to you and fly under your pennant. They're now part of your fleet and provide a portion of their earnings to you. The profits being 1d100 x 100 per yearly quarter.
+
+Should you have more than one ship and not have enough to crew the ship, you can sell it, the remainder of the debt subtracted from the total selling price. Alternatively, you may store the ship in a hangar, paying for storage costs (1000 nucs) quarterly.
+
 ## Ship Components
 
 All measured from 1 to 6.
