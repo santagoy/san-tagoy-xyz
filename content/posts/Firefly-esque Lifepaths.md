@@ -103,8 +103,6 @@ Whenever you end a term, Muster Out and roll once on either the Benefits Table o
 
 #### Benefits Table
 
-Each Benefit per Service can only be acquired once. If you roll on the same one, even on another service, re-roll for a different one.
-
 ````tabs
 ---
 id: skills-table
@@ -148,10 +146,10 @@ name: '**OUTLAW**'
 | :-----: | :-----------------------------: |
 |    1    |        1d4 land vehicles        |
 |    2    |   +1 to next enrollment rolls   |
-|    3    |      jury-rigged attack AV      |
+|    3    |      1d6 devoted followers      |
 |    4    |      2 Skills Table rolls       |
-|    5    |      1d6 devoted followers      |
-|    6    | ship worth 150k or less, stolen |
+|    5    |  stolen cargo worth 1d100*1000  |
+|    6    | ship worth 200k or less, stolen |
 ```
 ```tab
 ---
@@ -180,7 +178,7 @@ name: '**SOLDIER**'
 |    2    |        additional 1d6 Luck        |
 |    3    |        2 Cash Table rolls         |
 |    4    |       2 Skills Table rolls        |
-|    5    | ship worth 150k or less, 50% paid |
+|    5    | ship worth 200k or less, 50% paid |
 |    6    |       1d4 loyal companions        |
 ```
 ```tab
@@ -195,7 +193,7 @@ name: '**TRADESMAN**'
 |    3    |      frontier colony shares†      |
 |    4    |       1d4 loyal apprentices       |
 |    5    |        2 Cash Table Rolls         |
-|    6    | ship worth 150k or less, 50% paid |
+|    6    | ship worth 200k or less, 50% paid |
 
 † Quarterly stipend worth 1d10 x 1000 nucs.
 ```
@@ -438,16 +436,16 @@ Once you retire, roll for a Boon. Your social status determines your starting Bo
 
 Roll or choose from below.
 
-| **1d8** | **Boons**                                          |
-| :-----: | -------------------------------------------------- |
-|    1    | roll on the Skills Table under Tradesman           |
-|    2    | gain Athletics or Shooting                         |
-|    3    | gain Fisticuffs or Weapon Fighting                 |
-|    4    | start with reactive armor or a vacc suit           |
-|    5    | start with a gun or a medical kit                  |
-|    6    | carry valuable cargo worth 1d100 x 100             |
-|    7    | inherit 5d12 x 10 credits                          |
-|    8    | inherit a ship worth 200000nc or less without debt |
+| **1d8** | **Boons**                                      |
+| :-----: | ---------------------------------------------- |
+|    1    | roll on the Skills Table under Tradesman       |
+|    2    | gain Athletics or Shooting                     |
+|    3    | gain Fisticuffs or Weapon Fighting             |
+|    4    | start with reactive armor or a vacc suit       |
+|    5    | start with a gun or a medical kit              |
+|    6    | carry valuable cargo worth 1d100 x 100         |
+|    7    | inherit 5d12 x 10 credits                      |
+|    8    | inherit a ship worth 300k or less without debt |
 
 ## Starting Inventory
 
