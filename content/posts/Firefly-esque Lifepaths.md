@@ -103,6 +103,8 @@ Whenever you end a term, Muster Out and roll once on either the Benefits Table o
 
 #### Benefits Table
 
+Each Benefit per Service can only be acquired once. If you roll on the same one, even on another service, re-roll for a different one.
+
 ````tabs
 ---
 id: skills-table
