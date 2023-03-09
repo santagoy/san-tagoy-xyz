@@ -35,7 +35,7 @@ Combat is divided into rounds. Each round being a flash of time. Each character 
 2. Melee
 3. Miscellaneous
 
-Talking is indeed a free action, but verbosity consumes an action. Players may decide their action as each actions are called out and resolved. All characters commiting to the same action perform it simultaneously.
+Talking is a free action, but verbosity consumes an action. Players may decide their action as each actions are called out and resolved. All characters committing to the same action perform it simultaneously.
 
 ## Attacks and Damage
 
