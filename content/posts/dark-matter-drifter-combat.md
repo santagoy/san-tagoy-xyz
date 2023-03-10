@@ -98,7 +98,7 @@ Weapons that add to damage must roll +1d6 after the attack hits.
 
 Roll with Disadvantage against moving targets or those in cover. If you have Advantage due to range bonuses, roll normally.
 
-Roll with Advantage against still targets our of cover. If you have Disadvantage against those same targets due to range penalties, roll normally.
+Roll with Advantage against stationary targets out of cover. If you have Disadvantage against those same targets due to range penalties, roll normally.
 
 If shooting while moving, roll with Disadvantage.
 
