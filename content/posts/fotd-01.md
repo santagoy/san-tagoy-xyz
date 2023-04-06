@@ -4,10 +4,10 @@ date: 2023-04-07
 linktitle: Found on the Road! No. 01
 menu:
   main:
-    parent:
+    parent: null
 title: Found on the Road! No. 01
 summary: |
-  A rundown of interesting things I've found new and old!
+  A rundown of interesting things I've found, new and old!
 categories:
   - newsletter
 tags:
@@ -17,6 +17,7 @@ tags:
   - content
 images:
   - /images/fotd-1/feature.jpg
+lastmod: 2023-04-06T20:21:03.870Z
 ---
 
 On my road to better writing, I find things along the way that pique my interest. This may or may not be adjacent to writing or Tabletop RPGs. Honestly, I realized that I've been a tad self-centered on this blog, only making stuff I like and highlighting no one else's cool works. That changes now.
@@ -48,7 +49,7 @@ For those aware of the tech, yes, they still exist. For those unaware, this was 
 
 The primary utility of BBS is a form of decentralization away from corporate-controlled social media. Every BBS is an island interconnected through something called Fidonet and a form of Internet Relay Chat. The novelty hasn't worn off for me. I don't think it shall. I really love the format. It's unabashedly personal.
 
-If you want to know how to access different bulletin boards, just reach out to met at contact@san-tagoy.xyz. It's a little unusual and not within the scope of this article to describe.
+If you want to know how to access different bulletin boards, just reach out to me at contact@san-tagoy.xyz. It's a little unusual and not within the scope of this article to describe.
 
 ### [Fortles, Adventure Journal](https://nerves.store/products/fortles-adventure-journal)
 
