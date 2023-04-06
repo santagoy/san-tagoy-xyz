@@ -2,6 +2,7 @@
 # Update to your own settings for URL/title
 baseURL: https://san-tagoy.xyz/
 title:
+timeZone: Asia/Manila
 # Google Analytics: uncomment and replace with your own code if you want to use this
 # googleAnalytics: G-123ABC456D
 
@@ -50,8 +51,6 @@ params:
   # Use this for the social media preview functionality
   images:
     - /images/feature.png
-
-  timeZone: UTC+8 Local PH
   #   # (Optional, default light) Sets color theme: light, dark or auto.
   #   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   #   # BookTheme: "purple"
