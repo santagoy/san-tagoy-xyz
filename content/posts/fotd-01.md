@@ -17,7 +17,7 @@ tags:
   - content
 images:
   - /images/fotd-1/feature.jpg
-lastmod: 2023-04-06T20:21:03.870Z
+lastmod: 2023-04-06T20:26:50.500Z
 ---
 
 On my road to better writing, I find things along the way that pique my interest. This may or may not be adjacent to writing or Tabletop RPGs. Honestly, I realized that I've been a tad self-centered on this blog, only making stuff I like and highlighting no one else's cool works. That changes now.
@@ -103,3 +103,20 @@ That's also a neat cover. I wonder what it would look like if the moon glows in 
 I like analog and retro things. Many of my interests are in need of preservation as art and tech mesh together into a homogeneous blob. I'll always be on the lookout for interesting things that deserve attention. If you have anything you'd like to share with me, reach out through my email contact@san-tagoy.xyz.
 
 Thank you and watch out for more things I'll find on the road!
+
+---
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/san_tagoy"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/san_tagoy', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Subscribe to my newsletter</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="I'd love to!" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
