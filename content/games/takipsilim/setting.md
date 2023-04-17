@@ -3,7 +3,10 @@ title: Setting Guide
 summary: The state of the Archipelago
 bookCollapseSection: false
 weight: 10
-lastmod: 2023-04-17T07:12:50.189Z
+title_as_heading: true
+images:
+  - /images/takipsilim/feature.jpg
+lastmod: 2023-04-17T08:04:25.507Z
 ---
 
 ## The Archipelago

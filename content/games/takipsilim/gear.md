@@ -3,7 +3,10 @@ title: Gear List
 summary: A non-comprehensive list of gear
 bookCollapseSection: false
 weight: 30
-lastmod: 2023-04-17T07:13:39.249Z
+title_as_heading: true
+images:
+  - /images/takipsilim/feature.jpg
+lastmod: 2023-04-17T08:04:11.647Z
 ---
 
 ## Gear

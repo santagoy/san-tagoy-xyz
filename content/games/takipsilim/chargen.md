@@ -3,7 +3,10 @@ title: Character Creation
 summary: Creating your survivor
 bookCollapseSection: false
 weight: 20
-lastmod: 2023-04-17T07:15:27.254Z
+title_as_heading: true
+images:
+  - /images/takipsilim/feature.jpg
+lastmod: 2023-04-17T08:04:06.880Z
 ---
 
 ## Assumptions
