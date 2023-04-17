@@ -1,11 +1,15 @@
 ---
 title: Takipsilim
 date: 2023-04-17
-summary: A dark game about my world in ruin after war.
+summary: |
+  A dark game about my world in ruin after war.
+title_as_heading: true
+images:
+  - /images/takipsilim/feature.jpg
 platen:
   menu:
     collapse_section: true
-lastmod: 2023-04-17T06:49:48.387Z
+lastmod: 2023-04-17T08:01:03.830Z
 ---
 
 ## Assumptions
