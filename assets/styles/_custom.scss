@@ -1011,15 +1011,19 @@ figure.platen-art {
 
   &.half {
     width: 50%;
-    margin: 2px auto;
+    margin: 8px auto;
   }
   &.third {
     width: 33%;
-    margin: 2px auto;
+    margin: 8px auto;
   }
   &.quarter {
     width: 25%;
-    margin: 2px auto;
+    margin: 8px auto;
+  }
+  &.three-fourths {
+    width: 75%;
+    margin: 8px auto;
   }
 }
 .hero {
