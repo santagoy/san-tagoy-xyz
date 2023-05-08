@@ -20,7 +20,7 @@ tags:
   - horselords
 images:
   - /images/thundering-steps/feature.jpg
-lastmod: 2023-05-05T14:48:27.335Z
+lastmod: 2023-05-08T12:50:21.585Z
 ---
 
 These are just rules. I didn't want to bother with elaborate prose for most of it. Thanks to Chasing a Blaze in a Northern Sky for the gear list. I edited it for the setting.
@@ -46,6 +46,7 @@ Honestly, this thing is a whole hodgepodge of rules from different sources. I'm 
   - 6 quick slots, can be pulled at a moment's notice.
   - 8 rucksack slots, takes at least 5 seconds or 1d2 rounds in combat to procure
 - Start with 2d4 x 100 hacksilver to purchase your equipment
+- You begin with a mix of 1d4+1 riding and hunting horses
 - 50% chance that you start knowing 2 Words of Power, an action and an object.
 
 ![art:Turkish archers shooting elevated targets for sport](/images/thundering-steps/characters.jpg)
