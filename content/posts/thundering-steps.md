@@ -20,7 +20,7 @@ tags:
   - horselords
 images:
   - /images/thundering-steps/feature.jpg
-lastmod: 2023-05-08T12:50:21.585Z
+lastmod: 2023-05-08T13:31:55.947Z
 ---
 
 These are just rules. I didn't want to bother with elaborate prose for most of it. Thanks to Chasing a Blaze in a Northern Sky for the gear list. I edited it for the setting.
@@ -107,7 +107,7 @@ Range is divided in thirds. The target to hit depending on the range between the
 
 If you break line of sight with the enemy or are within 3" of them (in melee), they cannot shoot you.
 
-Missiles deal 3d6 in damage during skirmishes. Arquebuses, 4d6.
+Missiles deal 2d6+3 in damage during skirmishes. Arquebuses, 4d6.
 
 Finally, spending a whole round to aim grants a +1 to your attack roll next round.
 
