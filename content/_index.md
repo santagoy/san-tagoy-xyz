@@ -3,13 +3,15 @@ title: Road to Better Writing
 platen:
   table_of_contents:
     render: false
+lastmod: 2023-06-14T22:59:20.047Z
 ---
 
 # Road to Better Writing
 
 ---
 
-## Marketing is insidious, which is why I made this site: partly for marketing myself.
+Marketing is insidious, which is why I made this site: partly for marketing myself.
+{ .hero }
 
 I write things that are hopefully useful for people in the hobby. You can find my random entries in [**BLOG POSTS**](posts/_index.md).
 
