@@ -13,7 +13,9 @@ categories:
   - writing
 tags:
   - new
-lastmod: 2023-06-20T10:44:40.688Z
+images:
+  - /images/sun-shadow/feature.jpg
+lastmod: 2023-06-20T11:05:23.706Z
 ---
 
 ```plaintext
