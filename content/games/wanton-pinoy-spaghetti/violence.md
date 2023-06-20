@@ -3,6 +3,7 @@ title: Violence
 summary: How to adjudicate violence in Wanton Pinoy Spaghetti
 bookCollapseSection: false
 weight: 30
+lastmod: 2023-06-20T13:58:58.718Z
 ---
 
 # Violence
@@ -87,11 +88,11 @@ After 3 days upon receiving Injuries, you may move around and act in a debilitat
 
 ## Enemy Morale
 
-Assign a moral rating to a general group of enemies from 3 to 9. The higher, the less likely to rout.
+Assign a morale rating to a general group of enemies from 3 to 9. The higher, the less likely to rout.
 
-Each enemy has a morale value. Roll 2d6 when
+Roll 2d6 when their
 
-- their leader is shot
+- leader is shot
 
 - numbers are halved
 
