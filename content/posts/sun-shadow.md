@@ -15,7 +15,7 @@ tags:
   - new
 images:
   - /images/sun-shadow/feature.jpg
-lastmod: 2023-06-20T11:05:23.706Z
+lastmod: 2023-06-28T21:20:13.558Z
 ---
 
 ```plaintext
