@@ -14,6 +14,8 @@ github.com/platenio/platen/modules/platen v0.0.0-20230511124905-dabd5d9d72ab h1:
 github.com/platenio/platen/modules/platen v0.0.0-20230511124905-dabd5d9d72ab/go.mod h1:7pfizXCKb4vonp6Og/3zkoy09YYsHip9/hXiT/pc3IM=
 github.com/platenio/platen/modules/platen v0.0.0-20230614143927-dd048e2da196 h1:rSOUejTdKH6VGNCMFn2ti9MhGOcFj+PvnDuYibJoakk=
 github.com/platenio/platen/modules/platen v0.0.0-20230614143927-dd048e2da196/go.mod h1:7pfizXCKb4vonp6Og/3zkoy09YYsHip9/hXiT/pc3IM=
+github.com/platenio/platen/modules/platen v0.0.0-20231124141037-5a875309774c h1:ftQLeFf3erlZrGq/3RGkwglSBT/sq9Xz8tYfi14LQdM=
+github.com/platenio/platen/modules/platen v0.0.0-20231124141037-5a875309774c/go.mod h1:7pfizXCKb4vonp6Og/3zkoy09YYsHip9/hXiT/pc3IM=
 github.com/platenio/platen/modules/toroidal v0.0.0-20230201010936-058d7b1f175e h1:nr/q5Fn408rbXayP2UikakkQE967u8VISk1lZlWMljo=
 github.com/platenio/platen/modules/toroidal v0.0.0-20230201010936-058d7b1f175e/go.mod h1:Tc9y5sVo05z2bXgJihfvi5vo8C382WhJLJYM4G8ziq4=
 github.com/platenio/platen/modules/toroidal v0.0.0-20230206190051-ee754716b31e h1:99dKiJSngDV+1rCmdDJfPq9FNRBLGb6BpKo1LNLBC88=
@@ -30,3 +32,5 @@ github.com/platenio/platen/modules/toroidal v0.0.0-20230511124905-dabd5d9d72ab h
 github.com/platenio/platen/modules/toroidal v0.0.0-20230511124905-dabd5d9d72ab/go.mod h1:Tc9y5sVo05z2bXgJihfvi5vo8C382WhJLJYM4G8ziq4=
 github.com/platenio/platen/modules/toroidal v0.0.0-20230614143927-dd048e2da196 h1:GmF051o4IPlv0qSLhegFmhKz0WC4CqlBALO4jw0+2i0=
 github.com/platenio/platen/modules/toroidal v0.0.0-20230614143927-dd048e2da196/go.mod h1:Tc9y5sVo05z2bXgJihfvi5vo8C382WhJLJYM4G8ziq4=
+github.com/platenio/platen/modules/toroidal v0.0.0-20231124141037-5a875309774c h1:eUZ38CM7561/O/xMOCfskOGAOootbaru/+Lal6ArYm4=
+github.com/platenio/platen/modules/toroidal v0.0.0-20231124141037-5a875309774c/go.mod h1:Tc9y5sVo05z2bXgJihfvi5vo8C382WhJLJYM4G8ziq4=
